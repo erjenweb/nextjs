@@ -9,9 +9,9 @@ import baseUrl from "@/lib/baseUrl";
 async function Home() {
 
 
-  const res = await fetch(`${baseUrl}/api/fetch/product/list`);
+    const res = await fetch(`${baseUrl}/api/fetch/product/list`);
 
-  const cars = await res.json();
+    const cars = await res.json();
 
   return (
     <>
