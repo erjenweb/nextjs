@@ -1,0 +1,4145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://eigenwebsite.dv.nl/docs/2.24/vehicle.xsd" action="add" version="2.24">
+	<ideRntification.vehiclenr_hexon>47660936</identification.vehiclenr_hexon>
+	<identification.vehiclenr>4229802</identification.vehiclenr>
+	<identification.vehiclenr_client>4229802</identification.vehiclenr_client>
+	<identification.hexon_id>1816107b-16d0-4897-becb-d7e218f50a29</identification.hexon_id>
+	<identification.client_id>95500</identification.client_id>
+	<history.creation_date>14-09-2025</history.creation_date>
+	<identification.license_plate/>
+	<general.make.name>BMW</general.make.name>
+	<general.model.name>3 Serie</general.model.name>
+	<general.type.name>Touring 330e Hybride M-Sport | Laser Led|NW mod!</general.type.name>
+	<general.type.trim_level/>
+	<general.title_addition/>
+	<general.make.name_orig>BMW</general.make.name_orig>
+	<general.model.name_orig>3-serie Touring</general.model.name_orig>
+	<general.type.name_orig>330e Hybride M-Sport | Laser Led|NW mod!</general.type.name_orig>
+	<general.model.old_model/>
+	<general.model.year/>
+	<general.category>AUTO</general.category>
+	<general.bodystyle.name>Estate</general.bodystyle.name>
+	<general.bodystyle.name_orig>Station</general.bodystyle.name_orig>
+	<body.door_count>5</body.door_count>
+	<condition.odometer.reading unit="K">93612</condition.odometer.reading>
+	<region_specific.nl.rdw_tellerrapport_url/>
+	<powertrain.engine.energy.type>Electric + Petrol</powertrain.engine.energy.type>
+	<powertrain.transmission.type>automatic</powertrain.transmission.type>
+	<powertrain.transmission.gear_count/>
+	<sales_conditions.margin_scheme>V</sales_conditions.margin_scheme>
+	<condition.used>y</condition.used>
+	<body.colour.tint/>
+	<body.colour.name_nl>Black Sapphire Metallic</body.colour.name_nl>
+	<body.colour.name_en/>
+	<body.colour.name_de/>
+	<body.colour.name_fr/>
+	<body.colour.name_es/>
+	<body.colour.name_pt/>
+	<body.colour.name_it/>
+	<body.colour.name_el/>
+	<body.colour.name_ru/>
+	<body.colour.name_ro/>
+	<body.colour.name_hu/>
+	<body.colour.name_pl/>
+	<body.colour.name_cz/>
+	<body.colour.name_bg/>
+	<body.colour.name_hr/>
+	<body.colour.name_dk/>
+	<body.colour.name_sk/>
+	<body.colour.name_tr/>
+	<body.colour.name_fi/>
+	<body.colour.name_se/>
+	<body.colour.name_no/>
+	<body.colour.primary>black</body.colour.primary>
+	<body.colour.paint_type>metallic</body.colour.paint_type>
+	<history.construction_date/>
+	<region_specific.nl.build_year>2023</region_specific.nl.build_year>
+	<history.first_registration.date>01-01-2023</history.first_registration.date>
+	<history.current_registration.first_admission/>
+	<history.date_last_ownership_change/>
+	<sales_conditions.pricing.consumer>
+		<prices country="nl">
+			<price nr="1">
+				<amount>38950</amount>
+				<currency>EUR</currency>
+				<vat>in</vat>
+				<vat_percentage/>
+				<bpm>y</bpm>
+			</price>
+		</prices>
+	</sales_conditions.pricing.consumer>
+	<sales_conditions.pricing.discounted>
+		<prices/>
+	</sales_conditions.pricing.discounted>
+	<sales_conditions.pricing.trade>
+		<prices/>
+	</sales_conditions.pricing.trade>
+	<auction/>
+	<sales_conditions.resale_allowed/>
+	<powertrain.engine.hybrid.type_hybrid/>
+	<powertrain.engine.hybrid.hybrid_drivetrain/>
+	<powertrain.engine.hybrid.plugin_hybrid/>
+	<powertrain.engine.energy.electricity.battery.present/>
+	<powertrain.engine.energy.electricity.battery.type/>
+	<powertrain.engine.energy.electricity.battery.charging_power/>
+	<powertrain.engine.energy.electricity.battery.fast_charging_power/>
+	<powertrain.engine.energy.electricity.battery.charging_time/>
+	<powertrain.engine.energy.electricity.battery.fast_charging_time/>
+	<powertrain.engine.energy.electricity.battery.charging_speed/>
+	<powertrain.engine.energy.electricity.battery.fast_charging_speed/>
+	<powertrain.engine.energy.electricity.battery.condition/>
+	<powertrain.engine.energy.electricity.battery.number_of_phases_charger/>
+	<powertrain.engine.energy.electricity.battery.charging_connector/>
+	<powertrain.engine.energy.electricity.battery.fast_charging_connector/>
+	<powertrain.engine.energy.electricity.battery.suitable_for_fast_charging/>
+	<region_specific.nl.apk until="29-01-2026" at_delivery=""></region_specific.nl.apk>
+	<region_specific.de.au_date/>
+	<region_specific.de.hu_date/>
+	<region_specific.de.co2_class/>
+	<region_specific.de.co2_class_discharged/>
+	<region_specific.de.co2_costs.average/>
+	<region_specific.de.co2_costs.low/>
+	<region_specific.de.co2_costs.high/>
+	<region_specific.de.energy_costs/>
+	<weights.mass_empty>1800</weights.mass_empty>
+	<weights.trailer_load.braked/>
+	<powertrain.engine.cylinder_count>4</powertrain.engine.cylinder_count>
+	<powertrain.engine.displacement>1998</powertrain.engine.displacement>
+	<powertrain.engine.power.kw>215</powertrain.engine.power.kw>
+	<powertrain.engine.power.pk>292</powertrain.engine.power.pk>
+	<powertrain.engine.power.fuel.kw/>
+	<powertrain.engine.power.fuel.pk/>
+	<powertrain.engine.power.electric.kw/>
+	<powertrain.engine.power.electric.pk/>
+	<powertrain.engine.torque.combined/>
+	<powertrain.engine.torque.electric/>
+	<powertrain.engine.torque.fuel/>
+	<body.coupling_device/>
+	<powertrain.drive_method/>
+	<region_specific.fr.fiscal_power/>
+	<region_specific.be.fiscal_power/>
+	<weights.maximum_allowed_mass/>
+	<interior.seat_count>5</interior.seat_count>
+	<region_specific.nl.bpm_amount/>
+	<region_specific.nl.rest_bpm_amount/>
+	<interior.colour.name>zwart</interior.colour.name>
+	<interior.colour.base>black</interior.colour.base>
+	<interior.upholstery.name>leather/alcantara</interior.upholstery.name>
+	<interior.steering_wheel_position/>
+	<condition.key_count>2</condition.key_count>
+	<condition.hand_transmitter_count/>
+	<condition.code_pass_key/>
+	<region_specific.nl.nap_weblabel>n</region_specific.nl.nap_weblabel>
+	<region_specific.be.car_pass/>
+	<region_specific.be.car_pass_url/>
+	<history.maintenance_booklet>present</history.maintenance_booklet>
+	<identification.location/>
+	<sales_conditions.pricing.as_is>
+		<prices/>
+	</sales_conditions.pricing.as_is>
+	<sales_conditions.pricing.procurement/>
+	<sales_conditions.bidding.minimum/>
+	<sales_conditions.bidding.reserve/>
+	<condition.damage.repair_costs/>
+	<sales_conditions.pricing.estimated_value/>
+	<sales_conditions.delivery_costs/>
+	<powertrain.engine.energy.fuel.consumption.estimated.combined>1.5</powertrain.engine.energy.fuel.consumption.estimated.combined>
+	<powertrain.engine.energy.fuel.consumption.nedc.combined/>
+	<powertrain.engine.energy.fuel.consumption.wltp.combined/>
+	<powertrain.engine.energy.fuel.consumption.wltp.combined_weighted/>
+	<powertrain.engine.energy.fuel.consumption.wltp.combined_discharged/>
+	<classification.damaged_vehicle>n</classification.damaged_vehicle>
+	<classification.consignment/>
+	<classification.demonstrator/>
+	<powertrain.axles.wheelbase/>
+	<weights.payload/>
+	<weights.gvw/>
+	<powertrain.tyres.width/>
+	<powertrain.tyres.height/>
+	<powertrain.axles.count>2</powertrain.axles.count>
+	<powertrain.turning_circle/>
+	<body.dimensions.length/>
+	<body.dimensions.width/>
+	<body.dimensions.height/>
+	<identification.vin/>
+	<powertrain.emissions.class/>
+	<powertrain.emissions.energy_label/>
+	<region_specific.de.environmental_badge/>
+	<region_specific.fr.environmental_badge/>
+	<category_specific.machinery.autonomous/>
+	<category_specific.machinery.transportation.propulsion.independently/>
+	<category_specific.machinery.transportation.surfaces/>
+	<category_specific.machinery.transportation.methods/>
+	<category_specific.machinery.mobile>y</category_specific.machinery.mobile>
+	<category_specific.machinery.transportation.driver_position/>
+	<category_specific.machinery.generator_power/>
+	<category_specific.machinery.compressor_type/>
+	<category_specific.machinery.throughput_capacity/>
+	<category_specific.machinery.max_reach/>
+	<category_specific.machinery.voltage_rating/>
+	<category_specific.machinery.mast.length/>
+	<category_specific.machinery.jib_length/>
+	<category_specific.machinery.track_width/>
+	<category_specific.machinery.bucket_capacity/>
+	<superstructure.temperature_control.temperature.min/>
+	<superstructure.temperature_control.temperature.max/>
+	<general.application.materials/>
+	<general.application.fields/>
+	<general.application.scales/>
+	<classification.ce_marking/>
+	<condition.state.general/>
+	<condition.state.technical/>
+	<condition.state.optical/>
+	<condition.state.interior/>
+	<category_specific.boats.depth/>
+	<category_specific.boats.hull_material/>
+	<category_specific.boats.berth/>
+	<interior.standing_places_count/>
+	<powertrain.engine.make/>
+	<powertrain.engine.model/>
+	<history.first_registration.country>??</history.first_registration.country>
+	<powertrain.engine.drivetrain>motor</powertrain.engine.drivetrain>
+	<sales_conditions.pricing.new.calculated/>
+	<category_specific.machinery.working_width/>
+	<category_specific.machinery.working_height/>
+	<category_specific.machinery.lifting_height/>
+	<category_specific.machinery.freelift/>
+	<category_specific.machinery.lifting_capacity/>
+	<powertrain.wheels.count/>
+	<category_specific.machinery.number_of_valves/>
+	<category_specific.machinery.mast.type/>
+	<category_specific.machinery.mast.stage_count/>
+	<category_specific.machinery.transportation.propulsion></category_specific.machinery.transportation.propulsion>
+	<chassis.type/>
+	<chassis.steering/>
+	<category_specific.bicycles.user/>
+	<identification.typenumber/>
+	<general.model.start/>
+	<general.model.end/>
+	<general.model.code>G21</general.model.code>
+	<category_specific.machinery.forks.length/>
+	<category_specific.machinery.forks.width/>
+	<category_specific.machinery.load_center_of_gravity/>
+	<powertrain.engine.energy.electricity.battery.capacity/>
+	<powertrain.engine.energy.electricity.battery.voltage/>
+	<powertrain.engine.energy.electricity.battery.year/>
+	<powertrain.engine.energy.electricity.battery.month/>
+	<powertrain.engine.energy.electricity.battery.make/>
+	<category_specific.machinery.pump_connection_size/>
+	<category_specific.attachments.fits/>
+	<category_specific.attachments.hoist_connection/>
+	<category_specific.machinery.quick_coupler/>
+	<category_specific.machinery.pantograph/>
+	<category_specific.machinery.crusher_type/>
+	<category_specific.machinery.roller.vibrating/>
+	<category_specific.machinery.roller.surface/>
+	<identification.serialnumber/>
+	<sales_conditions.pricing.type>fixed_price</sales_conditions.pricing.type>
+	<sales_conditions.bidding.allowed>n</sales_conditions.bidding.allowed>
+	<classification.oldtimer>n</classification.oldtimer>
+	<partsuitablefor/>
+	<identification.external_sources.ktype/>
+	<category_specific.bicycles.gearing/>
+	<category_specific.trucks.transmission></category_specific.trucks.transmission>
+	<category_specific.machinery.powershuttle/>
+	<powertrain.transmission.synchronised_transmission/>
+	<powertrain.transmission.transmission_groups/>
+	<category_specific.machinery.mower_type/>
+	<category_specific.machinery.number_of_plowshares/>
+	<powertrain.tyres.season/>
+	<category_specific.parts.intended_position.longitude/>
+	<category_specific.parts.intended_position.latitude/>
+	<powertrain.engine.energy.fuel.octane_rating/>
+	<powertrain.engine.energy.fuel.e10_suitable/>
+	<category_specific.bicycles.frame_height/>
+	<general.maximum_headroom/>
+	<lease_contracts/>
+	<powertrain.axles>
+		<powertrain.axle nr="1">
+			<position>front</position>
+			<make_type/>
+			<max_load/>
+			<tyre_size/>
+			<tread_width/>
+			<tyre_height/>
+			<rim_size/>
+			<load_index/>
+			<speed_index/>
+			<powered>n</powered>
+			<lift_axle/>
+			<twin_wheels/>
+			<steering/>
+			<differential_lock/>
+			<alloy_wheels/>
+			<tyre_condition_perc/>
+			<tyre_condition_mm/>
+			<reduction/>
+			<brakes/>
+			<suspension/>
+		</powertrain.axle>
+		<powertrain.axle nr="2">
+			<position>rear</position>
+			<make_type/>
+			<max_load/>
+			<tyre_size/>
+			<tread_width/>
+			<tyre_height/>
+			<rim_size/>
+			<load_index/>
+			<speed_index/>
+			<powered>y</powered>
+			<lift_axle/>
+			<twin_wheels/>
+			<steering/>
+			<differential_lock/>
+			<alloy_wheels/>
+			<tyre_condition_perc/>
+			<tyre_condition_mm/>
+			<reduction/>
+			<brakes/>
+			<suspension/>
+		</powertrain.axle>
+	</powertrain.axles>
+	<powertrain.axles_svg/>
+	<sales_conditions.pricing.new/>
+	<sales_conditions.pricing.net_listing_price/>
+	<sales_conditions.pricing.fiscal_value/>
+	<region_specific.nl.income_tax_addition_percentage/>
+	<history.sold_date/>
+	<sales_conditions.warranty.dealer.label/>
+	<superstructure.dimensions.extended></superstructure.dimensions.extended>
+	<superstructure.dimensions.heightened></superstructure.dimensions.heightened>
+	<powertrain.axles.powered_axles_count>1</powertrain.axles.powered_axles_count>
+	<condition.operating_hours/>
+	<category_specific.trailers.braked/>
+	<history.arrival_date/>
+	<classification.rental/>
+	<classification.classic/>
+	<history.previous_owner_count>1</history.previous_owner_count>
+	<maintenancerecords/>
+	<history.maintained_according_to_instructions/>
+	<deliverypackages>
+		<deliverypackage order="1">
+			<name>Autotrust garantie</name>
+			<description>Zorgeloos rijden in heel Europa? Autotrust Garantie! Wil jij zonder zorgen genieten van je nieuwe auto? Dat kan met een passende garantie. In samenwerking met Autotrust bieden wij verschillende mogelijkheden voor garantie aan. Niet alle auto&amp;rsquo;s zijn gelijk. Daarom zijn de garanties van Autotrust gebaseerd op de leeftijd en kilometerstand bij aflevering van de auto. Kies voor een garantie die past bij jouw auto: Instap &amp;ndash; de meest gekozen garantie voor auto&amp;rsquo;s niet ouder dan 12 jaar en met minder dan 200.000 km. Uitgebreid &amp;ndash; de meest gekozen garantie voor auto&amp;rsquo;s tot 8 jaar en 150.000 km. Is er iets mis met uw auto? Dan kunt u dit eenvoudig melden via het claimportal van Autotrust. Kies vervolgens voor een garage bij u in de buurt voor reparatie. Zo heeft u altijd garantie dichtbij huis &amp;eacute;n in Europa. </description>
+			<content>
+				<element>Autotrust garantie</element>
+			</content>
+			<price>
+				<price nr="">
+					<amount>0</amount>
+					<currency>EUR</currency>
+					<vat>in</vat>
+					<vat_percentage>21</vat_percentage>
+					<bpm/>
+				</price>
+				<price nr="">
+					<amount>0</amount>
+					<currency>EUR</currency>
+					<vat>ex</vat>
+					<vat_percentage>21</vat_percentage>
+					<bpm/>
+				</price>
+			</price>
+			<price_rel>
+				<price nr="">
+					<amount>0</amount>
+					<currency>EUR</currency>
+					<vat>in</vat>
+					<vat_percentage>21</vat_percentage>
+					<bpm/>
+				</price>
+				<price nr="">
+					<amount>0</amount>
+					<currency>EUR</currency>
+					<vat>ex</vat>
+					<vat_percentage>21</vat_percentage>
+					<bpm/>
+				</price>
+			</price_rel>
+			<accessories/>
+			<apk_delivery>n</apk_delivery>
+			<warranty_remarks></warranty_remarks>
+			<warranties>
+				<makewarranty/>
+				<warrantylabels>
+					<sales_conditions.warranty nr="">
+						<name>Autotrust garantie</name>
+						<months/>
+						<type>branch</type>
+						<id>48</id>
+					</sales_conditions.warranty>
+				</warrantylabels>
+				<bovag_40puntencheck>n</bovag_40puntencheck>
+				<bovag_afleverbeurt>n</bovag_afleverbeurt>
+				<additional_warranty/>
+				<remarks></remarks>
+			</warranties>
+		</deliverypackage>
+	</deliverypackages>
+	<deliverypackage_applied/>
+	<interior.berth_count/>
+	<interior.bed_count/>
+	<chassis.make/>
+	<chassis.model/>
+	<history.current_registration.reporting_code/>
+	<history.current_registration.country>nl</history.current_registration.country>
+	<powertrain.topspeed>230</powertrain.topspeed>
+	<powertrain.engine.energy.fuel.tank_capacity/>
+	<powertrain.engine.energy.range.total.estimated.combined/>
+	<powertrain.engine.energy.range.electric.estimated.combined/>
+	<powertrain.engine.energy.range.fuel/>
+	<powertrain.engine.energy.range.electric.nedc.combined/>
+	<powertrain.engine.energy.range.electric.nedc.extra_urban/>
+	<powertrain.engine.energy.range.electric.nedc.urban/>
+	<powertrain.engine.energy.range.electric.wltp.combined/>
+	<powertrain.engine.energy.range.electric.wltp.combined_eaer/>
+	<powertrain.engine.energy.range.electric.wltp.low/>
+	<powertrain.engine.energy.range.electric.wltp.medium/>
+	<powertrain.engine.energy.range.electric.wltp.high/>
+	<powertrain.engine.energy.range.electric.wltp.extrahigh/>
+	<weights.trailer_load.unbraked/>
+	<powertrain.acceleration/>
+	<body.max_roof_load/>
+	<category_specific.cars.boot_capacity.seats_down/>
+	<powertrain.engine.energy.fuel.consumption.estimated.urban/>
+	<powertrain.engine.energy.fuel.consumption.estimated.extra_urban/>
+	<powertrain.engine.energy.fuel.consumption.nedc.urban/>
+	<powertrain.engine.energy.fuel.consumption.nedc.extra_urban/>
+	<powertrain.engine.energy.fuel.consumption.wltp.low/>
+	<powertrain.engine.energy.fuel.consumption.wltp.low_discharged/>
+	<powertrain.engine.energy.fuel.consumption.wltp.medium/>
+	<powertrain.engine.energy.fuel.consumption.wltp.medium_discharged/>
+	<powertrain.engine.energy.fuel.consumption.wltp.high/>
+	<powertrain.engine.energy.fuel.consumption.wltp.high_discharged/>
+	<powertrain.engine.energy.fuel.consumption.wltp.extrahigh/>
+	<powertrain.engine.energy.fuel.consumption.wltp.extrahigh_discharged/>
+	<powertrain.engine.energy.electricity.consumption.estimated.combined/>
+	<powertrain.engine.energy.electricity.consumption.estimated.extra_urban/>
+	<powertrain.engine.energy.electricity.consumption.estimated.urban/>
+	<powertrain.engine.energy.electricity.consumption.nedc.combined/>
+	<powertrain.engine.energy.electricity.consumption.nedc.extra_urban/>
+	<powertrain.engine.energy.electricity.consumption.nedc.urban/>
+	<powertrain.engine.energy.electricity.consumption.wltp.combined/>
+	<powertrain.engine.energy.electricity.consumption.wltp.combined_weighted/>
+	<powertrain.engine.energy.electricity.consumption.wltp.low/>
+	<powertrain.engine.energy.electricity.consumption.wltp.medium/>
+	<powertrain.engine.energy.electricity.consumption.wltp.high/>
+	<powertrain.engine.energy.electricity.consumption.wltp.extrahigh/>
+	<powertrain.emissions.co2.estimated.combined/>
+	<powertrain.emissions.co2.nedc.combined/>
+	<powertrain.emissions.co2.nedc.extra_urban/>
+	<powertrain.emissions.co2.nedc.urban/>
+	<powertrain.emissions.co2.wltp.combined/>
+	<powertrain.emissions.co2.wltp.combined_weighted/>
+	<powertrain.emissions.co2.wltp.combined_discharged/>
+	<powertrain.emissions.co2.wltp.low/>
+	<powertrain.emissions.co2.wltp.medium/>
+	<powertrain.emissions.co2.wltp.high/>
+	<powertrain.emissions.co2.wltp.extrahigh/>
+	<powertrain.emissions.particulates/>
+	<powertrain.emissions.adblue_system/>
+	<body.cabin.sleeper_cab/>
+	<body.cabin.model/>
+	<body.cabin.length/>
+	<powertrain.transmission.make/>
+	<powertrain.transmission.model/>
+	<superstructure>
+		<make/>
+		<model/>
+		<dimensions.length/>
+		<dimensions.width/>
+		<dimensions.height/>
+		<tipper.tips_right/>
+		<tipper.tips_left/>
+		<tipper.tips_back/>
+		<compartment_count/>
+		<pump/>
+		<extendable/>
+		<hoses/>
+		<counter/>
+		<water_system/>
+		<clean_water_tank.present/>
+		<clean_water_tank.capacity/>
+		<high_pressure_pump/>
+		<loading_platform_height/>
+		<capacity/>
+		<sliding_roof/>
+		<temperature_control.engine_type/>
+		<temperature_control.running_hours.electric/>
+		<temperature_control.running_hours.diesel/>
+		<wall_thickness/>
+		<car_capacity/>
+	</superstructure>
+	<alternativeparts/>
+	<sales_conditions.warranty.manufacturer.end_date/>
+	<sales_conditions.warranty.manufacturer.max_distance/>
+	<sales_conditions.warranty.manufacturer.months/>
+	<sales_conditions.warrantylabels>
+		<sales_conditions.warranty nr="1">
+			<name>Autotrust garantie</name>
+			<months/>
+			<type>branch</type>
+			<id>48</id>
+		</sales_conditions.warranty>
+	</sales_conditions.warrantylabels>
+	<region_specific.nl.100_procent_onderhouden/>
+	<region_specific.nl.bovag_40puntencheck/>
+	<region_specific.nl.bovag_afleverbeurt/>
+	<sales_conditions.warranty.dealer.months/>
+	<sales_conditions.warranty.dealer.max_distance/>
+	<sales_conditions.warranty.remarks_nl></sales_conditions.warranty.remarks_nl>
+	<sales_conditions.warranty.remarks_en></sales_conditions.warranty.remarks_en>
+	<sales_conditions.warranty.remarks_de></sales_conditions.warranty.remarks_de>
+	<sales_conditions.warranty.remarks_fr></sales_conditions.warranty.remarks_fr>
+	<sales_conditions.warranty.remarks_es></sales_conditions.warranty.remarks_es>
+	<sales_conditions.warranty.remarks_pt></sales_conditions.warranty.remarks_pt>
+	<sales_conditions.warranty.remarks_it></sales_conditions.warranty.remarks_it>
+	<sales_conditions.warranty.remarks_el></sales_conditions.warranty.remarks_el>
+	<sales_conditions.warranty.remarks_ru></sales_conditions.warranty.remarks_ru>
+	<sales_conditions.warranty.remarks_ro></sales_conditions.warranty.remarks_ro>
+	<sales_conditions.warranty.remarks_hu></sales_conditions.warranty.remarks_hu>
+	<sales_conditions.warranty.remarks_pl></sales_conditions.warranty.remarks_pl>
+	<sales_conditions.warranty.remarks_cz></sales_conditions.warranty.remarks_cz>
+	<sales_conditions.warranty.remarks_bg></sales_conditions.warranty.remarks_bg>
+	<sales_conditions.warranty.remarks_hr></sales_conditions.warranty.remarks_hr>
+	<sales_conditions.warranty.remarks_dk></sales_conditions.warranty.remarks_dk>
+	<sales_conditions.warranty.remarks_sk></sales_conditions.warranty.remarks_sk>
+	<sales_conditions.warranty.remarks_tr></sales_conditions.warranty.remarks_tr>
+	<sales_conditions.warranty.remarks_fi></sales_conditions.warranty.remarks_fi>
+	<sales_conditions.warranty.remarks_se></sales_conditions.warranty.remarks_se>
+	<sales_conditions.warranty.remarks_no></sales_conditions.warranty.remarks_no>
+	<classification.euro_ncap/>
+	<identification.upc_a/>
+	<identification.ean_8/>
+	<identification.ean_13/>
+	<category_specific.recreational_vehicles.layout.berth1.type/>
+	<category_specific.recreational_vehicles.layout.berth1.position/>
+	<category_specific.recreational_vehicles.layout.berth1.direction/>
+	<category_specific.recreational_vehicles.layout.berth2.type/>
+	<category_specific.recreational_vehicles.layout.berth2.position/>
+	<category_specific.recreational_vehicles.layout.berth2.direction/>
+	<category_specific.recreational_vehicles.layout.berth3.type/>
+	<category_specific.recreational_vehicles.layout.berth3.position/>
+	<category_specific.recreational_vehicles.layout.berth3.direction/>
+	<category_specific.recreational_vehicles.layout.lounge1.type/>
+	<category_specific.recreational_vehicles.layout.lounge1.position/>
+	<category_specific.recreational_vehicles.layout.lounge2.type/>
+	<category_specific.recreational_vehicles.layout.lounge2.position/>
+	<category_specific.recreational_vehicles.layout.kitchen.position/>
+	<category_specific.recreational_vehicles.layout.bathroom.position/>
+	<identification.direct_link></identification.direct_link>
+	<contactpersons/>
+	<general.remarks_nl>Schitterende 330e Hybride (facelift model).&lt;br /&gt;1e eigenaar en volledig M-sport uitgevoerd!&lt;br /&gt;Volledig dealer onderhouden! &lt;br /&gt;&lt;br /&gt;&lt;b&gt;BMW 3-serie Touring 330e Hybride M-Sport | Laser Led|NW mod!&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Goedkoop en sportief rijden? Met deze BMW 330e Touring is het mogelijk!&lt;br /&gt;De combinatie van 292pk hybride en de sportieve looks maakt deze auto zuinig, snel en een genot om naar te kijken en in te rijden. Daarnaast is deze BMW voorzien van vele opties zoals: M-sport pakket, Adaptive Cruise Control, BMW Laser Led Lights, Ambient sfeerverlichting, Apple Carplay,&amp;nbsp; F1 schakelpeddels en nog veel meer...&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Merk&lt;/b&gt;: BMW&lt;/li&gt;&lt;li&gt;&lt;b&gt;Model&lt;/b&gt;: 3-serie Touring&lt;/li&gt;&lt;li&gt;&lt;b&gt;APK tot&lt;/b&gt;: 29-01-2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tellerstand&lt;/b&gt;: 93612 KM&lt;/li&gt;&lt;li&gt;&lt;b&gt;Carrosserievorm&lt;/b&gt;: Station&lt;/li&gt;&lt;li&gt;&lt;b&gt;Aantal deuren&lt;/b&gt;: 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;Brandstofsoort&lt;/b&gt;: Hybride (Elektrisch/Benzine)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Bouwjaar&lt;/b&gt;: 2023&lt;/li&gt;&lt;li&gt;&lt;b&gt;Transmissie&lt;/b&gt;: Automaat&lt;/li&gt;&lt;li&gt;&lt;b&gt;Kleur&lt;/b&gt;: zwart Metallic&lt;/li&gt;&lt;li&gt;&lt;b&gt;Kleurnaam&lt;/b&gt;: Black Sapphire Metallic&lt;/li&gt;&lt;li&gt;&lt;b&gt;Bekleding&lt;/b&gt;: Leder/Alcantara&lt;/li&gt;&lt;li&gt;&lt;b&gt;Kleur interieur&lt;/b&gt;: zwart&lt;/li&gt;&lt;li&gt;&lt;b&gt;Interieurnaam&lt;/b&gt;: alcantara&lt;/li&gt;&lt;li&gt;&lt;b&gt;Motorinhoud&lt;/b&gt;: 1998 cc&lt;/li&gt;&lt;li&gt;&lt;b&gt;Aantal cilinders&lt;/b&gt;: 4&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vermogen&lt;/b&gt;: 215 kW / 293pk&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ledig gewicht&lt;/b&gt;: 1800 kg&lt;/li&gt;&lt;li&gt;&lt;b&gt;Aantal zitplaatsen&lt;/b&gt;: 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;Verbruik&lt;/b&gt;: 1.5 l/100 km&lt;/li&gt;&lt;li&gt;&lt;b&gt;BTW/Marge&lt;/b&gt;: BTW aftrekbaar, de prijs is inclusief BTW&lt;/li&gt;&lt;li&gt;&lt;b&gt;Aantal sleutels&lt;/b&gt;: 2&lt;/li&gt;&lt;li&gt;&lt;b&gt;Onderhoudshistorie aanwezig&lt;/b&gt;: Ja&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;b&gt;Pakket: Parking Pack&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Achteruitrijcamera&lt;/li&gt;&lt;li&gt;Autonome parkeerfunctie&lt;/li&gt;&lt;li&gt;Parkeer assistent&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pakket: M Sport&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Hemelbekleding donker&lt;/li&gt;&lt;li&gt;Variabele stuuroverbrenging&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pakket: M Sportpakket&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Hemelbekleding donker&lt;/li&gt;&lt;li&gt;Kunstlederen/microvezel bekleding&lt;/li&gt;&lt;li&gt;M Aerodynamica&lt;/li&gt;&lt;li&gt;Sfeerverlichting&lt;/li&gt;&lt;li&gt;Sportief interieur&lt;/li&gt;&lt;li&gt;Sportonderstel&lt;/li&gt;&lt;li&gt;Sportstuur leder&lt;/li&gt;&lt;li&gt;Variabele stuuroverbrenging&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pakket: Entertainment Pack&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Audio installatie&lt;/li&gt;&lt;li&gt;Draadloze telefoonlader&lt;/li&gt;&lt;li&gt;Geluidsisolerend glas&lt;/li&gt;&lt;li&gt;Sfeerverlichting&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pakket: Driving Assistant Professional&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Cruise control adaptief met Stop&amp;amp;Go en stuurhulp&lt;/li&gt;&lt;li&gt;Kruisend verkeer detectie&lt;/li&gt;&lt;li&gt;Rijstrooksensor met correctie&lt;/li&gt;&lt;li&gt;Uitwijk assistent&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Comfort&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Boordcomputer&lt;/li&gt;&lt;li&gt;Cruise control&lt;/li&gt;&lt;li&gt;Regensensor&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Exterieur&lt;/b&gt;&lt;ul&gt;&lt;li&gt;20'' Velgen met goede banden&lt;/li&gt;&lt;li&gt;Afdekhoes&lt;/li&gt;&lt;li&gt;Buitenspiegels elektrisch inklapbaar&lt;/li&gt;&lt;li&gt;Buitenspiegels elektrisch verstel- en verwarmbaar&lt;/li&gt;&lt;li&gt;Buitenspiegels elektrisch verstelbaar&lt;/li&gt;&lt;li&gt;Buitenspiegels in carrosseriekleur&lt;/li&gt;&lt;li&gt;Buitenspiegels verwarmbaar&lt;/li&gt;&lt;li&gt;Centrale vergrendeling met afstandsbediening&lt;/li&gt;&lt;li&gt;Dakrails&lt;/li&gt;&lt;li&gt;Dimlichten automatisch&lt;/li&gt;&lt;li&gt;Elektrisch bedienbare achterklep&lt;/li&gt;&lt;li&gt;Getint glas&lt;/li&gt;&lt;li&gt;Kleur zwart&lt;/li&gt;&lt;li&gt;Koplampen adaptief&lt;/li&gt;&lt;li&gt;LED achterlichten&lt;/li&gt;&lt;li&gt;LED koplampen&lt;/li&gt;&lt;li&gt;Metaalkleur&lt;/li&gt;&lt;li&gt;Park Distance Control&lt;/li&gt;&lt;li&gt;Parkeer assistent&lt;/li&gt;&lt;li&gt;Parkeersensor achter&lt;/li&gt;&lt;li&gt;Parkeersensor voor&lt;/li&gt;&lt;li&gt;Ruitensproeiers/wisserbladen verwarmbaar&lt;/li&gt;&lt;li&gt;Sluitbekrachtiging&lt;/li&gt;&lt;li&gt;Speciale kleur&lt;/li&gt;&lt;li&gt;Sportonderstel&lt;/li&gt;&lt;li&gt;Sportvelgen&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Infotainment&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Audio installatie premium&lt;/li&gt;&lt;li&gt;DAB&lt;/li&gt;&lt;li&gt;Multimedia-voorbereiding&lt;/li&gt;&lt;li&gt;Navigatiesysteem&lt;/li&gt;&lt;li&gt;Spraakbediening&lt;/li&gt;&lt;li&gt;Stuur multifunctioneel&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Interieur&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Achterbank in delen neerklapbaar&lt;/li&gt;&lt;li&gt;Airco&lt;/li&gt;&lt;li&gt;Airco separaat achter&lt;/li&gt;&lt;li&gt;Armsteun achter&lt;/li&gt;&lt;li&gt;Armsteun voor&lt;/li&gt;&lt;li&gt;Bagage-scheidingsnet&lt;/li&gt;&lt;li&gt;Cruise control adaptief met Stop&amp;amp;Go&lt;/li&gt;&lt;li&gt;Electronic climate control&lt;/li&gt;&lt;li&gt;Elektrische ramen achter&lt;/li&gt;&lt;li&gt;Elektrische ramen voor&lt;/li&gt;&lt;li&gt;Elektrische ramen voor en achter&lt;/li&gt;&lt;li&gt;Lederen bekleding&lt;/li&gt;&lt;li&gt;Lederen interieurdelen&lt;/li&gt;&lt;li&gt;Lendesteun(en) verstelbaar&lt;/li&gt;&lt;li&gt;Middenarmsteun voor&lt;/li&gt;&lt;li&gt;Sportief interieur&lt;/li&gt;&lt;li&gt;Sportstoelen&lt;/li&gt;&lt;li&gt;Sportstuur&lt;/li&gt;&lt;li&gt;Stuur leder&lt;/li&gt;&lt;li&gt;Stuur verstelbaar&lt;/li&gt;&lt;li&gt;Stuurbekrachtiging&lt;/li&gt;&lt;li&gt;Stuurbekrachtiging snelheidsafhankelijk&lt;/li&gt;&lt;li&gt;Voorstoel(en) elektrisch verstelbaar&lt;/li&gt;&lt;li&gt;Voorstoelen verwarmd&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Milieu&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Start/stop systeem&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Overige&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Achteropkomend verkeer waarschuwing&lt;/li&gt;&lt;li&gt;Achteruitrij assistent&lt;/li&gt;&lt;li&gt;Anti Blokkeer Systeem&lt;/li&gt;&lt;li&gt;Anti doorSlip Regeling&lt;/li&gt;&lt;li&gt;Apple Carplay/Android Auto&lt;/li&gt;&lt;li&gt;Autonomous Emergency Braking&lt;/li&gt;&lt;li&gt;Bestuurdersairbag&lt;/li&gt;&lt;li&gt;Bluetooth&lt;/li&gt;&lt;li&gt;Bots waarschuwing systeem&lt;/li&gt;&lt;li&gt;Brake Assist System&lt;/li&gt;&lt;li&gt;Connected services&lt;/li&gt;&lt;li&gt;Elektronisch Stabiliteits Programma&lt;/li&gt;&lt;li&gt;Hemelbekleding donker&lt;/li&gt;&lt;li&gt;Hoofd airbag(s) achter&lt;/li&gt;&lt;li&gt;Hoofd airbag(s) voor&lt;/li&gt;&lt;li&gt;Keyless start&lt;/li&gt;&lt;li&gt;M Aerodynamica&lt;/li&gt;&lt;li&gt;Oplaadmogelijkheid&lt;/li&gt;&lt;li&gt;Passagiersairbag&lt;/li&gt;&lt;li&gt;Rijstrooksensor met correctie&lt;/li&gt;&lt;li&gt;Schakelpaddles&lt;/li&gt;&lt;li&gt;Sfeerverlichting&lt;/li&gt;&lt;li&gt;Sportstuur leder&lt;/li&gt;&lt;li&gt;Volledig digitaal instrumentenpaneel&lt;/li&gt;&lt;li&gt;Zij airbag(s) voor&lt;/li&gt;&lt;li&gt;Zwarte (glans) exterieur delen&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Veiligheid&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Achteruitrijcamera&lt;/li&gt;&lt;li&gt;Alarm klasse 1(startblokkering)&lt;/li&gt;&lt;li&gt;Bandenspanningscontrolesysteem&lt;/li&gt;&lt;li&gt;Binnen/buitenspiegel aut. dimmend&lt;/li&gt;&lt;li&gt;Grootlichtassistent&lt;/li&gt;&lt;li&gt;Hill hold functie&lt;/li&gt;&lt;li&gt;Isofix bevestiging voor kinderzitjes&lt;/li&gt;&lt;li&gt;Rijstrooksensor&lt;/li&gt;&lt;li&gt;Verkeersbord detectie&lt;/li&gt;&lt;li&gt;Vermoeidheids herkenning&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Carteli&amp;eacute;r B.V. is een RDW erkend, jong en dynamisch bedrijf. De auto's in onze voorraad zijn zorgvuldig geselecteerd.&lt;br /&gt;Onze focus ligt op ontzorgen! In onze optiek is dat: Service, betrouwbaarheid en een goede prijs!&lt;br /&gt;Eventuele inruil van uw huidige auto is geen enkel probleem. Wilt u langskomen voor een proefrit in deze auto neem dan contact met ons op. Wij werken enkel op afspraak. De koffie staat voor u klaar!&amp;nbsp; Afspraak in de avond ook mogelijk.&amp;nbsp;&lt;br /&gt;&lt;br /&gt;Wij zijn bezig met een vernieuwde website! Deze zal waarschijnlijk eind september opgeleverd worden!&amp;nbsp;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Afleverpakketten&lt;/b&gt;&lt;br /&gt;Bij Carteli&amp;eacute;r kunt u kiezen uit diverse afleverpakketten.&lt;br /&gt;Vanzelfsprekend zijn alle auto's standaard bij ons van binnen en buiten grondig gereinigd en gewassen.&lt;br /&gt;U kunt desgewenst gebruik maken van onze polijstservice en glascoating.&lt;br /&gt;Deze service bieden wij u tegen kostprijs aan. De prijzen vari&amp;euml;ren uiteraard per type auto.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Carteli&amp;eacute;r B.V.&lt;/b&gt;&lt;br /&gt;De Stroekeld 2-B&amp;nbsp;&lt;br /&gt;7462 ZB&amp;nbsp;Rijssen&amp;nbsp;&lt;br /&gt;0548-234880&amp;nbsp;&lt;br /&gt;info@cartelier.nl&amp;nbsp;&lt;br /&gt;&lt;br /&gt;We hebben ons uiterste best gedaan om alle informatie in deze advertentie correct weer te geven.&lt;br /&gt;Toch kan het voorkomen dat er iets ontbreekt of onjuist is weergegeven. Er kunnen echter geen rechten ontleend worden aan de verstrekte informatie in deze advertentie.</general.remarks_nl>
+	<general.remarks_en>Schitterende 330e Hybride (facelift model).&lt;br /&gt;1e eigenaar en volledig M-sport uitgevoerd!&lt;br /&gt;Volledig dealer onderhouden! &lt;br /&gt;&lt;br /&gt;&lt;b&gt;BMW 3-serie Touring 330e Hybride M-Sport | Laser Led|NW mod!&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Goedkoop en sportief rijden? Met deze BMW 330e Touring is het mogelijk!&lt;br /&gt;De combinatie van 292pk hybride en de sportieve looks maakt deze auto zuinig, snel en een genot om naar te kijken en in te rijden. Daarnaast is deze BMW voorzien van vele opties zoals: M-sport pakket, Adaptive Cruise Control, BMW Laser Led Lights, Ambient sfeerverlichting, Apple Carplay,&amp;nbsp; F1 schakelpeddels en nog veel meer...&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Merk&lt;/b&gt;: BMW&lt;/li&gt;&lt;li&gt;&lt;b&gt;Model&lt;/b&gt;: 3-serie Touring&lt;/li&gt;&lt;li&gt;&lt;b&gt;APK tot&lt;/b&gt;: 29-01-2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tellerstand&lt;/b&gt;: 93612 KM&lt;/li&gt;&lt;li&gt;&lt;b&gt;Carrosserievorm&lt;/b&gt;: Station&lt;/li&gt;&lt;li&gt;&lt;b&gt;Aantal deuren&lt;/b&gt;: 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;Brandstofsoort&lt;/b&gt;: Hybride (Elektrisch/Benzine)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Bouwjaar&lt;/b&gt;: 2023&lt;/li&gt;&lt;li&gt;&lt;b&gt;Transmissie&lt;/b&gt;: Automaat&lt;/li&gt;&lt;li&gt;&lt;b&gt;Kleur&lt;/b&gt;: zwart Metallic&lt;/li&gt;&lt;li&gt;&lt;b&gt;Kleurnaam&lt;/b&gt;: Black Sapphire Metallic&lt;/li&gt;&lt;li&gt;&lt;b&gt;Bekleding&lt;/b&gt;: Leder/Alcantara&lt;/li&gt;&lt;li&gt;&lt;b&gt;Kleur interieur&lt;/b&gt;: zwart&lt;/li&gt;&lt;li&gt;&lt;b&gt;Interieurnaam&lt;/b&gt;: alcantara&lt;/li&gt;&lt;li&gt;&lt;b&gt;Motorinhoud&lt;/b&gt;: 1998 cc&lt;/li&gt;&lt;li&gt;&lt;b&gt;Aantal cilinders&lt;/b&gt;: 4&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vermogen&lt;/b&gt;: 215 kW / 293pk&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ledig gewicht&lt;/b&gt;: 1800 kg&lt;/li&gt;&lt;li&gt;&lt;b&gt;Aantal zitplaatsen&lt;/b&gt;: 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;Verbruik&lt;/b&gt;: 1.5 l/100 km&lt;/li&gt;&lt;li&gt;&lt;b&gt;BTW/Marge&lt;/b&gt;: BTW aftrekbaar, de prijs is inclusief BTW&lt;/li&gt;&lt;li&gt;&lt;b&gt;Aantal sleutels&lt;/b&gt;: 2&lt;/li&gt;&lt;li&gt;&lt;b&gt;Onderhoudshistorie aanwezig&lt;/b&gt;: Ja&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;b&gt;Pakket: Parking Pack&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Achteruitrijcamera&lt;/li&gt;&lt;li&gt;Autonome parkeerfunctie&lt;/li&gt;&lt;li&gt;Parkeer assistent&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pakket: M Sport&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Hemelbekleding donker&lt;/li&gt;&lt;li&gt;Variabele stuuroverbrenging&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pakket: M Sportpakket&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Hemelbekleding donker&lt;/li&gt;&lt;li&gt;Kunstlederen/microvezel bekleding&lt;/li&gt;&lt;li&gt;M Aerodynamica&lt;/li&gt;&lt;li&gt;Sfeerverlichting&lt;/li&gt;&lt;li&gt;Sportief interieur&lt;/li&gt;&lt;li&gt;Sportonderstel&lt;/li&gt;&lt;li&gt;Sportstuur leder&lt;/li&gt;&lt;li&gt;Variabele stuuroverbrenging&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pakket: Entertainment Pack&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Audio installatie&lt;/li&gt;&lt;li&gt;Draadloze telefoonlader&lt;/li&gt;&lt;li&gt;Geluidsisolerend glas&lt;/li&gt;&lt;li&gt;Sfeerverlichting&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pakket: Driving Assistant Professional&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Cruise control adaptief met Stop&amp;amp;Go en stuurhulp&lt;/li&gt;&lt;li&gt;Kruisend verkeer detectie&lt;/li&gt;&lt;li&gt;Rijstrooksensor met correctie&lt;/li&gt;&lt;li&gt;Uitwijk assistent&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Comfort&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Boordcomputer&lt;/li&gt;&lt;li&gt;Cruise control&lt;/li&gt;&lt;li&gt;Regensensor&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Exterieur&lt;/b&gt;&lt;ul&gt;&lt;li&gt;20'' Velgen met goede banden&lt;/li&gt;&lt;li&gt;Afdekhoes&lt;/li&gt;&lt;li&gt;Buitenspiegels elektrisch inklapbaar&lt;/li&gt;&lt;li&gt;Buitenspiegels elektrisch verstel- en verwarmbaar&lt;/li&gt;&lt;li&gt;Buitenspiegels elektrisch verstelbaar&lt;/li&gt;&lt;li&gt;Buitenspiegels in carrosseriekleur&lt;/li&gt;&lt;li&gt;Buitenspiegels verwarmbaar&lt;/li&gt;&lt;li&gt;Centrale vergrendeling met afstandsbediening&lt;/li&gt;&lt;li&gt;Dakrails&lt;/li&gt;&lt;li&gt;Dimlichten automatisch&lt;/li&gt;&lt;li&gt;Elektrisch bedienbare achterklep&lt;/li&gt;&lt;li&gt;Getint glas&lt;/li&gt;&lt;li&gt;Kleur zwart&lt;/li&gt;&lt;li&gt;Koplampen adaptief&lt;/li&gt;&lt;li&gt;LED achterlichten&lt;/li&gt;&lt;li&gt;LED koplampen&lt;/li&gt;&lt;li&gt;Metaalkleur&lt;/li&gt;&lt;li&gt;Park Distance Control&lt;/li&gt;&lt;li&gt;Parkeer assistent&lt;/li&gt;&lt;li&gt;Parkeersensor achter&lt;/li&gt;&lt;li&gt;Parkeersensor voor&lt;/li&gt;&lt;li&gt;Ruitensproeiers/wisserbladen verwarmbaar&lt;/li&gt;&lt;li&gt;Sluitbekrachtiging&lt;/li&gt;&lt;li&gt;Speciale kleur&lt;/li&gt;&lt;li&gt;Sportonderstel&lt;/li&gt;&lt;li&gt;Sportvelgen&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Infotainment&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Audio installatie premium&lt;/li&gt;&lt;li&gt;DAB&lt;/li&gt;&lt;li&gt;Multimedia-voorbereiding&lt;/li&gt;&lt;li&gt;Navigatiesysteem&lt;/li&gt;&lt;li&gt;Spraakbediening&lt;/li&gt;&lt;li&gt;Stuur multifunctioneel&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Interieur&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Achterbank in delen neerklapbaar&lt;/li&gt;&lt;li&gt;Airco&lt;/li&gt;&lt;li&gt;Airco separaat achter&lt;/li&gt;&lt;li&gt;Armsteun achter&lt;/li&gt;&lt;li&gt;Armsteun voor&lt;/li&gt;&lt;li&gt;Bagage-scheidingsnet&lt;/li&gt;&lt;li&gt;Cruise control adaptief met Stop&amp;amp;Go&lt;/li&gt;&lt;li&gt;Electronic climate control&lt;/li&gt;&lt;li&gt;Elektrische ramen achter&lt;/li&gt;&lt;li&gt;Elektrische ramen voor&lt;/li&gt;&lt;li&gt;Elektrische ramen voor en achter&lt;/li&gt;&lt;li&gt;Lederen bekleding&lt;/li&gt;&lt;li&gt;Lederen interieurdelen&lt;/li&gt;&lt;li&gt;Lendesteun(en) verstelbaar&lt;/li&gt;&lt;li&gt;Middenarmsteun voor&lt;/li&gt;&lt;li&gt;Sportief interieur&lt;/li&gt;&lt;li&gt;Sportstoelen&lt;/li&gt;&lt;li&gt;Sportstuur&lt;/li&gt;&lt;li&gt;Stuur leder&lt;/li&gt;&lt;li&gt;Stuur verstelbaar&lt;/li&gt;&lt;li&gt;Stuurbekrachtiging&lt;/li&gt;&lt;li&gt;Stuurbekrachtiging snelheidsafhankelijk&lt;/li&gt;&lt;li&gt;Voorstoel(en) elektrisch verstelbaar&lt;/li&gt;&lt;li&gt;Voorstoelen verwarmd&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Milieu&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Start/stop systeem&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Overige&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Achteropkomend verkeer waarschuwing&lt;/li&gt;&lt;li&gt;Achteruitrij assistent&lt;/li&gt;&lt;li&gt;Anti Blokkeer Systeem&lt;/li&gt;&lt;li&gt;Anti doorSlip Regeling&lt;/li&gt;&lt;li&gt;Apple Carplay/Android Auto&lt;/li&gt;&lt;li&gt;Autonomous Emergency Braking&lt;/li&gt;&lt;li&gt;Bestuurdersairbag&lt;/li&gt;&lt;li&gt;Bluetooth&lt;/li&gt;&lt;li&gt;Bots waarschuwing systeem&lt;/li&gt;&lt;li&gt;Brake Assist System&lt;/li&gt;&lt;li&gt;Connected services&lt;/li&gt;&lt;li&gt;Elektronisch Stabiliteits Programma&lt;/li&gt;&lt;li&gt;Hemelbekleding donker&lt;/li&gt;&lt;li&gt;Hoofd airbag(s) achter&lt;/li&gt;&lt;li&gt;Hoofd airbag(s) voor&lt;/li&gt;&lt;li&gt;Keyless start&lt;/li&gt;&lt;li&gt;M Aerodynamica&lt;/li&gt;&lt;li&gt;Oplaadmogelijkheid&lt;/li&gt;&lt;li&gt;Passagiersairbag&lt;/li&gt;&lt;li&gt;Rijstrooksensor met correctie&lt;/li&gt;&lt;li&gt;Schakelpaddles&lt;/li&gt;&lt;li&gt;Sfeerverlichting&lt;/li&gt;&lt;li&gt;Sportstuur leder&lt;/li&gt;&lt;li&gt;Volledig digitaal instrumentenpaneel&lt;/li&gt;&lt;li&gt;Zij airbag(s) voor&lt;/li&gt;&lt;li&gt;Zwarte (glans) exterieur delen&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Veiligheid&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Achteruitrijcamera&lt;/li&gt;&lt;li&gt;Alarm klasse 1(startblokkering)&lt;/li&gt;&lt;li&gt;Bandenspanningscontrolesysteem&lt;/li&gt;&lt;li&gt;Binnen/buitenspiegel aut. dimmend&lt;/li&gt;&lt;li&gt;Grootlichtassistent&lt;/li&gt;&lt;li&gt;Hill hold functie&lt;/li&gt;&lt;li&gt;Isofix bevestiging voor kinderzitjes&lt;/li&gt;&lt;li&gt;Rijstrooksensor&lt;/li&gt;&lt;li&gt;Verkeersbord detectie&lt;/li&gt;&lt;li&gt;Vermoeidheids herkenning&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Carteli&amp;eacute;r B.V. is een RDW erkend, jong en dynamisch bedrijf. De auto's in onze voorraad zijn zorgvuldig geselecteerd.&lt;br /&gt;Onze focus ligt op ontzorgen! In onze optiek is dat: Service, betrouwbaarheid en een goede prijs!&lt;br /&gt;Eventuele inruil van uw huidige auto is geen enkel probleem. Wilt u langskomen voor een proefrit in deze auto neem dan contact met ons op. Wij werken enkel op afspraak. De koffie staat voor u klaar!&amp;nbsp; Afspraak in de avond ook mogelijk.&amp;nbsp;&lt;br /&gt;&lt;br /&gt;Wij zijn bezig met een vernieuwde website! Deze zal waarschijnlijk eind september opgeleverd worden!&amp;nbsp;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Afleverpakketten&lt;/b&gt;&lt;br /&gt;Bij Carteli&amp;eacute;r kunt u kiezen uit diverse afleverpakketten.&lt;br /&gt;Vanzelfsprekend zijn alle auto's standaard bij ons van binnen en buiten grondig gereinigd en gewassen.&lt;br /&gt;U kunt desgewenst gebruik maken van onze polijstservice en glascoating.&lt;br /&gt;Deze service bieden wij u tegen kostprijs aan. De prijzen vari&amp;euml;ren uiteraard per type auto.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Carteli&amp;eacute;r B.V.&lt;/b&gt;&lt;br /&gt;De Stroekeld 2-B&amp;nbsp;&lt;br /&gt;7462 ZB&amp;nbsp;Rijssen&amp;nbsp;&lt;br /&gt;0548-234880&amp;nbsp;&lt;br /&gt;info@cartelier.nl&amp;nbsp;&lt;br /&gt;&lt;br /&gt;We hebben ons uiterste best gedaan om alle informatie in deze advertentie correct weer te geven.&lt;br /&gt;Toch kan het voorkomen dat er iets ontbreekt of onjuist is weergegeven. Er kunnen echter geen rechten ontleend worden aan de verstrekte informatie in deze advertentie.</general.remarks_en>
+	<general.remarks_de>Schitterende 330e Hybride (facelift model).&lt;br /&gt;1e eigenaar en volledig M-sport uitgevoerd!&lt;br /&gt;Volledig dealer onderhouden! &lt;br /&gt;&lt;br /&gt;&lt;b&gt;BMW 3-serie Touring 330e Hybride M-Sport | Laser Led|NW mod!&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Goedkoop en sportief rijden? Met deze BMW 330e Touring is het mogelijk!&lt;br /&gt;De combinatie van 292pk hybride en de sportieve looks maakt deze auto zuinig, snel en een genot om naar te kijken en in te rijden. Daarnaast is deze BMW voorzien van vele opties zoals: M-sport pakket, Adaptive Cruise Control, BMW Laser Led Lights, Ambient sfeerverlichting, Apple Carplay,&amp;nbsp; F1 schakelpeddels en nog veel meer...&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Merk&lt;/b&gt;: BMW&lt;/li&gt;&lt;li&gt;&lt;b&gt;Model&lt;/b&gt;: 3-serie Touring&lt;/li&gt;&lt;li&gt;&lt;b&gt;APK tot&lt;/b&gt;: 29-01-2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tellerstand&lt;/b&gt;: 93612 KM&lt;/li&gt;&lt;li&gt;&lt;b&gt;Carrosserievorm&lt;/b&gt;: Station&lt;/li&gt;&lt;li&gt;&lt;b&gt;Aantal deuren&lt;/b&gt;: 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;Brandstofsoort&lt;/b&gt;: Hybride (Elektrisch/Benzine)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Bouwjaar&lt;/b&gt;: 2023&lt;/li&gt;&lt;li&gt;&lt;b&gt;Transmissie&lt;/b&gt;: Automaat&lt;/li&gt;&lt;li&gt;&lt;b&gt;Kleur&lt;/b&gt;: zwart Metallic&lt;/li&gt;&lt;li&gt;&lt;b&gt;Kleurnaam&lt;/b&gt;: Black Sapphire Metallic&lt;/li&gt;&lt;li&gt;&lt;b&gt;Bekleding&lt;/b&gt;: Leder/Alcantara&lt;/li&gt;&lt;li&gt;&lt;b&gt;Kleur interieur&lt;/b&gt;: zwart&lt;/li&gt;&lt;li&gt;&lt;b&gt;Interieurnaam&lt;/b&gt;: alcantara&lt;/li&gt;&lt;li&gt;&lt;b&gt;Motorinhoud&lt;/b&gt;: 1998 cc&lt;/li&gt;&lt;li&gt;&lt;b&gt;Aantal cilinders&lt;/b&gt;: 4&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vermogen&lt;/b&gt;: 215 kW / 293pk&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ledig gewicht&lt;/b&gt;: 1800 kg&lt;/li&gt;&lt;li&gt;&lt;b&gt;Aantal zitplaatsen&lt;/b&gt;: 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;Verbruik&lt;/b&gt;: 1.5 l/100 km&lt;/li&gt;&lt;li&gt;&lt;b&gt;BTW/Marge&lt;/b&gt;: BTW aftrekbaar, de prijs is inclusief BTW&lt;/li&gt;&lt;li&gt;&lt;b&gt;Aantal sleutels&lt;/b&gt;: 2&lt;/li&gt;&lt;li&gt;&lt;b&gt;Onderhoudshistorie aanwezig&lt;/b&gt;: Ja&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;b&gt;Pakket: Parking Pack&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Achteruitrijcamera&lt;/li&gt;&lt;li&gt;Autonome parkeerfunctie&lt;/li&gt;&lt;li&gt;Parkeer assistent&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pakket: M Sport&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Hemelbekleding donker&lt;/li&gt;&lt;li&gt;Variabele stuuroverbrenging&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pakket: M Sportpakket&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Hemelbekleding donker&lt;/li&gt;&lt;li&gt;Kunstlederen/microvezel bekleding&lt;/li&gt;&lt;li&gt;M Aerodynamica&lt;/li&gt;&lt;li&gt;Sfeerverlichting&lt;/li&gt;&lt;li&gt;Sportief interieur&lt;/li&gt;&lt;li&gt;Sportonderstel&lt;/li&gt;&lt;li&gt;Sportstuur leder&lt;/li&gt;&lt;li&gt;Variabele stuuroverbrenging&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pakket: Entertainment Pack&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Audio installatie&lt;/li&gt;&lt;li&gt;Draadloze telefoonlader&lt;/li&gt;&lt;li&gt;Geluidsisolerend glas&lt;/li&gt;&lt;li&gt;Sfeerverlichting&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pakket: Driving Assistant Professional&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Cruise control adaptief met Stop&amp;amp;Go en stuurhulp&lt;/li&gt;&lt;li&gt;Kruisend verkeer detectie&lt;/li&gt;&lt;li&gt;Rijstrooksensor met correctie&lt;/li&gt;&lt;li&gt;Uitwijk assistent&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Comfort&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Boordcomputer&lt;/li&gt;&lt;li&gt;Cruise control&lt;/li&gt;&lt;li&gt;Regensensor&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Exterieur&lt;/b&gt;&lt;ul&gt;&lt;li&gt;20'' Velgen met goede banden&lt;/li&gt;&lt;li&gt;Afdekhoes&lt;/li&gt;&lt;li&gt;Buitenspiegels elektrisch inklapbaar&lt;/li&gt;&lt;li&gt;Buitenspiegels elektrisch verstel- en verwarmbaar&lt;/li&gt;&lt;li&gt;Buitenspiegels elektrisch verstelbaar&lt;/li&gt;&lt;li&gt;Buitenspiegels in carrosseriekleur&lt;/li&gt;&lt;li&gt;Buitenspiegels verwarmbaar&lt;/li&gt;&lt;li&gt;Centrale vergrendeling met afstandsbediening&lt;/li&gt;&lt;li&gt;Dakrails&lt;/li&gt;&lt;li&gt;Dimlichten automatisch&lt;/li&gt;&lt;li&gt;Elektrisch bedienbare achterklep&lt;/li&gt;&lt;li&gt;Getint glas&lt;/li&gt;&lt;li&gt;Kleur zwart&lt;/li&gt;&lt;li&gt;Koplampen adaptief&lt;/li&gt;&lt;li&gt;LED achterlichten&lt;/li&gt;&lt;li&gt;LED koplampen&lt;/li&gt;&lt;li&gt;Metaalkleur&lt;/li&gt;&lt;li&gt;Park Distance Control&lt;/li&gt;&lt;li&gt;Parkeer assistent&lt;/li&gt;&lt;li&gt;Parkeersensor achter&lt;/li&gt;&lt;li&gt;Parkeersensor voor&lt;/li&gt;&lt;li&gt;Ruitensproeiers/wisserbladen verwarmbaar&lt;/li&gt;&lt;li&gt;Sluitbekrachtiging&lt;/li&gt;&lt;li&gt;Speciale kleur&lt;/li&gt;&lt;li&gt;Sportonderstel&lt;/li&gt;&lt;li&gt;Sportvelgen&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Infotainment&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Audio installatie premium&lt;/li&gt;&lt;li&gt;DAB&lt;/li&gt;&lt;li&gt;Multimedia-voorbereiding&lt;/li&gt;&lt;li&gt;Navigatiesysteem&lt;/li&gt;&lt;li&gt;Spraakbediening&lt;/li&gt;&lt;li&gt;Stuur multifunctioneel&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Interieur&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Achterbank in delen neerklapbaar&lt;/li&gt;&lt;li&gt;Airco&lt;/li&gt;&lt;li&gt;Airco separaat achter&lt;/li&gt;&lt;li&gt;Armsteun achter&lt;/li&gt;&lt;li&gt;Armsteun voor&lt;/li&gt;&lt;li&gt;Bagage-scheidingsnet&lt;/li&gt;&lt;li&gt;Cruise control adaptief met Stop&amp;amp;Go&lt;/li&gt;&lt;li&gt;Electronic climate control&lt;/li&gt;&lt;li&gt;Elektrische ramen achter&lt;/li&gt;&lt;li&gt;Elektrische ramen voor&lt;/li&gt;&lt;li&gt;Elektrische ramen voor en achter&lt;/li&gt;&lt;li&gt;Lederen bekleding&lt;/li&gt;&lt;li&gt;Lederen interieurdelen&lt;/li&gt;&lt;li&gt;Lendesteun(en) verstelbaar&lt;/li&gt;&lt;li&gt;Middenarmsteun voor&lt;/li&gt;&lt;li&gt;Sportief interieur&lt;/li&gt;&lt;li&gt;Sportstoelen&lt;/li&gt;&lt;li&gt;Sportstuur&lt;/li&gt;&lt;li&gt;Stuur leder&lt;/li&gt;&lt;li&gt;Stuur verstelbaar&lt;/li&gt;&lt;li&gt;Stuurbekrachtiging&lt;/li&gt;&lt;li&gt;Stuurbekrachtiging snelheidsafhankelijk&lt;/li&gt;&lt;li&gt;Voorstoel(en) elektrisch verstelbaar&lt;/li&gt;&lt;li&gt;Voorstoelen verwarmd&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Milieu&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Start/stop systeem&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Overige&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Achteropkomend verkeer waarschuwing&lt;/li&gt;&lt;li&gt;Achteruitrij assistent&lt;/li&gt;&lt;li&gt;Anti Blokkeer Systeem&lt;/li&gt;&lt;li&gt;Anti doorSlip Regeling&lt;/li&gt;&lt;li&gt;Apple Carplay/Android Auto&lt;/li&gt;&lt;li&gt;Autonomous Emergency Braking&lt;/li&gt;&lt;li&gt;Bestuurdersairbag&lt;/li&gt;&lt;li&gt;Bluetooth&lt;/li&gt;&lt;li&gt;Bots waarschuwing systeem&lt;/li&gt;&lt;li&gt;Brake Assist System&lt;/li&gt;&lt;li&gt;Connected services&lt;/li&gt;&lt;li&gt;Elektronisch Stabiliteits Programma&lt;/li&gt;&lt;li&gt;Hemelbekleding donker&lt;/li&gt;&lt;li&gt;Hoofd airbag(s) achter&lt;/li&gt;&lt;li&gt;Hoofd airbag(s) voor&lt;/li&gt;&lt;li&gt;Keyless start&lt;/li&gt;&lt;li&gt;M Aerodynamica&lt;/li&gt;&lt;li&gt;Oplaadmogelijkheid&lt;/li&gt;&lt;li&gt;Passagiersairbag&lt;/li&gt;&lt;li&gt;Rijstrooksensor met correctie&lt;/li&gt;&lt;li&gt;Schakelpaddles&lt;/li&gt;&lt;li&gt;Sfeerverlichting&lt;/li&gt;&lt;li&gt;Sportstuur leder&lt;/li&gt;&lt;li&gt;Volledig digitaal instrumentenpaneel&lt;/li&gt;&lt;li&gt;Zij airbag(s) voor&lt;/li&gt;&lt;li&gt;Zwarte (glans) exterieur delen&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Veiligheid&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Achteruitrijcamera&lt;/li&gt;&lt;li&gt;Alarm klasse 1(startblokkering)&lt;/li&gt;&lt;li&gt;Bandenspanningscontrolesysteem&lt;/li&gt;&lt;li&gt;Binnen/buitenspiegel aut. dimmend&lt;/li&gt;&lt;li&gt;Grootlichtassistent&lt;/li&gt;&lt;li&gt;Hill hold functie&lt;/li&gt;&lt;li&gt;Isofix bevestiging voor kinderzitjes&lt;/li&gt;&lt;li&gt;Rijstrooksensor&lt;/li&gt;&lt;li&gt;Verkeersbord detectie&lt;/li&gt;&lt;li&gt;Vermoeidheids herkenning&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Carteli&amp;eacute;r B.V. is een RDW erkend, jong en dynamisch bedrijf. De auto's in onze voorraad zijn zorgvuldig geselecteerd.&lt;br /&gt;Onze focus ligt op ontzorgen! In onze optiek is dat: Service, betrouwbaarheid en een goede prijs!&lt;br /&gt;Eventuele inruil van uw huidige auto is geen enkel probleem. Wilt u langskomen voor een proefrit in deze auto neem dan contact met ons op. Wij werken enkel op afspraak. De koffie staat voor u klaar!&amp;nbsp; Afspraak in de avond ook mogelijk.&amp;nbsp;&lt;br /&gt;&lt;br /&gt;Wij zijn bezig met een vernieuwde website! Deze zal waarschijnlijk eind september opgeleverd worden!&amp;nbsp;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Afleverpakketten&lt;/b&gt;&lt;br /&gt;Bij Carteli&amp;eacute;r kunt u kiezen uit diverse afleverpakketten.&lt;br /&gt;Vanzelfsprekend zijn alle auto's standaard bij ons van binnen en buiten grondig gereinigd en gewassen.&lt;br /&gt;U kunt desgewenst gebruik maken van onze polijstservice en glascoating.&lt;br /&gt;Deze service bieden wij u tegen kostprijs aan. De prijzen vari&amp;euml;ren uiteraard per type auto.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Carteli&amp;eacute;r B.V.&lt;/b&gt;&lt;br /&gt;De Stroekeld 2-B&amp;nbsp;&lt;br /&gt;7462 ZB&amp;nbsp;Rijssen&amp;nbsp;&lt;br /&gt;0548-234880&amp;nbsp;&lt;br /&gt;info@cartelier.nl&amp;nbsp;&lt;br /&gt;&lt;br /&gt;We hebben ons uiterste best gedaan om alle informatie in deze advertentie correct weer te geven.&lt;br /&gt;Toch kan het voorkomen dat er iets ontbreekt of onjuist is weergegeven. Er kunnen echter geen rechten ontleend worden aan de verstrekte informatie in deze advertentie.</general.remarks_de>
+	<general.remarks_fr>Schitterende 330e Hybride (facelift model).&lt;br /&gt;1e eigenaar en volledig M-sport uitgevoerd!&lt;br /&gt;Volledig dealer onderhouden! &lt;br /&gt;&lt;br /&gt;&lt;b&gt;BMW 3-serie Touring 330e Hybride M-Sport | Laser Led|NW mod!&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Goedkoop en sportief rijden? Met deze BMW 330e Touring is het mogelijk!&lt;br /&gt;De combinatie van 292pk hybride en de sportieve looks maakt deze auto zuinig, snel en een genot om naar te kijken en in te rijden. Daarnaast is deze BMW voorzien van vele opties zoals: M-sport pakket, Adaptive Cruise Control, BMW Laser Led Lights, Ambient sfeerverlichting, Apple Carplay,&amp;nbsp; F1 schakelpeddels en nog veel meer...&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Merk&lt;/b&gt;: BMW&lt;/li&gt;&lt;li&gt;&lt;b&gt;Model&lt;/b&gt;: 3-serie Touring&lt;/li&gt;&lt;li&gt;&lt;b&gt;APK tot&lt;/b&gt;: 29-01-2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tellerstand&lt;/b&gt;: 93612 KM&lt;/li&gt;&lt;li&gt;&lt;b&gt;Carrosserievorm&lt;/b&gt;: Station&lt;/li&gt;&lt;li&gt;&lt;b&gt;Aantal deuren&lt;/b&gt;: 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;Brandstofsoort&lt;/b&gt;: Hybride (Elektrisch/Benzine)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Bouwjaar&lt;/b&gt;: 2023&lt;/li&gt;&lt;li&gt;&lt;b&gt;Transmissie&lt;/b&gt;: Automaat&lt;/li&gt;&lt;li&gt;&lt;b&gt;Kleur&lt;/b&gt;: zwart Metallic&lt;/li&gt;&lt;li&gt;&lt;b&gt;Kleurnaam&lt;/b&gt;: Black Sapphire Metallic&lt;/li&gt;&lt;li&gt;&lt;b&gt;Bekleding&lt;/b&gt;: Leder/Alcantara&lt;/li&gt;&lt;li&gt;&lt;b&gt;Kleur interieur&lt;/b&gt;: zwart&lt;/li&gt;&lt;li&gt;&lt;b&gt;Interieurnaam&lt;/b&gt;: alcantara&lt;/li&gt;&lt;li&gt;&lt;b&gt;Motorinhoud&lt;/b&gt;: 1998 cc&lt;/li&gt;&lt;li&gt;&lt;b&gt;Aantal cilinders&lt;/b&gt;: 4&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vermogen&lt;/b&gt;: 215 kW / 293pk&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ledig gewicht&lt;/b&gt;: 1800 kg&lt;/li&gt;&lt;li&gt;&lt;b&gt;Aantal zitplaatsen&lt;/b&gt;: 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;Verbruik&lt;/b&gt;: 1.5 l/100 km&lt;/li&gt;&lt;li&gt;&lt;b&gt;BTW/Marge&lt;/b&gt;: BTW aftrekbaar, de prijs is inclusief BTW&lt;/li&gt;&lt;li&gt;&lt;b&gt;Aantal sleutels&lt;/b&gt;: 2&lt;/li&gt;&lt;li&gt;&lt;b&gt;Onderhoudshistorie aanwezig&lt;/b&gt;: Ja&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;b&gt;Pakket: Parking Pack&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Achteruitrijcamera&lt;/li&gt;&lt;li&gt;Autonome parkeerfunctie&lt;/li&gt;&lt;li&gt;Parkeer assistent&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pakket: M Sport&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Hemelbekleding donker&lt;/li&gt;&lt;li&gt;Variabele stuuroverbrenging&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pakket: M Sportpakket&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Hemelbekleding donker&lt;/li&gt;&lt;li&gt;Kunstlederen/microvezel bekleding&lt;/li&gt;&lt;li&gt;M Aerodynamica&lt;/li&gt;&lt;li&gt;Sfeerverlichting&lt;/li&gt;&lt;li&gt;Sportief interieur&lt;/li&gt;&lt;li&gt;Sportonderstel&lt;/li&gt;&lt;li&gt;Sportstuur leder&lt;/li&gt;&lt;li&gt;Variabele stuuroverbrenging&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pakket: Entertainment Pack&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Audio installatie&lt;/li&gt;&lt;li&gt;Draadloze telefoonlader&lt;/li&gt;&lt;li&gt;Geluidsisolerend glas&lt;/li&gt;&lt;li&gt;Sfeerverlichting&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pakket: Driving Assistant Professional&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Cruise control adaptief met Stop&amp;amp;Go en stuurhulp&lt;/li&gt;&lt;li&gt;Kruisend verkeer detectie&lt;/li&gt;&lt;li&gt;Rijstrooksensor met correctie&lt;/li&gt;&lt;li&gt;Uitwijk assistent&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Comfort&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Boordcomputer&lt;/li&gt;&lt;li&gt;Cruise control&lt;/li&gt;&lt;li&gt;Regensensor&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Exterieur&lt;/b&gt;&lt;ul&gt;&lt;li&gt;20'' Velgen met goede banden&lt;/li&gt;&lt;li&gt;Afdekhoes&lt;/li&gt;&lt;li&gt;Buitenspiegels elektrisch inklapbaar&lt;/li&gt;&lt;li&gt;Buitenspiegels elektrisch verstel- en verwarmbaar&lt;/li&gt;&lt;li&gt;Buitenspiegels elektrisch verstelbaar&lt;/li&gt;&lt;li&gt;Buitenspiegels in carrosseriekleur&lt;/li&gt;&lt;li&gt;Buitenspiegels verwarmbaar&lt;/li&gt;&lt;li&gt;Centrale vergrendeling met afstandsbediening&lt;/li&gt;&lt;li&gt;Dakrails&lt;/li&gt;&lt;li&gt;Dimlichten automatisch&lt;/li&gt;&lt;li&gt;Elektrisch bedienbare achterklep&lt;/li&gt;&lt;li&gt;Getint glas&lt;/li&gt;&lt;li&gt;Kleur zwart&lt;/li&gt;&lt;li&gt;Koplampen adaptief&lt;/li&gt;&lt;li&gt;LED achterlichten&lt;/li&gt;&lt;li&gt;LED koplampen&lt;/li&gt;&lt;li&gt;Metaalkleur&lt;/li&gt;&lt;li&gt;Park Distance Control&lt;/li&gt;&lt;li&gt;Parkeer assistent&lt;/li&gt;&lt;li&gt;Parkeersensor achter&lt;/li&gt;&lt;li&gt;Parkeersensor voor&lt;/li&gt;&lt;li&gt;Ruitensproeiers/wisserbladen verwarmbaar&lt;/li&gt;&lt;li&gt;Sluitbekrachtiging&lt;/li&gt;&lt;li&gt;Speciale kleur&lt;/li&gt;&lt;li&gt;Sportonderstel&lt;/li&gt;&lt;li&gt;Sportvelgen&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Infotainment&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Audio installatie premium&lt;/li&gt;&lt;li&gt;DAB&lt;/li&gt;&lt;li&gt;Multimedia-voorbereiding&lt;/li&gt;&lt;li&gt;Navigatiesysteem&lt;/li&gt;&lt;li&gt;Spraakbediening&lt;/li&gt;&lt;li&gt;Stuur multifunctioneel&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Interieur&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Achterbank in delen neerklapbaar&lt;/li&gt;&lt;li&gt;Airco&lt;/li&gt;&lt;li&gt;Airco separaat achter&lt;/li&gt;&lt;li&gt;Armsteun achter&lt;/li&gt;&lt;li&gt;Armsteun voor&lt;/li&gt;&lt;li&gt;Bagage-scheidingsnet&lt;/li&gt;&lt;li&gt;Cruise control adaptief met Stop&amp;amp;Go&lt;/li&gt;&lt;li&gt;Electronic climate control&lt;/li&gt;&lt;li&gt;Elektrische ramen achter&lt;/li&gt;&lt;li&gt;Elektrische ramen voor&lt;/li&gt;&lt;li&gt;Elektrische ramen voor en achter&lt;/li&gt;&lt;li&gt;Lederen bekleding&lt;/li&gt;&lt;li&gt;Lederen interieurdelen&lt;/li&gt;&lt;li&gt;Lendesteun(en) verstelbaar&lt;/li&gt;&lt;li&gt;Middenarmsteun voor&lt;/li&gt;&lt;li&gt;Sportief interieur&lt;/li&gt;&lt;li&gt;Sportstoelen&lt;/li&gt;&lt;li&gt;Sportstuur&lt;/li&gt;&lt;li&gt;Stuur leder&lt;/li&gt;&lt;li&gt;Stuur verstelbaar&lt;/li&gt;&lt;li&gt;Stuurbekrachtiging&lt;/li&gt;&lt;li&gt;Stuurbekrachtiging snelheidsafhankelijk&lt;/li&gt;&lt;li&gt;Voorstoel(en) elektrisch verstelbaar&lt;/li&gt;&lt;li&gt;Voorstoelen verwarmd&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Milieu&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Start/stop systeem&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Overige&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Achteropkomend verkeer waarschuwing&lt;/li&gt;&lt;li&gt;Achteruitrij assistent&lt;/li&gt;&lt;li&gt;Anti Blokkeer Systeem&lt;/li&gt;&lt;li&gt;Anti doorSlip Regeling&lt;/li&gt;&lt;li&gt;Apple Carplay/Android Auto&lt;/li&gt;&lt;li&gt;Autonomous Emergency Braking&lt;/li&gt;&lt;li&gt;Bestuurdersairbag&lt;/li&gt;&lt;li&gt;Bluetooth&lt;/li&gt;&lt;li&gt;Bots waarschuwing systeem&lt;/li&gt;&lt;li&gt;Brake Assist System&lt;/li&gt;&lt;li&gt;Connected services&lt;/li&gt;&lt;li&gt;Elektronisch Stabiliteits Programma&lt;/li&gt;&lt;li&gt;Hemelbekleding donker&lt;/li&gt;&lt;li&gt;Hoofd airbag(s) achter&lt;/li&gt;&lt;li&gt;Hoofd airbag(s) voor&lt;/li&gt;&lt;li&gt;Keyless start&lt;/li&gt;&lt;li&gt;M Aerodynamica&lt;/li&gt;&lt;li&gt;Oplaadmogelijkheid&lt;/li&gt;&lt;li&gt;Passagiersairbag&lt;/li&gt;&lt;li&gt;Rijstrooksensor met correctie&lt;/li&gt;&lt;li&gt;Schakelpaddles&lt;/li&gt;&lt;li&gt;Sfeerverlichting&lt;/li&gt;&lt;li&gt;Sportstuur leder&lt;/li&gt;&lt;li&gt;Volledig digitaal instrumentenpaneel&lt;/li&gt;&lt;li&gt;Zij airbag(s) voor&lt;/li&gt;&lt;li&gt;Zwarte (glans) exterieur delen&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Veiligheid&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Achteruitrijcamera&lt;/li&gt;&lt;li&gt;Alarm klasse 1(startblokkering)&lt;/li&gt;&lt;li&gt;Bandenspanningscontrolesysteem&lt;/li&gt;&lt;li&gt;Binnen/buitenspiegel aut. dimmend&lt;/li&gt;&lt;li&gt;Grootlichtassistent&lt;/li&gt;&lt;li&gt;Hill hold functie&lt;/li&gt;&lt;li&gt;Isofix bevestiging voor kinderzitjes&lt;/li&gt;&lt;li&gt;Rijstrooksensor&lt;/li&gt;&lt;li&gt;Verkeersbord detectie&lt;/li&gt;&lt;li&gt;Vermoeidheids herkenning&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Carteli&amp;eacute;r B.V. is een RDW erkend, jong en dynamisch bedrijf. De auto's in onze voorraad zijn zorgvuldig geselecteerd.&lt;br /&gt;Onze focus ligt op ontzorgen! In onze optiek is dat: Service, betrouwbaarheid en een goede prijs!&lt;br /&gt;Eventuele inruil van uw huidige auto is geen enkel probleem. Wilt u langskomen voor een proefrit in deze auto neem dan contact met ons op. Wij werken enkel op afspraak. De koffie staat voor u klaar!&amp;nbsp; Afspraak in de avond ook mogelijk.&amp;nbsp;&lt;br /&gt;&lt;br /&gt;Wij zijn bezig met een vernieuwde website! Deze zal waarschijnlijk eind september opgeleverd worden!&amp;nbsp;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Afleverpakketten&lt;/b&gt;&lt;br /&gt;Bij Carteli&amp;eacute;r kunt u kiezen uit diverse afleverpakketten.&lt;br /&gt;Vanzelfsprekend zijn alle auto's standaard bij ons van binnen en buiten grondig gereinigd en gewassen.&lt;br /&gt;U kunt desgewenst gebruik maken van onze polijstservice en glascoating.&lt;br /&gt;Deze service bieden wij u tegen kostprijs aan. De prijzen vari&amp;euml;ren uiteraard per type auto.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Carteli&amp;eacute;r B.V.&lt;/b&gt;&lt;br /&gt;De Stroekeld 2-B&amp;nbsp;&lt;br /&gt;7462 ZB&amp;nbsp;Rijssen&amp;nbsp;&lt;br /&gt;0548-234880&amp;nbsp;&lt;br /&gt;info@cartelier.nl&amp;nbsp;&lt;br /&gt;&lt;br /&gt;We hebben ons uiterste best gedaan om alle informatie in deze advertentie correct weer te geven.&lt;br /&gt;Toch kan het voorkomen dat er iets ontbreekt of onjuist is weergegeven. Er kunnen echter geen rechten ontleend worden aan de verstrekte informatie in deze advertentie.</general.remarks_fr>
+	<general.remarks_es></general.remarks_es>
+	<general.remarks_pt></general.remarks_pt>
+	<general.remarks_it></general.remarks_it>
+	<general.remarks_el></general.remarks_el>
+	<general.remarks_ru></general.remarks_ru>
+	<general.remarks_ro></general.remarks_ro>
+	<general.remarks_hu></general.remarks_hu>
+	<general.remarks_pl>&lt;b&gt;BMW 3-serie Touring 330e Hybride M-Sport | Laser Led|NW mod!&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Goedkoop en sportief rijden? Met deze BMW 330e Touring is het mogelijk!&lt;br /&gt;De combinatie van 292pk hybride en de sportieve looks maakt deze auto zuinig, snel en een genot om naar te kijken en in te rijden. Daarnaast is deze BMW voorzien van vele opties zoals: M-sport pakket, Adaptive Cruise Control, BMW Laser Led Lights, Ambient sfeerverlichting, Apple Carplay,&amp;nbsp; F1 schakelpeddels en nog veel meer...&lt;br /&gt;&lt;br /&gt;Carteli&amp;eacute;r B.V. is een RDW erkend, jong en dynamisch bedrijf. De auto's in onze voorraad zijn zorgvuldig geselecteerd.&lt;br /&gt;Onze focus ligt op ontzorgen! In onze optiek is dat: Service, betrouwbaarheid en een goede prijs!&lt;br /&gt;Eventuele inruil van uw huidige auto is geen enkel probleem. Wilt u langskomen voor een proefrit in deze auto neem dan contact met ons op. Wij werken enkel op afspraak. De koffie staat voor u klaar!&amp;nbsp; Afspraak in de avond ook mogelijk.&amp;nbsp;&lt;br /&gt;&lt;br /&gt;Wij zijn bezig met een vernieuwde website! Deze zal waarschijnlijk eind september opgeleverd worden!&amp;nbsp;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Afleverpakketten&lt;/b&gt;&lt;br /&gt;Bij Carteli&amp;eacute;r kunt u kiezen uit diverse afleverpakketten.&lt;br /&gt;Vanzelfsprekend zijn alle auto's standaard bij ons van binnen en buiten grondig gereinigd en gewassen.&lt;br /&gt;U kunt desgewenst gebruik maken van onze polijstservice en glascoating.&lt;br /&gt;Deze service bieden wij u tegen kostprijs aan. De prijzen vari&amp;euml;ren uiteraard per type auto.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Carteli&amp;eacute;r B.V.&lt;/b&gt;&lt;br /&gt;De Stroekeld 2-B&amp;nbsp;&lt;br /&gt;7462 ZB&amp;nbsp;Rijssen&amp;nbsp;&lt;br /&gt;0548-234880&amp;nbsp;&lt;br /&gt;info@cartelier.nl&amp;nbsp;&lt;br /&gt;&lt;br /&gt;We hebben ons uiterste best gedaan om alle informatie in deze advertentie correct weer te geven.&lt;br /&gt;Toch kan het voorkomen dat er iets ontbreekt of onjuist is weergegeven. Er kunnen echter geen rechten ontleend worden aan de verstrekte informatie in deze advertentie.</general.remarks_pl>
+	<general.remarks_cz></general.remarks_cz>
+	<general.remarks_bg></general.remarks_bg>
+	<general.remarks_hr>Schitterende 330e Hybride (facelift model).&lt;br /&gt;1e eigenaar en volledig M-sport uitgevoerd!&lt;br /&gt;Volledig dealer onderhouden!&lt;br /&gt;&lt;br /&gt;Goedkoop en sportief rijden? Met deze BMW 330e Touring is het mogelijk!&lt;br /&gt;De combinatie van 292pk hybride en de sportieve looks maakt deze auto zuinig, snel en een genot om naar te kijken en in te rijden. Daarnaast is deze BMW voorzien van vele opties zoals: M-sport pakket, Adaptive Cruise Control, BMW Laser Led Lights, Ambient sfeerverlichting, Apple Carplay,&amp;nbsp; F1 schakelpeddels en nog veel meer...</general.remarks_hr>
+	<general.remarks_dk></general.remarks_dk>
+	<general.remarks_sk></general.remarks_sk>
+	<general.remarks_tr></general.remarks_tr>
+	<general.remarks_fi></general.remarks_fi>
+	<general.remarks_se></general.remarks_se>
+	<general.remarks_no></general.remarks_no>
+	<general.remarks_business_nl></general.remarks_business_nl>
+	<general.remarks_business_en></general.remarks_business_en>
+	<general.remarks_business_de></general.remarks_business_de>
+	<general.remarks_business_fr></general.remarks_business_fr>
+	<general.remarks_business_es></general.remarks_business_es>
+	<general.remarks_business_pt></general.remarks_business_pt>
+	<general.remarks_business_it></general.remarks_business_it>
+	<general.remarks_business_el></general.remarks_business_el>
+	<general.remarks_business_ru></general.remarks_business_ru>
+	<general.remarks_business_ro></general.remarks_business_ro>
+	<general.remarks_business_hu></general.remarks_business_hu>
+	<general.remarks_business_pl></general.remarks_business_pl>
+	<general.remarks_business_cz></general.remarks_business_cz>
+	<general.remarks_business_bg></general.remarks_business_bg>
+	<general.remarks_business_hr></general.remarks_business_hr>
+	<general.remarks_business_dk></general.remarks_business_dk>
+	<general.remarks_business_sk></general.remarks_business_sk>
+	<general.remarks_business_tr></general.remarks_business_tr>
+	<general.remarks_business_fi></general.remarks_business_fi>
+	<general.remarks_business_se></general.remarks_business_se>
+	<general.remarks_business_no></general.remarks_business_no>
+	<general.title_nl>BMW 3-serie Touring 330e Hybride M-Sport | Laser Led|NW mod!</general.title_nl>
+	<general.title_en>BMW 3-serie Touring 330e Hybride M-Sport | Laser Led|NW mod!</general.title_en>
+	<general.title_de>BMW 3-serie Touring 330e Hybride M-Sport | Laser Led|NW mod!</general.title_de>
+	<general.title_fr>BMW 3-serie Touring 330e Hybride M-Sport | Laser Led|NW mod!</general.title_fr>
+	<general.title_es></general.title_es>
+	<general.title_pt></general.title_pt>
+	<general.title_it></general.title_it>
+	<general.title_el></general.title_el>
+	<general.title_ru></general.title_ru>
+	<general.title_ro></general.title_ro>
+	<general.title_hu></general.title_hu>
+	<general.title_pl></general.title_pl>
+	<general.title_cz></general.title_cz>
+	<general.title_bg></general.title_bg>
+	<general.title_hr></general.title_hr>
+	<general.title_dk></general.title_dk>
+	<general.title_sk></general.title_sk>
+	<general.title_tr></general.title_tr>
+	<general.title_fi></general.title_fi>
+	<general.title_se></general.title_se>
+	<general.title_no></general.title_no>
+	<general.highlights_nl></general.highlights_nl>
+	<general.highlights_en></general.highlights_en>
+	<general.highlights_de></general.highlights_de>
+	<general.highlights_fr></general.highlights_fr>
+	<general.highlights_es></general.highlights_es>
+	<general.highlights_pt></general.highlights_pt>
+	<general.highlights_it></general.highlights_it>
+	<general.highlights_el></general.highlights_el>
+	<general.highlights_ru></general.highlights_ru>
+	<general.highlights_ro></general.highlights_ro>
+	<general.highlights_hu></general.highlights_hu>
+	<general.highlights_pl></general.highlights_pl>
+	<general.highlights_cz></general.highlights_cz>
+	<general.highlights_bg></general.highlights_bg>
+	<general.highlights_hr></general.highlights_hr>
+	<general.highlights_dk></general.highlights_dk>
+	<general.highlights_sk></general.highlights_sk>
+	<general.highlights_tr></general.highlights_tr>
+	<general.highlights_fi></general.highlights_fi>
+	<general.highlights_se></general.highlights_se>
+	<general.highlights_no></general.highlights_no>
+	<search_terms_nl></search_terms_nl>
+	<search_terms_en></search_terms_en>
+	<search_terms_de></search_terms_de>
+	<search_terms_fr></search_terms_fr>
+	<search_terms_es></search_terms_es>
+	<search_terms_pt></search_terms_pt>
+	<search_terms_it></search_terms_it>
+	<search_terms_el></search_terms_el>
+	<search_terms_ru></search_terms_ru>
+	<search_terms_ro></search_terms_ro>
+	<search_terms_hu></search_terms_hu>
+	<search_terms_pl></search_terms_pl>
+	<search_terms_cz></search_terms_cz>
+	<search_terms_bg></search_terms_bg>
+	<search_terms_hr></search_terms_hr>
+	<search_terms_dk></search_terms_dk>
+	<search_terms_sk></search_terms_sk>
+	<search_terms_tr></search_terms_tr>
+	<search_terms_fi></search_terms_fi>
+	<search_terms_se></search_terms_se>
+	<search_terms_no></search_terms_no>
+	<general.default_remarks_nl></general.default_remarks_nl>
+	<general.default_remarks_en></general.default_remarks_en>
+	<general.default_remarks_de></general.default_remarks_de>
+	<general.default_remarks_fr></general.default_remarks_fr>
+	<general.default_remarks_es></general.default_remarks_es>
+	<general.default_remarks_pt></general.default_remarks_pt>
+	<general.default_remarks_it></general.default_remarks_it>
+	<general.default_remarks_el></general.default_remarks_el>
+	<general.default_remarks_ru></general.default_remarks_ru>
+	<general.default_remarks_ro></general.default_remarks_ro>
+	<general.default_remarks_hu></general.default_remarks_hu>
+	<general.default_remarks_pl></general.default_remarks_pl>
+	<general.default_remarks_cz></general.default_remarks_cz>
+	<general.default_remarks_bg></general.default_remarks_bg>
+	<general.default_remarks_hr></general.default_remarks_hr>
+	<general.default_remarks_dk></general.default_remarks_dk>
+	<general.default_remarks_sk></general.default_remarks_sk>
+	<general.default_remarks_tr></general.default_remarks_tr>
+	<general.default_remarks_fi></general.default_remarks_fi>
+	<general.default_remarks_se></general.default_remarks_se>
+	<general.default_remarks_no></general.default_remarks_no>
+	<sales_conditions.road_tax>
+		<month_min>
+			<price nr="">
+				<amount>107</amount>
+				<currency>EUR</currency>
+				<vat/>
+				<vat_percentage/>
+				<bpm/>
+			</price>
+		</month_min>
+		<month_max>
+			<price nr="">
+				<amount>118</amount>
+				<currency>EUR</currency>
+				<vat/>
+				<vat_percentage/>
+				<bpm/>
+			</price>
+		</month_max>
+		<quarter_min>
+			<price nr="">
+				<amount>321</amount>
+				<currency>EUR</currency>
+				<vat/>
+				<vat_percentage/>
+				<bpm/>
+			</price>
+		</quarter_min>
+		<quarter_max>
+			<price nr="">
+				<amount>354</amount>
+				<currency>EUR</currency>
+				<vat/>
+				<vat_percentage/>
+				<bpm/>
+			</price>
+		</quarter_max>
+		<year_min>
+			<price nr="">
+				<amount>1284</amount>
+				<currency>EUR</currency>
+				<vat/>
+				<vat_percentage/>
+				<bpm/>
+			</price>
+		</year_min>
+		<year_max>
+			<price nr="">
+				<amount>1416</amount>
+				<currency>EUR</currency>
+				<vat/>
+				<vat_percentage/>
+				<bpm/>
+			</price>
+		</year_max>
+	</sales_conditions.road_tax>
+	<sales_conditions.bmw_service_inclusive>
+		<servicetype/>
+		<contracttype/>
+		<remarks_nl></remarks_nl>
+		<start_date/>
+		<end_date/>
+		<max_kms/>
+	</sales_conditions.bmw_service_inclusive>
+	<history.sold>n</history.sold>
+	<sales_conditions.expected/>
+	<sales_conditions.reserved>n</sales_conditions.reserved>
+	<accessories_nl>
+		<accessory>
+			<name>20'' Velgen met goede banden</name>
+			<priority>2</priority>
+			<order>111</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Achterbank in delen neerklapbaar</name>
+			<priority>2</priority>
+			<order>18</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Achteropkomend verkeer waarschuwing</name>
+			<priority>2</priority>
+			<order>70</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Achteruitrij assistent</name>
+			<priority>2</priority>
+			<order>103</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Achteruitrijcamera</name>
+			<priority>2</priority>
+			<order>104</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Afdekhoes</name>
+			<priority>2</priority>
+			<order>20</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Airco</name>
+			<priority>2</priority>
+			<order>102</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Airco separaat achter</name>
+			<priority>2</priority>
+			<order>53</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Alarm klasse 1(startblokkering)</name>
+			<priority>2</priority>
+			<order>24</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Anti Blokkeer Systeem</name>
+			<priority>2</priority>
+			<order>9</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Anti doorSlip Regeling</name>
+			<priority>2</priority>
+			<order>10</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Apple Carplay/Android Auto</name>
+			<priority>2</priority>
+			<order>68</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Armsteun achter</name>
+			<priority>2</priority>
+			<order>43</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Armsteun voor</name>
+			<priority>2</priority>
+			<order>42</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Audio installatie</name>
+			<priority>2</priority>
+			<order>115</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Audio installatie premium</name>
+			<priority>2</priority>
+			<order>101</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Autonome parkeerfunctie</name>
+			<priority>2</priority>
+			<order>112</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Autonomous Emergency Braking</name>
+			<priority>2</priority>
+			<order>57</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Bagage-scheidingsnet</name>
+			<priority>2</priority>
+			<order>33</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Bandenspanningscontrolesysteem</name>
+			<priority>2</priority>
+			<order>35</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Bestuurdersairbag</name>
+			<priority>2</priority>
+			<order>12</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Binnen/buitenspiegel aut. dimmend</name>
+			<priority>2</priority>
+			<order>36</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Bluetooth</name>
+			<priority>2</priority>
+			<order>61</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Boordcomputer</name>
+			<priority>2</priority>
+			<order>4</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Bots waarschuwing systeem</name>
+			<priority>2</priority>
+			<order>71</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Brake Assist System</name>
+			<priority>2</priority>
+			<order>34</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Buitenspiegels elektrisch inklapbaar</name>
+			<priority>2</priority>
+			<order>48</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Buitenspiegels elektrisch verstel- en verwarmbaar</name>
+			<priority>2</priority>
+			<order>27</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Buitenspiegels elektrisch verstelbaar</name>
+			<priority>2</priority>
+			<order>100</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Buitenspiegels in carrosseriekleur</name>
+			<priority>2</priority>
+			<order>8</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Buitenspiegels verwarmbaar</name>
+			<priority>2</priority>
+			<order>105</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Centrale vergrendeling met afstandsbediening</name>
+			<priority>2</priority>
+			<order>29</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Connected services</name>
+			<priority>2</priority>
+			<order>67</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Cruise control</name>
+			<priority>2</priority>
+			<order>5</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Cruise control adaptief met Stop&amp;Go</name>
+			<priority>2</priority>
+			<order>98</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Cruise control adaptief met Stop&amp;Go en stuurhulp</name>
+			<priority>2</priority>
+			<order>118</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>DAB</name>
+			<priority>2</priority>
+			<order>60</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Dakrails</name>
+			<priority>2</priority>
+			<order>3</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Dimlichten automatisch</name>
+			<priority>2</priority>
+			<order>45</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Draadloze telefoonlader</name>
+			<priority>2</priority>
+			<order>117</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Electronic climate control</name>
+			<priority>2</priority>
+			<order>16</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Elektrisch bedienbare achterklep</name>
+			<priority>2</priority>
+			<order>41</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Elektrische ramen achter</name>
+			<priority>2</priority>
+			<order>21</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Elektrische ramen voor</name>
+			<priority>2</priority>
+			<order>1</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Elektrische ramen voor en achter</name>
+			<priority>2</priority>
+			<order>97</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Elektronisch Stabiliteits Programma</name>
+			<priority>2</priority>
+			<order>46</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Geluidsisolerend glas</name>
+			<priority>2</priority>
+			<order>116</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Getint glas</name>
+			<priority>2</priority>
+			<order>95</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Grootlichtassistent</name>
+			<priority>2</priority>
+			<order>94</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Hemelbekleding donker</name>
+			<priority>2</priority>
+			<order>81</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Hill hold functie</name>
+			<priority>2</priority>
+			<order>59</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Hoofd airbag(s) achter</name>
+			<priority>2</priority>
+			<order>47</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Hoofd airbag(s) voor</name>
+			<priority>2</priority>
+			<order>15</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Isofix bevestiging voor kinderzitjes</name>
+			<priority>2</priority>
+			<order>80</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Keyless start</name>
+			<priority>2</priority>
+			<order>72</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Kleur zwart</name>
+			<priority>2</priority>
+			<order>106</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Koplampen adaptief</name>
+			<priority>2</priority>
+			<order>107</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Kruisend verkeer detectie</name>
+			<priority>2</priority>
+			<order>119</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Kunstlederen/microvezel bekleding</name>
+			<priority>2</priority>
+			<order>114</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>LED achterlichten</name>
+			<priority>2</priority>
+			<order>66</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Lederen bekleding</name>
+			<priority>2</priority>
+			<order>75</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Lederen interieurdelen</name>
+			<priority>2</priority>
+			<order>82</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>LED koplampen</name>
+			<priority>2</priority>
+			<order>62</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Lendesteun(en) verstelbaar</name>
+			<priority>2</priority>
+			<order>108</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>M Aerodynamica</name>
+			<priority>2</priority>
+			<order>76</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Metaalkleur</name>
+			<priority>2</priority>
+			<order>109</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Middenarmsteun voor</name>
+			<priority>2</priority>
+			<order>110</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Multimedia-voorbereiding</name>
+			<priority>2</priority>
+			<order>56</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Navigatiesysteem</name>
+			<priority>2</priority>
+			<order>19</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Oplaadmogelijkheid</name>
+			<priority>2</priority>
+			<order>65</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Park Distance Control</name>
+			<priority>2</priority>
+			<order>77</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Parkeer assistent</name>
+			<priority>2</priority>
+			<order>83</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Parkeersensor achter</name>
+			<priority>2</priority>
+			<order>50</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Parkeersensor voor</name>
+			<priority>2</priority>
+			<order>58</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Passagiersairbag</name>
+			<priority>2</priority>
+			<order>23</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Regensensor</name>
+			<priority>2</priority>
+			<order>6</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Rijstrooksensor</name>
+			<priority>2</priority>
+			<order>40</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Rijstrooksensor met correctie</name>
+			<priority>2</priority>
+			<order>84</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Ruitensproeiers/wisserbladen verwarmbaar</name>
+			<priority>2</priority>
+			<order>44</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Schakelpaddles</name>
+			<priority>2</priority>
+			<order>38</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Sfeerverlichting</name>
+			<priority>2</priority>
+			<order>85</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Sluitbekrachtiging</name>
+			<priority>2</priority>
+			<order>73</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Speciale kleur</name>
+			<priority>2</priority>
+			<order>78</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Sportief interieur</name>
+			<priority>2</priority>
+			<order>87</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Sportonderstel</name>
+			<priority>2</priority>
+			<order>86</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Sportstoelen</name>
+			<priority>2</priority>
+			<order>88</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Sportstuur</name>
+			<priority>2</priority>
+			<order>52</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Sportstuur leder</name>
+			<priority>2</priority>
+			<order>89</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Sportvelgen</name>
+			<priority>2</priority>
+			<order>90</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Spraakbediening</name>
+			<priority>2</priority>
+			<order>55</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Start/stop systeem</name>
+			<priority>2</priority>
+			<order>39</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Stuurbekrachtiging</name>
+			<priority>2</priority>
+			<order>79</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Stuurbekrachtiging snelheidsafhankelijk</name>
+			<priority>2</priority>
+			<order>22</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Stuur leder</name>
+			<priority>2</priority>
+			<order>7</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Stuur multifunctioneel</name>
+			<priority>2</priority>
+			<order>49</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Stuur verstelbaar</name>
+			<priority>2</priority>
+			<order>30</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Uitwijk assistent</name>
+			<priority>2</priority>
+			<order>120</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Variabele stuuroverbrenging</name>
+			<priority>2</priority>
+			<order>113</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Verkeersbord detectie</name>
+			<priority>2</priority>
+			<order>63</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Vermoeidheids herkenning</name>
+			<priority>2</priority>
+			<order>64</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Volledig digitaal instrumentenpaneel</name>
+			<priority>2</priority>
+			<order>69</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Voorstoel(en) elektrisch verstelbaar</name>
+			<priority>2</priority>
+			<order>92</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Voorstoelen verwarmd</name>
+			<priority>2</priority>
+			<order>93</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Zij airbag(s) voor</name>
+			<priority>2</priority>
+			<order>13</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Zwarte (glans) exterieur delen</name>
+			<priority>2</priority>
+			<order>74</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Adaptieve Cruise Control</name>
+			<priority>3</priority>
+			<order>99</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Airbags</name>
+			<priority>3</priority>
+			<order>14</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Airconditioning</name>
+			<priority>3</priority>
+			<order>54</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Alarm</name>
+			<priority>3</priority>
+			<order>25</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>ASR</name>
+			<priority>3</priority>
+			<order>11</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Binnenspiegel aut. dimmend</name>
+			<priority>3</priority>
+			<order>37</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Climate Control</name>
+			<priority>3</priority>
+			<order>17</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Elek. bedienbare ramen</name>
+			<priority>3</priority>
+			<order>2</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Elek. verstelbare spiegels</name>
+			<priority>3</priority>
+			<order>28</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>In hoogte verstelbaar stuur</name>
+			<priority>3</priority>
+			<order>32</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>lichtmetalen velgen</name>
+			<priority>3</priority>
+			<order>91</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Parkeersensor</name>
+			<priority>3</priority>
+			<order>51</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>Startonderbreker</name>
+			<priority>3</priority>
+			<order>26</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>verstelbare stuurkolom</name>
+			<priority>3</priority>
+			<order>31</order>
+			<price/>
+		</accessory>
+		<accessory>
+			<name>zonwerend glas</name>
+			<priority>3</priority>
+			<order>96</order>
+			<price/>
+		</accessory>
+	</accessories_nl>
+	<accessories_en/>
+	<accessories_de/>
+	<accessories_fr/>
+	<accessories_es/>
+	<accessories_pt/>
+	<accessories_it/>
+	<accessories_el/>
+	<accessories_ru/>
+	<accessories_ro/>
+	<accessories_hu/>
+	<accessories_pl/>
+	<accessories_cz/>
+	<accessories_bg/>
+	<accessories_hr/>
+	<accessories_dk/>
+	<accessories_sk/>
+	<accessories_tr/>
+	<accessories_fi/>
+	<accessories_se/>
+	<accessories_no/>
+	<accessoriesgroups_nl>
+		<accessoriesgroup name="Comfort">
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Boordcomputer</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Cruise control</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Regensensor</description>
+			</accessory>
+			<accessory>
+				<priority>3</priority>
+				<price/>
+				<description>Adaptieve Cruise Control</description>
+			</accessory>
+			<accessory>
+				<priority>3</priority>
+				<price/>
+				<description>Airconditioning</description>
+			</accessory>
+			<accessory>
+				<priority>3</priority>
+				<price/>
+				<description>Binnenspiegel aut. dimmend</description>
+			</accessory>
+			<accessory>
+				<priority>3</priority>
+				<price/>
+				<description>Climate Control</description>
+			</accessory>
+			<accessory>
+				<priority>3</priority>
+				<price/>
+				<description>Elek. bedienbare ramen</description>
+			</accessory>
+			<accessory>
+				<priority>3</priority>
+				<price/>
+				<description>Elek. verstelbare spiegels</description>
+			</accessory>
+			<accessory>
+				<priority>3</priority>
+				<price/>
+				<description>In hoogte verstelbaar stuur</description>
+			</accessory>
+		</accessoriesgroup>
+		<accessoriesgroup name="Exterieur">
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>20'' Velgen met goede banden</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Afdekhoes</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Buitenspiegels elektrisch inklapbaar</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Buitenspiegels elektrisch verstel- en verwarmbaar</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Buitenspiegels elektrisch verstelbaar</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Buitenspiegels in carrosseriekleur</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Buitenspiegels verwarmbaar</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Centrale vergrendeling met afstandsbediening</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Dakrails</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Dimlichten automatisch</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Elektrisch bedienbare achterklep</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Getint glas</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Kleur zwart</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Koplampen adaptief</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>LED achterlichten</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>LED koplampen</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Metaalkleur</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Park Distance Control</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Parkeer assistent</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Parkeersensor achter</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Parkeersensor voor</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Ruitensproeiers/wisserbladen verwarmbaar</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Sluitbekrachtiging</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Speciale kleur</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Sportonderstel</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Sportvelgen</description>
+			</accessory>
+			<accessory>
+				<priority>3</priority>
+				<price/>
+				<description>lichtmetalen velgen</description>
+			</accessory>
+			<accessory>
+				<priority>3</priority>
+				<price/>
+				<description>zonwerend glas</description>
+			</accessory>
+		</accessoriesgroup>
+		<accessoriesgroup name="Infotainment">
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Audio installatie</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Audio installatie premium</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>DAB</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Multimedia-voorbereiding</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Navigatiesysteem</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Spraakbediening</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Stuur multifunctioneel</description>
+			</accessory>
+		</accessoriesgroup>
+		<accessoriesgroup name="Interieur">
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Achterbank in delen neerklapbaar</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Airco</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Airco separaat achter</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Armsteun achter</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Armsteun voor</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Bagage-scheidingsnet</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Cruise control adaptief met Stop&amp;Go</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Electronic climate control</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Elektrische ramen achter</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Elektrische ramen voor</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Elektrische ramen voor en achter</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Kunstlederen/microvezel bekleding</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Lederen bekleding</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Lederen interieurdelen</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Lendesteun(en) verstelbaar</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Middenarmsteun voor</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Sportief interieur</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Sportstoelen</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Sportstuur</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Stuurbekrachtiging</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Stuurbekrachtiging snelheidsafhankelijk</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Stuur leder</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Stuur verstelbaar</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Voorstoel(en) elektrisch verstelbaar</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Voorstoelen verwarmd</description>
+			</accessory>
+			<accessory>
+				<priority>3</priority>
+				<price/>
+				<description>verstelbare stuurkolom</description>
+			</accessory>
+		</accessoriesgroup>
+		<accessoriesgroup name="Milieu">
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Start/stop systeem</description>
+			</accessory>
+		</accessoriesgroup>
+		<accessoriesgroup name="Veiligheid">
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Achteruitrijcamera</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Alarm klasse 1(startblokkering)</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Bandenspanningscontrolesysteem</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Binnen/buitenspiegel aut. dimmend</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Grootlichtassistent</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Hill hold functie</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Isofix bevestiging voor kinderzitjes</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Rijstrooksensor</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Verkeersbord detectie</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Vermoeidheids herkenning</description>
+			</accessory>
+			<accessory>
+				<priority>3</priority>
+				<price/>
+				<description>Airbags</description>
+			</accessory>
+			<accessory>
+				<priority>3</priority>
+				<price/>
+				<description>Alarm</description>
+			</accessory>
+			<accessory>
+				<priority>3</priority>
+				<price/>
+				<description>Parkeersensor</description>
+			</accessory>
+			<accessory>
+				<priority>3</priority>
+				<price/>
+				<description>Startonderbreker</description>
+			</accessory>
+		</accessoriesgroup>
+		<accessoriesgroup name="Overige">
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Achteropkomend verkeer waarschuwing</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Achteruitrij assistent</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Anti Blokkeer Systeem</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Anti doorSlip Regeling</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Apple Carplay/Android Auto</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Autonome parkeerfunctie</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Autonomous Emergency Braking</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Bestuurdersairbag</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Bluetooth</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Bots waarschuwing systeem</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Brake Assist System</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Connected services</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Cruise control adaptief met Stop&amp;Go en stuurhulp</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Draadloze telefoonlader</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Elektronisch Stabiliteits Programma</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Geluidsisolerend glas</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Hemelbekleding donker</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Hoofd airbag(s) achter</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Hoofd airbag(s) voor</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Keyless start</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Kruisend verkeer detectie</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>M Aerodynamica</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Oplaadmogelijkheid</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Passagiersairbag</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Rijstrooksensor met correctie</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Schakelpaddles</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Sfeerverlichting</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Sportstuur leder</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Uitwijk assistent</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Variabele stuuroverbrenging</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Volledig digitaal instrumentenpaneel</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Zij airbag(s) voor</description>
+			</accessory>
+			<accessory>
+				<priority>2</priority>
+				<price/>
+				<description>Zwarte (glans) exterieur delen</description>
+			</accessory>
+			<accessory>
+				<priority>3</priority>
+				<price/>
+				<description>ASR</description>
+			</accessory>
+		</accessoriesgroup>
+	</accessoriesgroups_nl>
+	<accessoriesgroups_en/>
+	<accessoriesgroups_de/>
+	<accessoriesgroups_fr/>
+	<accessoriesgroups_es/>
+	<accessoriesgroups_pt/>
+	<accessoriesgroups_it/>
+	<accessoriesgroups_el/>
+	<accessoriesgroups_ru/>
+	<accessoriesgroups_ro/>
+	<accessoriesgroups_hu/>
+	<accessoriesgroups_pl/>
+	<accessoriesgroups_cz/>
+	<accessoriesgroups_bg/>
+	<accessoriesgroups_hr/>
+	<accessoriesgroups_dk/>
+	<accessoriesgroups_sk/>
+	<accessoriesgroups_tr/>
+	<accessoriesgroups_fi/>
+	<accessoriesgroups_se/>
+	<accessoriesgroups_no/>
+	<searchaccessories_nl>
+		<accessory>Achterbank in delen neerklapbaar</accessory>
+		<accessory>Achteruitrijcamera</accessory>
+		<accessory>Adaptive cruise control</accessory>
+		<accessory>Airbag bestuurder</accessory>
+		<accessory>Airconditioning achter</accessory>
+		<accessory>Alarmsysteem klasse I</accessory>
+		<accessory>Android Auto</accessory>
+		<accessory>Anti-slipregeling</accessory>
+		<accessory>Antiblokkeersysteem</accessory>
+		<accessory>Apple CarPlay</accessory>
+		<accessory>Automatisch dimmende binnenspiegel</accessory>
+		<accessory>Automatisch dimmende buitenspiegels</accessory>
+		<accessory>Automatische dimlichten</accessory>
+		<accessory>Automatische parkeerassistent</accessory>
+		<accessory>Automatisch noodremsysteem</accessory>
+		<accessory>Bandenspanningscontrole</accessory>
+		<accessory>Bluetooth carkit</accessory>
+		<accessory>Bochtenverlichting</accessory>
+		<accessory>Boordcomputer</accessory>
+		<accessory>Botswaarschuwingsysteem</accessory>
+		<accessory>Buitenspiegels in carrosseriekleur</accessory>
+		<accessory>Centrale deurvergrendeling afstandbediend</accessory>
+		<accessory>Climate control</accessory>
+		<accessory>Cruise control</accessory>
+		<accessory>Dakrails</accessory>
+		<accessory>Draadloos opladen mobiele telefoon</accessory>
+		<accessory>Elektrisch bedienbare achterklep</accessory>
+		<accessory>Elektrisch bedienbare ramen achter</accessory>
+		<accessory>Elektrisch bedienbare ramen voor</accessory>
+		<accessory>Elektrisch bedienbare ramen voor en achter</accessory>
+		<accessory>Elektrisch inklapbare buitenspiegels</accessory>
+		<accessory>Elektrisch verstelbare buitenspiegels</accessory>
+		<accessory>Getint glas</accessory>
+		<accessory>Grootlichtassistent</accessory>
+		<accessory>Hill-hold control</accessory>
+		<accessory>Hoofdairbags achter</accessory>
+		<accessory>Hoofdairbags voor</accessory>
+		<accessory>ISOFIX aansluiting</accessory>
+		<accessory>Keyless start</accessory>
+		<accessory>LED achterlichten</accessory>
+		<accessory>Lederen bekleding</accessory>
+		<accessory>Lederen interieur</accessory>
+		<accessory>Lederen stuurwiel</accessory>
+		<accessory>LED koplampen</accessory>
+		<accessory>Metallic lak</accessory>
+		<accessory>Middenarmsteun achter</accessory>
+		<accessory>Middenarmsteun voor</accessory>
+		<accessory>Multifunctioneel stuurwiel</accessory>
+		<accessory>Multimedia-voorbereiding</accessory>
+		<accessory>Navigatiesysteem</accessory>
+		<accessory>Noodremassistentie</accessory>
+		<accessory>Parkeersensoren achter</accessory>
+		<accessory>Parkeersensoren voor</accessory>
+		<accessory>Radio met DAB</accessory>
+		<accessory>Regensensor</accessory>
+		<accessory>Rijstrooksensor</accessory>
+		<accessory>Schakelflippers</accessory>
+		<accessory>Sfeerverlichting</accessory>
+		<accessory>Snelheidsafhankelijke stuurbekrachtiging</accessory>
+		<accessory>Sportonderstel</accessory>
+		<accessory>Sportstoelen</accessory>
+		<accessory>Sportstuurwiel</accessory>
+		<accessory>Spraakbediening</accessory>
+		<accessory>Stabiliteitscontrole</accessory>
+		<accessory>Start/stopsysteem</accessory>
+		<accessory>Startonderbreker</accessory>
+		<accessory>Stoelverwarming voor</accessory>
+		<accessory>Verkeersbordenherkenning</accessory>
+		<accessory>Vermoeidheidsherkenning</accessory>
+		<accessory>Verstelbaar stuurwiel</accessory>
+		<accessory>Verwarmde buitenspiegels</accessory>
+		<accessory>Volledig digitaal instrumentenpaneel</accessory>
+		<accessory>Waarschuwing achteropkomend verkeer</accessory>
+		<accessory>Waarschuwing kruisend verkeer</accessory>
+		<accessory>Zij-airbags voor</accessory>
+		<accessory>Airbags</accessory>
+		<accessory>In hoogte verstelbaar stuur</accessory>
+		<accessory>Lichtmetalen wielen</accessory>
+		<accessory>Warmtewerend glas</accessory>
+	</searchaccessories_nl>
+	<searchaccessories_en>
+		<accessory>Adaptive cruise control</accessory>
+		<accessory>Adjustable steering wheel</accessory>
+		<accessory>Alarm system Class I</accessory>
+		<accessory>Ambient lighting</accessory>
+		<accessory>Android Auto</accessory>
+		<accessory>Anti-lock braking system</accessory>
+		<accessory>Anti-slip regulation</accessory>
+		<accessory>Apple CarPlay</accessory>
+		<accessory>Automatically dimming rear mirror</accessory>
+		<accessory>Automatic dimming exterior mirrors</accessory>
+		<accessory>Automatic dipped headlights</accessory>
+		<accessory>Automatic parking assistent</accessory>
+		<accessory>Bend lighting</accessory>
+		<accessory>Bluetooth car kit</accessory>
+		<accessory>Climate control</accessory>
+		<accessory>Collision mitigation by braking</accessory>
+		<accessory>Collision warning system</accessory>
+		<accessory>Crossing traffic warning</accessory>
+		<accessory>Cruise control</accessory>
+		<accessory>Digital cockpit</accessory>
+		<accessory>Door mirrors in colour of body</accessory>
+		<accessory>Driver's airbag</accessory>
+		<accessory>Driver drowsiness detection</accessory>
+		<accessory>Electrically adjustable door mirrors</accessory>
+		<accessory>Electrically folding door mirrors</accessory>
+		<accessory>Electrically operated front and rear windows</accessory>
+		<accessory>Electrically operated front windows</accessory>
+		<accessory>Electrically operated rear windows</accessory>
+		<accessory>Electrically operated tailgate</accessory>
+		<accessory>Emergency braking assistance</accessory>
+		<accessory>Front central armrest</accessory>
+		<accessory>Front head airbags</accessory>
+		<accessory>Front parking sensors</accessory>
+		<accessory>Front side airbags</accessory>
+		<accessory>Heated door mirrors</accessory>
+		<accessory>Heated front seats</accessory>
+		<accessory>High beam assist</accessory>
+		<accessory>Hill-hold control</accessory>
+		<accessory>Immobiliser</accessory>
+		<accessory>ISOFIX</accessory>
+		<accessory>Keyless start</accessory>
+		<accessory>Lane departure warning</accessory>
+		<accessory>Leather interior</accessory>
+		<accessory>Leather steering wheel</accessory>
+		<accessory>Leather upholstery</accessory>
+		<accessory>LED headlights</accessory>
+		<accessory>LED rear lights</accessory>
+		<accessory>Metallic paint</accessory>
+		<accessory>Multifunctional steering wheel</accessory>
+		<accessory>Multimedia enabled</accessory>
+		<accessory>Navigation system</accessory>
+		<accessory>Onboard computer</accessory>
+		<accessory>Paddle shifters</accessory>
+		<accessory>Radio with DAB</accessory>
+		<accessory>Rain sensor</accessory>
+		<accessory>Rear air conditioning</accessory>
+		<accessory>Rear central armrest</accessory>
+		<accessory>Rear head airbags</accessory>
+		<accessory>Rear parking sensor</accessory>
+		<accessory>Rear seats foldable in parts</accessory>
+		<accessory>Remote central locking</accessory>
+		<accessory>Reversing camera</accessory>
+		<accessory>Roof rails</accessory>
+		<accessory>Speed-dependent power steering</accessory>
+		<accessory>Sports seats</accessory>
+		<accessory>Sports steering wheel</accessory>
+		<accessory>Sports suspension</accessory>
+		<accessory>Stability control</accessory>
+		<accessory>Start / stop system</accessory>
+		<accessory>Tinted glass</accessory>
+		<accessory>Traffic sign recognition</accessory>
+		<accessory>Tyre pressure control</accessory>
+		<accessory>Voice control</accessory>
+		<accessory>Warning traffic from behind</accessory>
+		<accessory>Wireless charging mobile phone</accessory>
+		<accessory>Airbags</accessory>
+		<accessory>Alloy wheels</accessory>
+		<accessory>Heat reflecting glass</accessory>
+		<accessory>Height adjustable steering wheel</accessory>
+	</searchaccessories_en>
+	<searchaccessories_de>
+		<accessory>Adaptive Cruise Control</accessory>
+		<accessory>Alarmsystem Klasse I</accessory>
+		<accessory>Android Auto</accessory>
+		<accessory>Antiblockiersystem</accessory>
+		<accessory>Antriebsschlupfregelung</accessory>
+		<accessory>Apple CarPlay</accessory>
+		<accessory>Aufmerksamkeitsassistent</accessory>
+		<accessory>Automatisch abblendende Außenspiegel</accessory>
+		<accessory>Automatisches Abblendlicht</accessory>
+		<accessory>Automatisch gedimmter Innenrückspiegel</accessory>
+		<accessory>Außenspiegel in Karosseriefarbe</accessory>
+		<accessory>Beheizte Außenspiegel</accessory>
+		<accessory>Bluetooth-Carkit</accessory>
+		<accessory>Bordcomputer</accessory>
+		<accessory>Dachschienen</accessory>
+		<accessory>Elektrisch betriebene Kofferraumklappe</accessory>
+		<accessory>Elektrische Fensterheber hinten</accessory>
+		<accessory>Elektrische Fensterheber vorn</accessory>
+		<accessory>Elektrische Fensterheber vorn und hinten</accessory>
+		<accessory>Elektrisch einklappbare Außenspiegel</accessory>
+		<accessory>Elektrisch verstellbare Außenspiegel</accessory>
+		<accessory>Fahrerairbag</accessory>
+		<accessory>Fernbediente Zentralverriegelung</accessory>
+		<accessory>Geschwindigkeitsabhängige Servolenkung</accessory>
+		<accessory>Geschwindigkeitsregelanlage</accessory>
+		<accessory>Geteilt umklappbare Rückbank</accessory>
+		<accessory>Getöntes Glas</accessory>
+		<accessory>Hill-hold control</accessory>
+		<accessory>ISOFIX</accessory>
+		<accessory>Kabellose Ladefunktion für Mobiltelefone</accessory>
+		<accessory>Keyless start</accessory>
+		<accessory>Klimaanlage</accessory>
+		<accessory>Klimaanlage hinten</accessory>
+		<accessory>Kollisionsminderung durch Bremsen</accessory>
+		<accessory>Kollisionswarnsystem</accessory>
+		<accessory>Kopfairbags hinten</accessory>
+		<accessory>Kopfairbags vorn</accessory>
+		<accessory>Kurvenlicht</accessory>
+		<accessory>LED-Rücklichter</accessory>
+		<accessory>LED-Scheinwerfer</accessory>
+		<accessory>Leder-Interieur</accessory>
+		<accessory>Lederlenkrad</accessory>
+		<accessory>Lederpolster</accessory>
+		<accessory>Metalliclack</accessory>
+		<accessory>Mittelarmlehne hinten</accessory>
+		<accessory>Mittelarmlehne vorn</accessory>
+		<accessory>Multifunktionales Lenkrad</accessory>
+		<accessory>Multimediafähig</accessory>
+		<accessory>Navigationssystem</accessory>
+		<accessory>Notbremsassistent</accessory>
+		<accessory>Parkhilfe</accessory>
+		<accessory>Parksensoren hinten</accessory>
+		<accessory>Parksensoren vorn</accessory>
+		<accessory>Radio mit DAB</accessory>
+		<accessory>Regensensor</accessory>
+		<accessory>Reifendruckkontrolle</accessory>
+		<accessory>Rückwärtsfahrkamera</accessory>
+		<accessory>Schaltwippen</accessory>
+		<accessory>Scheinwerferassistent</accessory>
+		<accessory>Seitenairbags vorn</accessory>
+		<accessory>Sitzheizung vorn</accessory>
+		<accessory>Sportfahrwerk</accessory>
+		<accessory>Sportlenkrad</accessory>
+		<accessory>Sportsitze</accessory>
+		<accessory>Sprachsteuerung</accessory>
+		<accessory>Spurhalteassistent</accessory>
+		<accessory>Stabilitätskontrolle</accessory>
+		<accessory>Start/Stopp-System</accessory>
+		<accessory>Startunterbrecher</accessory>
+		<accessory>Umgebungsbeleuchtung</accessory>
+		<accessory>Verkehrszeichenerkennung</accessory>
+		<accessory>Verstellbares Lenkrad</accessory>
+		<accessory>Volldigitales Kombi­instrument</accessory>
+		<accessory>Warnung Rückverkehr</accessory>
+		<accessory>Warnung vor kreuzendem Verkehr</accessory>
+		<accessory>Airbags</accessory>
+		<accessory>Höhenverstellbares Lenkrad</accessory>
+		<accessory>Leichtmetallfelgen</accessory>
+		<accessory>Thermoglas</accessory>
+	</searchaccessories_de>
+	<searchaccessories_fr>
+		<accessory>Airbag chauffeur</accessory>
+		<accessory>Airbags de tête arrière</accessory>
+		<accessory>Airbags de tête avant</accessory>
+		<accessory>Airbags latéraux avant</accessory>
+		<accessory>Android Auto</accessory>
+		<accessory>Apple CarPlay</accessory>
+		<accessory>Assistance au freinage d'urgence</accessory>
+		<accessory>Assistance parking</accessory>
+		<accessory>Assistant de feux de route</accessory>
+		<accessory>Atténuation des collisions par freinage</accessory>
+		<accessory>Avertissement de passage à niveau</accessory>
+		<accessory>Avertissement trafic arrière</accessory>
+		<accessory>Banquette arrière rabattables en plusieurs parties</accessory>
+		<accessory>Barres de toit</accessory>
+		<accessory>Caméra de recul</accessory>
+		<accessory>Capteur de pluie</accessory>
+		<accessory>Capteurs de parking arrière</accessory>
+		<accessory>Capteurs de parking avant</accessory>
+		<accessory>Charge sans fil pour téléphone portable</accessory>
+		<accessory>Châssis sport</accessory>
+		<accessory>Climate control</accessory>
+		<accessory>Climatisation à l'arrière</accessory>
+		<accessory>Commande vocale</accessory>
+		<accessory>Contrôle d'immobilisation en côte</accessory>
+		<accessory>Contrôle de la stabilité</accessory>
+		<accessory>Contrôle de pression des pneus</accessory>
+		<accessory>Direction assistée dépendante de la vitesse</accessory>
+		<accessory>Démarrage sans clé</accessory>
+		<accessory>Détection de la somnolence du conducteur</accessory>
+		<accessory>Détection de sortie de voie</accessory>
+		<accessory>Fenêtres électriques à l'arrière</accessory>
+		<accessory>Fenêtres électriques à l'avant</accessory>
+		<accessory>Fenêtres électriques à l'avant et à l'arrière</accessory>
+		<accessory>Feux arrière à LED</accessory>
+		<accessory>Feux de croisement automatiques</accessory>
+		<accessory>Hayon à commande électrique</accessory>
+		<accessory>Intérieur cuir</accessory>
+		<accessory>ISOFIX</accessory>
+		<accessory>Kit bluetooth</accessory>
+		<accessory>Manettes de sélection</accessory>
+		<accessory>Multimédia activé</accessory>
+		<accessory>Ordinateur de bord</accessory>
+		<accessory>Peinture métallisée</accessory>
+		<accessory>Phares orientables</accessory>
+		<accessory>Phares à LED</accessory>
+		<accessory>Poste de conduite numérique</accessory>
+		<accessory>Radio avec DAB</accessory>
+		<accessory>Reconnaissance des panneaux de circulation</accessory>
+		<accessory>Revêtement cuir</accessory>
+		<accessory>Réglage antidérapant</accessory>
+		<accessory>Régulateur de vitesse</accessory>
+		<accessory>Régulateur de vitesse adaptable</accessory>
+		<accessory>Rétroviseur intérieur à abaissement automatique</accessory>
+		<accessory>Rétroviseurs extérieurs anti-éblouissement automatique</accessory>
+		<accessory>Rétroviseurs extérieurs chauffants</accessory>
+		<accessory>Rétroviseurs extérieurs dans la couleur de la carrosserie</accessory>
+		<accessory>Rétroviseurs extérieurs à réglage électrique</accessory>
+		<accessory>Rétroviseurs électriques rabattables</accessory>
+		<accessory>Siège chauffant à l'avant</accessory>
+		<accessory>Sièges sport</accessory>
+		<accessory>Starter</accessory>
+		<accessory>Support bras intermédiaire arrière</accessory>
+		<accessory>Support bras intermédiaire avant</accessory>
+		<accessory>Système antiblocage</accessory>
+		<accessory>Système d'alarme classe I</accessory>
+		<accessory>Système d'avertissement de collision</accessory>
+		<accessory>Système de navigation</accessory>
+		<accessory>Système Start/stop</accessory>
+		<accessory>Verre teinté</accessory>
+		<accessory>Verrouillage centralisé à distance</accessory>
+		<accessory>Volant cuir</accessory>
+		<accessory>Volant multifunction</accessory>
+		<accessory>Volant réglable</accessory>
+		<accessory>Volant sport</accessory>
+		<accessory>Éclairage ambiant</accessory>
+		<accessory>Airbags</accessory>
+		<accessory>Roues en métal léger</accessory>
+		<accessory>Verre résistant à la chaleur</accessory>
+		<accessory>Volant réglable en hauteur</accessory>
+	</searchaccessories_fr>
+	<searchaccessories_es>
+		<accessory>Advertencia tráfico trasero</accessory>
+		<accessory>Airbag conductor</accessory>
+		<accessory>Airbags de cabeza delanteros</accessory>
+		<accessory>Airbags de cabeza traseros</accessory>
+		<accessory>Airbags laterales delanteros</accessory>
+		<accessory>Aire acondicionado trasero</accessory>
+		<accessory>Android Auto</accessory>
+		<accessory>Apple CarPlay</accessory>
+		<accessory>Arranque sin llave</accessory>
+		<accessory>Asientos delanteros calefactables</accessory>
+		<accessory>Asientos deportivos</accessory>
+		<accessory>Asientos traseros abatibles por partes</accessory>
+		<accessory>Asistencia al frenado de urgencia</accessory>
+		<accessory>Asistente de aparcamiento</accessory>
+		<accessory>Asistente de luces de carretera</accessory>
+		<accessory>Aviso de salida de carril</accessory>
+		<accessory>Aviso de tráfico cruzado</accessory>
+		<accessory>Barras de techo</accessory>
+		<accessory>Bloqueo centralizado a distancia</accessory>
+		<accessory>Cabina digital</accessory>
+		<accessory>Cargador inalámbrico de teléfono móvil</accessory>
+		<accessory>Chasis deportivo</accessory>
+		<accessory>Climatizador</accessory>
+		<accessory>Conducción por voz</accessory>
+		<accessory>Control de ascenso de pendientes</accessory>
+		<accessory>Control de crucero</accessory>
+		<accessory>Control de crucero adaptativo</accessory>
+		<accessory>Control de estabilidad</accessory>
+		<accessory>Control de presión de neumáticos</accessory>
+		<accessory>Cristales tintados</accessory>
+		<accessory>Cámara de marcha atrás</accessory>
+		<accessory>Detección de somnolencia del conductor</accessory>
+		<accessory>Dirección asistida en función de la velocidad</accessory>
+		<accessory>Faros LED</accessory>
+		<accessory>Iluminación ambiental</accessory>
+		<accessory>Inmovilizador electrónico del motor</accessory>
+		<accessory>Interior de cuero</accessory>
+		<accessory>ISOFIX</accessory>
+		<accessory>Kit de manos libres Bluetooth</accessory>
+		<accessory>Levas de cambio</accessory>
+		<accessory>Luces de cruce automáticas</accessory>
+		<accessory>Luces traseras LED</accessory>
+		<accessory>Luz de curvas</accessory>
+		<accessory>Mitigación de colisión por frenado</accessory>
+		<accessory>Multimedia activado</accessory>
+		<accessory>Ordenador de a bordo</accessory>
+		<accessory>Pintura metalizada</accessory>
+		<accessory>Portón trasero accionado eléctricamente</accessory>
+		<accessory>Radio con DAB</accessory>
+		<accessory>Reconocimiento de señales de tráfico</accessory>
+		<accessory>Reposabrazos central delantero</accessory>
+		<accessory>Reposabrazos central trasero</accessory>
+		<accessory>Retrovisor con atenuación automática</accessory>
+		<accessory>Retrovisores del color de la carrocería</accessory>
+		<accessory>Retrovisores exteriores con atenuación automática</accessory>
+		<accessory>Retrovisores exteriores de regulación eléctrica</accessory>
+		<accessory>Retrovisores exteriores eléctricos plegables</accessory>
+		<accessory>Retrovisores térmicos</accessory>
+		<accessory>Sensor de lluvia</accessory>
+		<accessory>Sensores de aparcamiento delanteros</accessory>
+		<accessory>Sensores de aparcamiento traseros</accessory>
+		<accessory>Sistema antibloqueo</accessory>
+		<accessory>Sistema antipatinaje</accessory>
+		<accessory>Sistema de alarma clase I</accessory>
+		<accessory>Sistema de aviso de colisiones</accessory>
+		<accessory>Sistema de navegación</accessory>
+		<accessory>Sistema de start/stop</accessory>
+		<accessory>Tapicería de cuero</accessory>
+		<accessory>Ventanillas eléctricas delanteras</accessory>
+		<accessory>Ventanillas eléctricas delanteras y traseras</accessory>
+		<accessory>Ventanillas eléctricas traseras</accessory>
+		<accessory>Volante ajustable</accessory>
+		<accessory>Volante de cuero</accessory>
+		<accessory>Volante deportivo</accessory>
+		<accessory>Volante multifuncional</accessory>
+		<accessory>Airbags</accessory>
+		<accessory>Cristal resistente al calor</accessory>
+		<accessory>Llantas de metal ligero</accessory>
+		<accessory>Volante regulable en altura</accessory>
+	</searchaccessories_es>
+	<searchaccessories_pt>
+		<accessory>Airbag do condutor</accessory>
+		<accessory>Airbags laterais dianteiros</accessory>
+		<accessory>Airbags para a cabeça dianteiros</accessory>
+		<accessory>Airbags para a cabeça traseiros</accessory>
+		<accessory>Android Auto</accessory>
+		<accessory>Apoio de braço central dianteiro</accessory>
+		<accessory>Apoio de braço central traseiro</accessory>
+		<accessory>Apple CarPlay</accessory>
+		<accessory>Ar condicionado traseiro</accessory>
+		<accessory>Arranque sem chave</accessory>
+		<accessory>ASR</accessory>
+		<accessory>Assistente dos máximos</accessory>
+		<accessory>Assistência à travagem de emergência</accessory>
+		<accessory>Aviso de saída de faixa</accessory>
+		<accessory>Aviso de tráfego de atravessamento</accessory>
+		<accessory>Aviso de tráfego à retaguarda</accessory>
+		<accessory>Bancos desportivos</accessory>
+		<accessory>Bancos dianteiros aquecidos</accessory>
+		<accessory>Bancos traseiros rebatíveis em peças</accessory>
+		<accessory>Barras de tejadilho</accessory>
+		<accessory>Camara de marcha-atràs</accessory>
+		<accessory>Cockpit digital</accessory>
+		<accessory>Comando electrónico do retrovisor</accessory>
+		<accessory>Comando por voz</accessory>
+		<accessory>Computador de bordo</accessory>
+		<accessory>Controlo da climatização</accessory>
+		<accessory>Controlo da estabilidade</accessory>
+		<accessory>Controlo da pressão dos pneus</accessory>
+		<accessory>Controlo da velocidade de cruzeiro</accessory>
+		<accessory>Controlo da velocidade de cruzeiro adaptável</accessory>
+		<accessory>Controlo de assistência em subidas</accessory>
+		<accessory>Deteção de sonolência do condutor</accessory>
+		<accessory>Direção assistida dependente da velocidade</accessory>
+		<accessory>Espelhos c/ aquecimento</accessory>
+		<accessory>Espelhos exteriores com anti-encandeamento automático</accessory>
+		<accessory>Estacionamento automático</accessory>
+		<accessory>Estofos em pele</accessory>
+		<accessory>Faróis em LED</accessory>
+		<accessory>Fecho centralizado remoto</accessory>
+		<accessory>Iluminação ambiente</accessory>
+		<accessory>Iluminação em curvas</accessory>
+		<accessory>Interior em pele</accessory>
+		<accessory>ISOFIX</accessory>
+		<accessory>Kit Bluetooth para automóvel</accessory>
+		<accessory>Luzes traseiras LED</accessory>
+		<accessory>Mitigação da colisão por travagem</accessory>
+		<accessory>Médios automáticos</accessory>
+		<accessory>Patilhas seletoras de velocidades</accessory>
+		<accessory>Pintura metalizada</accessory>
+		<accessory>Porta da bagageira elétrica</accessory>
+		<accessory>Preparado para multimédia</accessory>
+		<accessory>Reconhecimento de sinais de trânsito</accessory>
+		<accessory>Retrovisor com escurecimento automático</accessory>
+		<accessory>Retrovisores das portas com recolha elétrica</accessory>
+		<accessory>Retrovisores das portas na cor da carroçaria</accessory>
+		<accessory>Rádio com DAB</accessory>
+		<accessory>Sensor de chuva</accessory>
+		<accessory>Sensor de estacionamento traseiro</accessory>
+		<accessory>Sensores de estacionamento dianteiros</accessory>
+		<accessory>Sistema de alarme Classe I</accessory>
+		<accessory>Sistema de arranque/paragem</accessory>
+		<accessory>Sistema de aviso de colisão</accessory>
+		<accessory>Sistema de navegação</accessory>
+		<accessory>Sistema de travagem antibloqueio</accessory>
+		<accessory>Sistema imobilizador integrado</accessory>
+		<accessory>Suspensão desportiva</accessory>
+		<accessory>Telemóvel com carregamento sem fios</accessory>
+		<accessory>Vidros dianteiros elétricos</accessory>
+		<accessory>Vidros dianteiros e traseiros elétricos</accessory>
+		<accessory>Vidros fumados</accessory>
+		<accessory>Vidros traseiros elétricos</accessory>
+		<accessory>Volante ajustável</accessory>
+		<accessory>Volante desportivo</accessory>
+		<accessory>Volante em couro</accessory>
+		<accessory>Volante multifunções</accessory>
+		<accessory>Airbags</accessory>
+		<accessory>Jantes em liga leve</accessory>
+		<accessory>Vidro refletor de calor</accessory>
+		<accessory>Volante ajustável em altura</accessory>
+	</searchaccessories_pt>
+	<searchaccessories_it>
+		<accessory>Adaptive Cruise Control (controllo velocità di crociera adattativo)</accessory>
+		<accessory>Airbag conducente</accessory>
+		<accessory>Airbag laterali anteriori</accessory>
+		<accessory>Airbag per la testa anteriori</accessory>
+		<accessory>Airbag per la testa posteriori</accessory>
+		<accessory>Alzacristalli elettrici anteriori</accessory>
+		<accessory>Alzacristalli elettrici anteriori e posteriori</accessory>
+		<accessory>Alzacristalli elettrici posteriori</accessory>
+		<accessory>Android Auto</accessory>
+		<accessory>Apple CarPlay</accessory>
+		<accessory>ASR</accessory>
+		<accessory>Assistente abbaglianti</accessory>
+		<accessory>Assistenza al parcheggio</accessory>
+		<accessory>Ausilio alle frenate di emergenza</accessory>
+		<accessory>Avviamento senza chiave</accessory>
+		<accessory>Avviso di attraversamento del traffico</accessory>
+		<accessory>Avviso di traffico posteriore</accessory>
+		<accessory>Barre da tetto</accessory>
+		<accessory>Bloccaggio centralizzato con telecomando</accessory>
+		<accessory>Bracciolo centrale anteriore</accessory>
+		<accessory>Bracciolo centrale posteriore</accessory>
+		<accessory>Cabina di pilotaggio digitale</accessory>
+		<accessory>Categoria del sistema di allarme I</accessory>
+		<accessory>Computer di bordo</accessory>
+		<accessory>Controllo hill-hold</accessory>
+		<accessory>Controllo pressione pneumatici</accessory>
+		<accessory>Controllo stabilità</accessory>
+		<accessory>Controllo vocale</accessory>
+		<accessory>Fari a LED</accessory>
+		<accessory>Fari anabbaglianti automatici</accessory>
+		<accessory>Illuminazione ambientale</accessory>
+		<accessory>Immobiliser</accessory>
+		<accessory>Impianto di climatizzazione posteriore</accessory>
+		<accessory>Interni in pelle</accessory>
+		<accessory>ISOFIX</accessory>
+		<accessory>Kit Bluetooth per auto</accessory>
+		<accessory>Lane Departure Warning</accessory>
+		<accessory>Luci di svolta</accessory>
+		<accessory>Luci posteriori a LED</accessory>
+		<accessory>Metallizzato</accessory>
+		<accessory>Palette cambio</accessory>
+		<accessory>Pelle</accessory>
+		<accessory>Portellone ad azionamento elettrico</accessory>
+		<accessory>Quadro di comando climatizzatore</accessory>
+		<accessory>Radio con DAB</accessory>
+		<accessory>Ricarica wireless telefono cellulare</accessory>
+		<accessory>Riconoscimento dei segnali stradali</accessory>
+		<accessory>Riduzione della collisione tramite frenata</accessory>
+		<accessory>Rilevamento sonnolenza conducente</accessory>
+		<accessory>Sedili anteriori riscaldati</accessory>
+		<accessory>Sedili posteriori ripiegabili in parti</accessory>
+		<accessory>Sedili sportivi</accessory>
+		<accessory>Sensore di parcheggio posteriore</accessory>
+		<accessory>Sensore di pioggia</accessory>
+		<accessory>Sensori di parcheggio anteriori</accessory>
+		<accessory>Servosterzo in funzione della velocità</accessory>
+		<accessory>Sistema di avvertimento collisione</accessory>
+		<accessory>Sistema di avvio/arresto</accessory>
+		<accessory>Sistema di frenata antibloccaggio</accessory>
+		<accessory>Sistema di navigazione</accessory>
+		<accessory>Sospensione sportiva</accessory>
+		<accessory>Specchietti retrovisori antiabbagliamento automatico</accessory>
+		<accessory>Specchio retrovisore a regolazione dell'intensità luminosa automatica</accessory>
+		<accessory>Specchi retrovisori a regolazione elettrica</accessory>
+		<accessory>Specchi retrovisori nel colore della carrozzeria</accessory>
+		<accessory>Specchi retrovisori portiere ripiegabili elettricamente</accessory>
+		<accessory>Specchi retrovisori riscaldati</accessory>
+		<accessory>Supporto multimediale attivato</accessory>
+		<accessory>Tempomat</accessory>
+		<accessory>Vetro colorato</accessory>
+		<accessory>Videocamera per retromarcia</accessory>
+		<accessory>Volante in pelle</accessory>
+		<accessory>Volante multifunzione</accessory>
+		<accessory>Volante regolabile</accessory>
+		<accessory>Volante sportivo</accessory>
+		<accessory>Airbag</accessory>
+		<accessory>Cerchi in lega</accessory>
+		<accessory>Vetro termoriflettente</accessory>
+		<accessory>Volante regolabile in altezza</accessory>
+	</searchaccessories_it>
+	<searchaccessories_el>
+		<accessory>Android Auto</accessory>
+		<accessory>Apple CarPlay</accessory>
+		<accessory>ISOFIX</accessory>
+		<accessory>Έλεγχος πίεσης ελαστικών</accessory>
+		<accessory>Έλεγχος συγκράτησης σε δρόμο με κλίση</accessory>
+		<accessory>Αερόσακος οδηγού</accessory>
+		<accessory>Αισθητήρας βροχής</accessory>
+		<accessory>Ανίχνευση υπνηλίας οδηγού</accessory>
+		<accessory>Αναγνώριση σημάτων οδικής κυκλοφορίας</accessory>
+		<accessory>Ασύρματη φόρτιση κινητού τηλεφώνου</accessory>
+		<accessory>Αυτόματη μείωση της φωτεινότητας του καθρέφτη οπισθοπαρατήρησης</accessory>
+		<accessory>Αυτόματη μεσαία σκάλα προβολέων</accessory>
+		<accessory>Αυτόματη στάθμευση</accessory>
+		<accessory>Δερμάτινη ταπετσαρία</accessory>
+		<accessory>Δερμάτινο εσωτερικό</accessory>
+		<accessory>Δερμάτινο τιμόνι</accessory>
+		<accessory>Εκκίνηση χωρίς κλειδί</accessory>
+		<accessory>Εξωτερικοί καθρέφτες με αυτόματη ρύθμιση φωτεινότητας</accessory>
+		<accessory>Ηλεκτρικά αναδιπλούμενοι καθρέφτες θυρών</accessory>
+		<accessory>Ηλεκτρικά μπροστινά και πίσω παράθυρα</accessory>
+		<accessory>Ηλεκτρικά μπροστινά παράθυρα</accessory>
+		<accessory>Ηλεκτρικά πίσω παράθυρα</accessory>
+		<accessory>Ηλεκτρική πόρτα χώρου αποσκευών</accessory>
+		<accessory>Θερμαινόμενα μπροστινά καθίσματα</accessory>
+		<accessory>Θερμαινόμενοι καθρέφτες θυρών</accessory>
+		<accessory>Κάμερα οπισθοπορείας</accessory>
+		<accessory>Καθρέφτες στο χρώμα του αμαξώματος</accessory>
+		<accessory>Κεντρικό κλείδωμα με τηλεχειρισμό</accessory>
+		<accessory>Κιτ αυτοκινήτου Bluetooth</accessory>
+		<accessory>Με δυνατότητα πολυμέσων</accessory>
+		<accessory>Μεταλλική βαφή</accessory>
+		<accessory>Μετριασμός σύγκρουσης μέσω πέδησης</accessory>
+		<accessory>Μπροστινοί αερόσακοι κεφαλής</accessory>
+		<accessory>Μπροστινοί αισθητήρες στάθμευσης</accessory>
+		<accessory>Μπροστινοί πλευρικοί αερόσακοι</accessory>
+		<accessory>Μπροστινό κεντρικό μπράτσο</accessory>
+		<accessory>Πίσω αερόσακοι κεφαλής</accessory>
+		<accessory>Πίσω αισθητήρας στάθμευσης</accessory>
+		<accessory>Πίσω καθίσματα αναδιπλούμενα σε μέρη</accessory>
+		<accessory>Πίσω κεντρικό μπράτσο</accessory>
+		<accessory>Πίσω σύστημα κλιματισμού</accessory>
+		<accessory>Πίσω φώτα LED</accessory>
+		<accessory>Πολυλειτουργικό τιμόνι</accessory>
+		<accessory>Προβολείς LED</accessory>
+		<accessory>Προειδοποίηση αλλαγής λωρίδας</accessory>
+		<accessory>Προειδοποίηση διέλευσης κυκλοφορίας</accessory>
+		<accessory>Προειδοποίηση οπίσθιας κυκλοφορίας</accessory>
+		<accessory>Προσαρμοζόμενο σύστημα ελέγχου σταθερής ταχύτητας</accessory>
+		<accessory>Ράγες οροφής</accessory>
+		<accessory>Ραδιόφωνο με DAB</accessory>
+		<accessory>Ρυθμιζόμενο τιμόνι</accessory>
+		<accessory>Σπορ ανάρτηση</accessory>
+		<accessory>Σπορ καθίσματα</accessory>
+		<accessory>Σπορ τιμόνι</accessory>
+		<accessory>Σύστημα ακινητοποίησης οχήματος (immobiliser)</accessory>
+		<accessory>Σύστημα αντιμπλοκαρίσματος τροχών</accessory>
+		<accessory>Σύστημα αντιολίσθησης</accessory>
+		<accessory>Σύστημα εκκίνησης / διακοπής λειτουργίας</accessory>
+		<accessory>Σύστημα ελέγχου ευστάθειας</accessory>
+		<accessory>Σύστημα ελέγχου κλιματισμού</accessory>
+		<accessory>Σύστημα πλοήγησης</accessory>
+		<accessory>Σύστημα προειδοποίησης σύγκρουσης</accessory>
+		<accessory>Σύστημα συναγερμού κατηγορίας I</accessory>
+		<accessory>Σύστημα υποβοήθησης πέδησης έκτακτης ανάγκης</accessory>
+		<accessory>Σύστημα φωνητικού ελέγχου</accessory>
+		<accessory>Υδραυλικό σύστημα διεύθυνσης ανάλογα με την ταχύτητα</accessory>
+		<accessory>Υποβοήθηση μεγάλης σκάλας προβολέων</accessory>
+		<accessory>Υπολογιστής επί του οχήματος</accessory>
+		<accessory>Φιμέ τζάμι</accessory>
+		<accessory>Φωτισμός περιβάλλοντος</accessory>
+		<accessory>Φωτισμός στροφής</accessory>
+		<accessory>Χειριστήρια αλλαγής ταχυτήτων στο τιμόνι</accessory>
+		<accessory>Ψηφιακός πίνακας οργάνων</accessory>
+		<accessory>αυτόματος πιλότος</accessory>
+		<accessory>ηλεκτρονικό σύστημα ελέγχου καθρεπτών</accessory>
+		<accessory>Αερόσακοι</accessory>
+		<accessory>Ζάντες κράματος αλουμινίου</accessory>
+		<accessory>Θερμοανακλαστικό τζάμι</accessory>
+		<accessory>Τιμόνι ρυθμιζόμενου ύψους</accessory>
+	</searchaccessories_el>
+	<searchaccessories_ru>
+		<accessory>Android Auto</accessory>
+		<accessory>Apple CarPlay</accessory>
+		<accessory>Автоматические фары ближнего света</accessory>
+		<accessory>Автомобильный комплект Bluetooth</accessory>
+		<accessory>Адаптивный круиз-контроль</accessory>
+		<accessory>Антиблокировочная тормозная система</accessory>
+		<accessory>Беспроводная зарядка мобильного телефона</accessory>
+		<accessory>Бортовой компьютер</accessory>
+		<accessory>Голосовое управление</accessory>
+		<accessory>Датчик дождя</accessory>
+		<accessory>Дверные зеркала заднего вида в цвет кузова</accessory>
+		<accessory>Дверные зеркала заднего вида с подогревом</accessory>
+		<accessory>Зависящий от скорости гидроусилитель рулевого управления</accessory>
+		<accessory>Задние подушки безопасности для защиты головы</accessory>
+		<accessory>Задние сиденья, складывающиеся по частям</accessory>
+		<accessory>Задние стеклоподъемники с электрическим приводом</accessory>
+		<accessory>Задний датчик парковки</accessory>
+		<accessory>Задний кондиционер</accessory>
+		<accessory>Задний откидной борт с электронным управлением</accessory>
+		<accessory>Задний центральный подлокотник</accessory>
+		<accessory>Запуск без ключа</accessory>
+		<accessory>Зеркало заднего вида с автоматическим затемнением</accessory>
+		<accessory>Иммобилайзер</accessory>
+		<accessory>Камера заднего хода</accessory>
+		<accessory>Климат-контроль</accessory>
+		<accessory>Кожаная обивка</accessory>
+		<accessory>Кожаное рулевое колесо</accessory>
+		<accessory>Кожаный салон</accessory>
+		<accessory>Контроль усталости водителя</accessory>
+		<accessory>Круиз-контроль</accessory>
+		<accessory>Металлик</accessory>
+		<accessory>Многофункциональное рулевое колесо</accessory>
+		<accessory>Мультимедийный центр включен</accessory>
+		<accessory>Наружные зеркала с автоматическим затемнением</accessory>
+		<accessory>Общее освещение</accessory>
+		<accessory>Освещение поворотов</accessory>
+		<accessory>Передние боковые подушки безопасности</accessory>
+		<accessory>Передние датчики парковки</accessory>
+		<accessory>Передние и задние стеклоподъемники с электрическим приводом</accessory>
+		<accessory>Передние подушки безопасности для защиты головы</accessory>
+		<accessory>Передние сиденья с подогревом</accessory>
+		<accessory>Передние стеклоподъемники с электрическим приводом</accessory>
+		<accessory>Передний центральный подлокотник</accessory>
+		<accessory>Подрулевые клавиши для переключения передач</accessory>
+		<accessory>Подушка безопасности водителя</accessory>
+		<accessory>Предотвращение столкновения путем торможения</accessory>
+		<accessory>Предупреждение о движении сзади</accessory>
+		<accessory>Предупреждение о пересечении дороги</accessory>
+		<accessory>Продольные лаги на крыше для крепления багажа</accessory>
+		<accessory>Пульт дистанционного управления центральным замком</accessory>
+		<accessory>Радиоприемник с DAB</accessory>
+		<accessory>Распознавание дорожных знаков</accessory>
+		<accessory>Регулируемое рулевое колесо</accessory>
+		<accessory>Светодиодные задние фонари</accessory>
+		<accessory>Светодиодные фары</accessory>
+		<accessory>Система автоматического включения дальнего света</accessory>
+		<accessory>Система запуска / остановки</accessory>
+		<accessory>Система крепления детских сидений ISOFIX</accessory>
+		<accessory>Система курсовой устойчивости</accessory>
+		<accessory>Система навигации</accessory>
+		<accessory>Система помощи при аварийном торможении</accessory>
+		<accessory>Система помощи при парковке</accessory>
+		<accessory>Система помощи при трогании в гору</accessory>
+		<accessory>Система предупреждения о покидании полосы движения</accessory>
+		<accessory>Система предупреждения о столкновении</accessory>
+		<accessory>Система противоскольжения</accessory>
+		<accessory>Система сигнализации, класс I</accessory>
+		<accessory>Спортивная подвеска</accessory>
+		<accessory>Спортивное рулевое колесо</accessory>
+		<accessory>Спортивные сиденья</accessory>
+		<accessory>Тонированное стекло</accessory>
+		<accessory>Управление давлением в шинах</accessory>
+		<accessory>Цифровая панель</accessory>
+		<accessory>Электрически регулируемые дверные зеркала заднего вида</accessory>
+		<accessory>Электрически складывающиеся дверные зеркала заднего вида</accessory>
+		<accessory>Легкосплавные диски</accessory>
+		<accessory>Подушки безопасности</accessory>
+		<accessory>Регулируемое по высоте рулевое колесо</accessory>
+		<accessory>Теплоотражающее стекло</accessory>
+	</searchaccessories_ru>
+	<searchaccessories_ro>
+		<accessory>Aer condiționat spate</accessory>
+		<accessory>Airbaguri laterale față</accessory>
+		<accessory>Airbaguri pentru cap față</accessory>
+		<accessory>Airbaguri pentru cap spate</accessory>
+		<accessory>Airbag șofer</accessory>
+		<accessory>Android Auto</accessory>
+		<accessory>Apple CarPlay</accessory>
+		<accessory>Asistență fază lungă</accessory>
+		<accessory>Asistență la frânarea de urgență</accessory>
+		<accessory>ASR</accessory>
+		<accessory>Atenuarea coliziunilor prin frânare</accessory>
+		<accessory>Avertizare de traversare a traficului</accessory>
+		<accessory>Avertizare la părăsirea benzii</accessory>
+		<accessory>Avertizare trafic din spate</accessory>
+		<accessory>Bare de plafon</accessory>
+		<accessory>Cameră de marșarier</accessory>
+		<accessory>Climatizare</accessory>
+		<accessory>Comandă vocală</accessory>
+		<accessory>Computer de bord</accessory>
+		<accessory>Comutatoare cu padele</accessory>
+		<accessory>Control adaptiv al vitezei de croazieră</accessory>
+		<accessory>Controlul presiunii în anvelope</accessory>
+		<accessory>Controlul stabilității</accessory>
+		<accessory>Control viteză de croazieră</accessory>
+		<accessory>Cotieră centrală față</accessory>
+		<accessory>Cotieră centrală spate</accessory>
+		<accessory>Detectarea somnolenței șoferului</accessory>
+		<accessory>Faruri cu led</accessory>
+		<accessory>Geamuri față acționate electric</accessory>
+		<accessory>Geamuri față și spate acționate electric</accessory>
+		<accessory>Geamuri spate acționate electric</accessory>
+		<accessory>Habitaclu digital</accessory>
+		<accessory>Hayon acționat electric</accessory>
+		<accessory>Imobilizator</accessory>
+		<accessory>Interior din piele</accessory>
+		<accessory>ISOFIX</accessory>
+		<accessory>Kit auto Bluetooth</accessory>
+		<accessory>Lumii spate cu led</accessory>
+		<accessory>Lumini de viraj</accessory>
+		<accessory>Lumini de întâlnire automate</accessory>
+		<accessory>Lumină ambiantă</accessory>
+		<accessory>Menținere a poziției în pantă</accessory>
+		<accessory>Oglindă retrovizoare cu estompare automată</accessory>
+		<accessory>Oglinzi exterioare pliabile electric</accessory>
+		<accessory>Oglinzi exterioare reglabile electric</accessory>
+		<accessory>Oglinzi exterioare în culoarea caroseriei</accessory>
+		<accessory>Oglinzi exterioare încălzite</accessory>
+		<accessory>Oglinzi retrovizoare cu estompare automată</accessory>
+		<accessory>Parcare automată</accessory>
+		<accessory>Pornire fără cheie</accessory>
+		<accessory>Pregătire multimedia</accessory>
+		<accessory>Radio cu DAB</accessory>
+		<accessory>Recunoașterea semnelor de circulație</accessory>
+		<accessory>Scaune față încălzite</accessory>
+		<accessory>Scaune spate pliabile fracționar</accessory>
+		<accessory>Scaune sport</accessory>
+		<accessory>Senzor de parcare spate</accessory>
+		<accessory>Senzor de ploaie</accessory>
+		<accessory>Senzori de parcare față</accessory>
+		<accessory>Servodirecție dependentă de viteză</accessory>
+		<accessory>Sistem antiblocare</accessory>
+		<accessory>Sistem de alarmă Clasa I</accessory>
+		<accessory>Sistem de avertizare în caz de coliziune</accessory>
+		<accessory>Sistem de navigație</accessory>
+		<accessory>Sistem start-stop</accessory>
+		<accessory>Sticlă fumurie</accessory>
+		<accessory>Suspensie sport</accessory>
+		<accessory>Tapițerie din piele</accessory>
+		<accessory>Volan multifuncțional</accessory>
+		<accessory>Volan reglabil</accessory>
+		<accessory>Volan sport</accessory>
+		<accessory>Volan îmbrăcat în piele</accessory>
+		<accessory>Vopsea metalizată</accessory>
+		<accessory>Închidere centralizată de la distanță</accessory>
+		<accessory>Încărcare wireless pentru telefonul mobil</accessory>
+		<accessory>Airbaguri</accessory>
+		<accessory>Jante din aliaj</accessory>
+		<accessory>Sticlă atermică</accessory>
+		<accessory>Volan reglabil pe înălțime</accessory>
+	</searchaccessories_ro>
+	<searchaccessories_hu>
+		<accessory>Abroncsnyomás-szabályozás</accessory>
+		<accessory>Adaptív automatikus sebességtartás</accessory>
+		<accessory>Android Auto</accessory>
+		<accessory>Apple CarPlay</accessory>
+		<accessory>ASR</accessory>
+		<accessory>Automatikusan sötétedő külső tükrök</accessory>
+		<accessory>Automatikusan tompuló fényszórók</accessory>
+		<accessory>Automatikusan tompuló visszapillantó tükör</accessory>
+		<accessory>Automatikus sebességtartás</accessory>
+		<accessory>Beszédvezérlés</accessory>
+		<accessory>Blokkolásgátló fékrendszer</accessory>
+		<accessory>Bluetooth autós készlet</accessory>
+		<accessory>Bőr</accessory>
+		<accessory>Bőrborítású beltér</accessory>
+		<accessory>Bőrrel bevont kormánykerék</accessory>
+		<accessory>DAB rádió</accessory>
+		<accessory>Digitális műszerfal</accessory>
+		<accessory>Elektromosan behajtható ajtótükrök</accessory>
+		<accessory>Elektromosan állítható ajtótükrök</accessory>
+		<accessory>Elektromos működtetésű csomagtérajtó</accessory>
+		<accessory>Elektromos vezérlésű első ablakok</accessory>
+		<accessory>Elektromos vezérlésű első és hátsó ablakok</accessory>
+		<accessory>Elektromos vezérlésű hátsó ablakok</accessory>
+		<accessory>Első fejlégzsákok</accessory>
+		<accessory>Első középső kartámasz</accessory>
+		<accessory>Első oldalsó légzsákok</accessory>
+		<accessory>Első parkolóradarok</accessory>
+		<accessory>Emelkedőn való megtartás vezérlése</accessory>
+		<accessory>Esőérzékelő</accessory>
+		<accessory>Fedélzeti számítógép</accessory>
+		<accessory>Figyelmeztető hátsó forgalom</accessory>
+		<accessory>Fűtött ajtótükrök</accessory>
+		<accessory>Fűtött első ülések</accessory>
+		<accessory>Hangulatvilágítás</accessory>
+		<accessory>Hátsó fejlégzsákok</accessory>
+		<accessory>Hátsó középső kartámasz</accessory>
+		<accessory>Hátsó légkondicionálás</accessory>
+		<accessory>Hátsó parkolóradar</accessory>
+		<accessory>Indításgátló</accessory>
+		<accessory>Indító-leállító rendszer</accessory>
+		<accessory>ISOFIX</accessory>
+		<accessory>Jelzőtábla-felismerés</accessory>
+		<accessory>Járművezető légzsák</accessory>
+		<accessory>Kanyarvilágítás</accessory>
+		<accessory>Karosszériával egyező színű ajtótükrök</accessory>
+		<accessory>Keresztező forgalmi figyelmeztetés</accessory>
+		<accessory>Klímavezérlés</accessory>
+		<accessory>Kormány-váltólapátok</accessory>
+		<accessory>Kulcs nélküli indítás</accessory>
+		<accessory>LED-es hátsó lámpák</accessory>
+		<accessory>LED-fényszórók</accessory>
+		<accessory>Metál fényezés</accessory>
+		<accessory>Multimédiaképes</accessory>
+		<accessory>Navigációs rendszer</accessory>
+		<accessory>Parkolássegítő</accessory>
+		<accessory>Riasztórendszer osztálya: I.</accessory>
+		<accessory>Sebességfüggő szervokormányzás</accessory>
+		<accessory>Sportfelfüggesztés</accessory>
+		<accessory>Sportkormánykerék</accessory>
+		<accessory>Sportülések</accessory>
+		<accessory>Stabilitásvezérlés</accessory>
+		<accessory>Színezett üveg</accessory>
+		<accessory>Sávelhagyás-figyelmeztetés</accessory>
+		<accessory>Tetőcsomagtartók</accessory>
+		<accessory>Tolatókamera</accessory>
+		<accessory>Távirányításos központi zár</accessory>
+		<accessory>Távolsági fényszóró segéd</accessory>
+		<accessory>Többfunkciós kormánykerék</accessory>
+		<accessory>Vezeték nélküli mobiltelefon-töltő</accessory>
+		<accessory>Vezető álmosságának észlelése</accessory>
+		<accessory>Vészfékezés-segítő</accessory>
+		<accessory>Állítható kormánykerék</accessory>
+		<accessory>Összehajtható hátsó ülések</accessory>
+		<accessory>Ütközéscsillapító fékezés</accessory>
+		<accessory>Ütközésjelző rendszer</accessory>
+		<accessory>Hővisszaverő üveg</accessory>
+		<accessory>Könnyűfém keréktárcsa</accessory>
+		<accessory>Légzsákok</accessory>
+		<accessory>Állítható magasságú kormánykerék</accessory>
+	</searchaccessories_hu>
+	<searchaccessories_pl>
+		<accessory>ABS</accessory>
+		<accessory>Adaptacyjny tempomat</accessory>
+		<accessory>Android Auto</accessory>
+		<accessory>Apple CarPlay</accessory>
+		<accessory>Asystent świateł drogowych</accessory>
+		<accessory>Automatyczne przyciemnianie lusterek zewnętrznych</accessory>
+		<accessory>Automatyczne światła mijania</accessory>
+		<accessory>Automatycznie przeciwoślepieniowe lusterko wewnętrzne</accessory>
+		<accessory>Bluetooth carkit</accessory>
+		<accessory>Boczne poduszki powietrzne przód</accessory>
+		<accessory>Cyfrowy kokpit</accessory>
+		<accessory>Czujniki parkowania przód</accessory>
+		<accessory>Dzielona rozkładana tylna kanapa</accessory>
+		<accessory>Elektryczne obsługa pokrywy bagażnika</accessory>
+		<accessory>Elektrycznie opuszczane szyby z przodu</accessory>
+		<accessory>Elektrycznie opuszczane szyby z przodu i z tyłu</accessory>
+		<accessory>Elektrycznie opuszczane szyby z tyłu</accessory>
+		<accessory>Elektrycznie regulowane lusterka zewnętrzne</accessory>
+		<accessory>Elektrycznie składane lusterka zewnętrzne</accessory>
+		<accessory>Hamowanie w celu ograniczenia ryzyka kolizji</accessory>
+		<accessory>HVAC</accessory>
+		<accessory>Immobiliser</accessory>
+		<accessory>ISOFIX</accessory>
+		<accessory>Kamera do tyłu</accessory>
+		<accessory>Kierownica multifunkcjonalna</accessory>
+		<accessory>Klimatyzacja tył</accessory>
+		<accessory>Komputer pokładowy</accessory>
+		<accessory>Kontrola ciśnienia w ogumieniu</accessory>
+		<accessory>Kontrola stabilności</accessory>
+		<accessory>Lusterka zewnętrzne w kolorze karoserii</accessory>
+		<accessory>Metalizujący lakier</accessory>
+		<accessory>Moduł doświetlania zakrętów</accessory>
+		<accessory>Multimedia włączone</accessory>
+		<accessory>Ogrzewane lusterka zewnętrzne</accessory>
+		<accessory>Ogrzewanie przedniego siedzenia</accessory>
+		<accessory>Ostrzeżenie o opuszczeniu pasa ruchu</accessory>
+		<accessory>Ostrzeżenie o ruchu poprzecznym</accessory>
+		<accessory>Ostrzeżenie o ruchu poprzecznym</accessory>
+		<accessory>Oświetlenie otoczenia</accessory>
+		<accessory>Pilot do zamka centralnego</accessory>
+		<accessory>Poduszka powietrzna kierowcy</accessory>
+		<accessory>Poduszki powietrzne chroniące głowę przód</accessory>
+		<accessory>Poduszki powietrzne chroniące głowę tył</accessory>
+		<accessory>Podłokietnik przód</accessory>
+		<accessory>Podłokietnik tył</accessory>
+		<accessory>Przełączniki łopatkowe</accessory>
+		<accessory>Przyciemnione szkło</accessory>
+		<accessory>Radio z DAB</accessory>
+		<accessory>Reflektory LED</accessory>
+		<accessory>Regulowana kierownica</accessory>
+		<accessory>Relingi dachowe</accessory>
+		<accessory>Rozpoznawanie znaków drogowych</accessory>
+		<accessory>Sensor deszczu</accessory>
+		<accessory>Sensory parkowania tył</accessory>
+		<accessory>Skórzana kierownica</accessory>
+		<accessory>Skórzane wnętrze</accessory>
+		<accessory>Sportowa kierownica</accessory>
+		<accessory>Sportowe podwozie</accessory>
+		<accessory>Sportowe siedzenia</accessory>
+		<accessory>Sterowanie mową</accessory>
+		<accessory>Sterowanie wspomaganiem ruszania na wzniesieniu</accessory>
+		<accessory>System alarmowy klasa I</accessory>
+		<accessory>System antypoślizgowy</accessory>
+		<accessory>System nawigacji</accessory>
+		<accessory>System ostrzegania o ryzyku kolizji</accessory>
+		<accessory>System parkowania</accessory>
+		<accessory>System start/stop</accessory>
+		<accessory>System wspomagania nagłego hamowania</accessory>
+		<accessory>Tapicerka skórzana</accessory>
+		<accessory>Telefon komórkowy z ładowaniem bezprzewodowym</accessory>
+		<accessory>Tempomat</accessory>
+		<accessory>Tylne światła LED</accessory>
+		<accessory>Uruchomienie bez użycia klucza</accessory>
+		<accessory>Wykrywanie senności kierowcy</accessory>
+		<accessory>Zależne od prędkości wspomaganie kierownicy</accessory>
+		<accessory>Koła z lekkich metali</accessory>
+		<accessory>Poduszki powietrzne</accessory>
+		<accessory>Regulacja kierownicy w pionie</accessory>
+		<accessory>Szkło izolujące</accessory>
+	</searchaccessories_pl>
+	<searchaccessories_cz>
+		<accessory>Adaptivní tempomat</accessory>
+		<accessory>Airbag řidiče</accessory>
+		<accessory>Alarmový systém třídy I</accessory>
+		<accessory>Android Auto</accessory>
+		<accessory>Apple CarPlay</accessory>
+		<accessory>Asistent dálkových světel</accessory>
+		<accessory>Asistent rozjezdu do kopce</accessory>
+		<accessory>Automaticky tlumené světlomety</accessory>
+		<accessory>Automobilová Bluetooth sada</accessory>
+		<accessory>Bezklíčový start</accessory>
+		<accessory>Centrální zamykání s dálkovým ovládáním</accessory>
+		<accessory>Detekce ospalosti řidiče</accessory>
+		<accessory>Digitální kokpit</accessory>
+		<accessory>Dveřní zrcátka s vyhříváním</accessory>
+		<accessory>Dveřní zrcátka v barvě karosérie</accessory>
+		<accessory>Elektricky nastavitelná dveřní zrcátka</accessory>
+		<accessory>Elektricky ovládaná přední a zadní okna</accessory>
+		<accessory>Elektricky ovládaná přední okna</accessory>
+		<accessory>Elektricky ovládaná zadní okna</accessory>
+		<accessory>Elektricky ovládané zadní výklopné dveře</accessory>
+		<accessory>Elektricky skládací dveřní zrcátka</accessory>
+		<accessory>Hlasové ovládání</accessory>
+		<accessory>Imobilizér</accessory>
+		<accessory>ISOFIX</accessory>
+		<accessory>Kamera couvání</accessory>
+		<accessory>Kožený interiér</accessory>
+		<accessory>Kožený volant</accessory>
+		<accessory>Kůže</accessory>
+		<accessory>Metalíza</accessory>
+		<accessory>Mobilní telefon s bezdrátovým nabíjením</accessory>
+		<accessory>Multifunkční volant</accessory>
+		<accessory>Nastavitelný volant</accessory>
+		<accessory>Navigační systém</accessory>
+		<accessory>Nouzové pomocné brzdění</accessory>
+		<accessory>Osvětlení okolí</accessory>
+		<accessory>Osvětlení zatáčky</accessory>
+		<accessory>Ovládání klimatizace</accessory>
+		<accessory>Palubní počítač</accessory>
+		<accessory>Parkovací asistent</accessory>
+		<accessory>Posilovač řízení podle rychlosti</accessory>
+		<accessory>Protiblokovací brzdový systém</accessory>
+		<accessory>Páčky řazení na volantu</accessory>
+		<accessory>Přední boční airbagy</accessory>
+		<accessory>Přední hlavové airbagy</accessory>
+		<accessory>Přední parkovací senzory</accessory>
+		<accessory>Přední středová loketní opěrka</accessory>
+		<accessory>Regulace trakce</accessory>
+		<accessory>Rozpoznávání dopravních značek</accessory>
+		<accessory>Rádio s DAB</accessory>
+		<accessory>Snímač deště</accessory>
+		<accessory>Sportovní odpružení</accessory>
+		<accessory>Sportovní sedadla</accessory>
+		<accessory>Sportovní volant</accessory>
+		<accessory>Střešní kolejnice</accessory>
+		<accessory>Světlomety LED</accessory>
+		<accessory>Systém spuštění/zastavení</accessory>
+		<accessory>Systém varování před kolizí</accessory>
+		<accessory>S podporou multimédií</accessory>
+		<accessory>Tempomat</accessory>
+		<accessory>Tónované sklo</accessory>
+		<accessory>Varování před opuštěním jízdního pruhu</accessory>
+		<accessory>Varování před zadním provozem</accessory>
+		<accessory>Vnější zpětná zrcátka s automatickým ztmavením</accessory>
+		<accessory>Vyhřívaná přední sedadla</accessory>
+		<accessory>Výstraha před křížením</accessory>
+		<accessory>Zadní hlavové airbagy</accessory>
+		<accessory>Zadní klimatizace</accessory>
+		<accessory>Zadní parkovací senzor</accessory>
+		<accessory>Zadní středová loketní opěrka</accessory>
+		<accessory>Zadní světla LED</accessory>
+		<accessory>Zadní zrcátko s automatickým stmíváním</accessory>
+		<accessory>Zmírnění následků kolize brzděním</accessory>
+		<accessory>Částečně skládací zadní sedadla</accessory>
+		<accessory>Řízení stability</accessory>
+		<accessory>Řízení tlaku v pneumatikách</accessory>
+		<accessory>Airbagy</accessory>
+		<accessory>Hliníková kola</accessory>
+		<accessory>Sklo odrážející teplo</accessory>
+		<accessory>Výškově nastavitelný volant</accessory>
+	</searchaccessories_cz>
+	<searchaccessories_bg>
+		<accessory>Android Auto</accessory>
+		<accessory>Apple CarPlay</accessory>
+		<accessory>Bluetooth комплект за автомобил</accessory>
+		<accessory>ISOFIX</accessory>
+		<accessory>LED задни светлини</accessory>
+		<accessory>LED фарове</accessory>
+		<accessory>Автоматични къси светлини</accessory>
+		<accessory>Автоматично затъмняващо се задно огледало</accessory>
+		<accessory>Автоматично паркиране</accessory>
+		<accessory>Адаптивен круиз контрол</accessory>
+		<accessory>Алармена система клас I</accessory>
+		<accessory>Антиблокираща система</accessory>
+		<accessory>Асистент за дълги светлини</accessory>
+		<accessory>Безключово стартиране</accessory>
+		<accessory>Бордови компютър</accessory>
+		<accessory>Боя металик</accessory>
+		<accessory>Въздушна възглавница на водача</accessory>
+		<accessory>Външни огледала с автоматично затъмняване</accessory>
+		<accessory>Гласов контрол</accessory>
+		<accessory>Датчик за дъжд</accessory>
+		<accessory>Датчик за паркиране на заден ход</accessory>
+		<accessory>Датчици за паркиране на преден ход</accessory>
+		<accessory>Дигитален кокпит</accessory>
+		<accessory>Дистанционно централно заключване</accessory>
+		<accessory>Електрическа врата на багажника</accessory>
+		<accessory>Електрически задвижвани задни прозорци</accessory>
+		<accessory>Електрически сгъваеми огледала на вратите</accessory>
+		<accessory>Зависещо от скоростта сервоуправление</accessory>
+		<accessory>Заден централен подлакътник</accessory>
+		<accessory>Задна климатична система</accessory>
+		<accessory>Задни въздушни възглавници за главата</accessory>
+		<accessory>Задните седалки се сгъват на части</accessory>
+		<accessory>Затъмнено стъкло</accessory>
+		<accessory>Имобилайзер</accessory>
+		<accessory>Камера за заден ход</accessory>
+		<accessory>Кожена тапицерия</accessory>
+		<accessory>Кожен волан</accessory>
+		<accessory>Кожен интериор</accessory>
+		<accessory>Контрол на налягането в гумите</accessory>
+		<accessory>Контрол на стабилността</accessory>
+		<accessory>Круиз контрол</accessory>
+		<accessory>Лопатки</accessory>
+		<accessory>Многофункционален волан</accessory>
+		<accessory>Мобилен телефон за безжично зареждане</accessory>
+		<accessory>Мултимедията е активирана</accessory>
+		<accessory>Навигационна система</accessory>
+		<accessory>Огледала на вратите с електронно регулиране</accessory>
+		<accessory>Огледала на вратите с цвят на каросерията</accessory>
+		<accessory>Околно осветление</accessory>
+		<accessory>Орган за управление за задържане по наклон</accessory>
+		<accessory>Осветление при завиване</accessory>
+		<accessory>Откриване на сънливост на водача</accessory>
+		<accessory>Отопляеми огледала на вратите</accessory>
+		<accessory>Отопляеми предни седалки</accessory>
+		<accessory>Помощ за аварийно спиране</accessory>
+		<accessory>Преден централен подлакътник</accessory>
+		<accessory>Предни въздушни възглавници за главата</accessory>
+		<accessory>Предни и задни прозорци с електронно управление</accessory>
+		<accessory>Предни прозорци с електронно управление</accessory>
+		<accessory>Предни странични въздушни възглавници</accessory>
+		<accessory>Предупреждение за задното движение</accessory>
+		<accessory>Предупреждение за напускане на лентата за движение</accessory>
+		<accessory>Предупреждение за пресичащ трафик</accessory>
+		<accessory>Радио с DAB</accessory>
+		<accessory>Разпознаване на пътните знаци</accessory>
+		<accessory>Регулиране на температурата</accessory>
+		<accessory>Регулируем волан</accessory>
+		<accessory>Релси на покрива</accessory>
+		<accessory>Система за предупреждение за сблъсък</accessory>
+		<accessory>Система за стартиране/спиране</accessory>
+		<accessory>Система против хлъзгане</accessory>
+		<accessory>Смекчаване на сблъсъка чрез спиране</accessory>
+		<accessory>Спортен волан</accessory>
+		<accessory>Спортни седалки</accessory>
+		<accessory>Спортно окачване</accessory>
+		<accessory>Волан с регулируема височина</accessory>
+		<accessory>Въздушни възглавници</accessory>
+		<accessory>Лети джанти</accessory>
+		<accessory>Топлоотразяващо стъкло</accessory>
+	</searchaccessories_bg>
+	<searchaccessories_hr>
+		<accessory>Android Auto</accessory>
+		<accessory>Apple CarPlay</accessory>
+		<accessory>Automatski spuštanje farova</accessory>
+		<accessory>Automatsko parkiranje</accessory>
+		<accessory>Automatsko zatamnjivanje retrovizora</accessory>
+		<accessory>Automatsko zatamnjivanje vanjskih retrovizora</accessory>
+		<accessory>Bežično punjenje mobilnog telefona</accessory>
+		<accessory>Blokada paljenja</accessory>
+		<accessory>Bluetooth komplet za korištenje u automobilu</accessory>
+		<accessory>Daljinsko središnje zaključavanje</accessory>
+		<accessory>Digitalni kokpit</accessory>
+		<accessory>Digitalni radio</accessory>
+		<accessory>Električna stražnja vrata</accessory>
+		<accessory>Električni sklopivi retrovizori na vratima</accessory>
+		<accessory>Glasovno upravljanje</accessory>
+		<accessory>Grijana prednja sjedala</accessory>
+		<accessory>Grijani retrovizori na vratima</accessory>
+		<accessory>ISOFIX</accessory>
+		<accessory>Kamera za vožnju unatrag</accessory>
+		<accessory>Kontrola putovanja</accessory>
+		<accessory>Kontrola stabilnosti</accessory>
+		<accessory>Kontrola tlaka u gumama</accessory>
+		<accessory>Kontrola za zadržavanje na uzbrdici</accessory>
+		<accessory>Kožna unutrašnjost</accessory>
+		<accessory>Kožne presvlake</accessory>
+		<accessory>Kožni upravljač</accessory>
+		<accessory>Krovni nosači</accessory>
+		<accessory>LED farovi</accessory>
+		<accessory>Metalik boja</accessory>
+		<accessory>Multimedija je omogućena</accessory>
+		<accessory>Navigacijski sustav</accessory>
+		<accessory>Osvjetljenje u zavojima</accessory>
+		<accessory>Podesivi tempomat</accessory>
+		<accessory>Podesiv upravljač</accessory>
+		<accessory>Pokretanje bez ključa</accessory>
+		<accessory>Pomoćnik za duga svjetla</accessory>
+		<accessory>Pomoć pri kočenju u hitnom slučaju</accessory>
+		<accessory>Prednji bočni zračni jastuci</accessory>
+		<accessory>Prednji i stražnji prozori na električno upravljanje</accessory>
+		<accessory>Prednji prozori na električno upravljanje</accessory>
+		<accessory>Prednji senzori za parkiranje</accessory>
+		<accessory>Prednji središnji naslon za ruku</accessory>
+		<accessory>Prednji zračni jastuci za glavu</accessory>
+		<accessory>Prepoznavanje pospanosti vozača</accessory>
+		<accessory>Prepoznavanje prometnog znaka</accessory>
+		<accessory>Putno računalo</accessory>
+		<accessory>Radio</accessory>
+		<accessory>Retrovizori na vratima s električnim podešavanjem</accessory>
+		<accessory>Retrovizori na vratima u boji karoserije vozila</accessory>
+		<accessory>Ručica za mijenjanje brzina</accessory>
+		<accessory>Senzor za kišu</accessory>
+		<accessory>Servo-upravljač ovisan o brzini</accessory>
+		<accessory>Sportska sjedala</accessory>
+		<accessory>Sportski ovjes</accessory>
+		<accessory>Sportski upravljač</accessory>
+		<accessory>Stražnja LED svjetla</accessory>
+		<accessory>Stražnja sjedala mogu se sklopiti u dijelovima</accessory>
+		<accessory>Stražnji klima-uređaj</accessory>
+		<accessory>Stražnji prozori na električno upravljanje</accessory>
+		<accessory>Stražnji senzor za parkiranje</accessory>
+		<accessory>Stražnji središnji naslon za ruku</accessory>
+		<accessory>Stražnji zračni jastuci za glavu</accessory>
+		<accessory>Sustav alarma klase I</accessory>
+		<accessory>Sustav protiv blokiranja kotača</accessory>
+		<accessory>Sustav protiv klizanja</accessory>
+		<accessory>Sustav Start/Stop</accessory>
+		<accessory>Sustav za upozoravanje na sudar</accessory>
+		<accessory>Ublažavanje sudara kočenjem</accessory>
+		<accessory>Unutarnja rasvjeta</accessory>
+		<accessory>Upozorenje na napuštanje prometne trake</accessory>
+		<accessory>Upravljanje klimatizacijom</accessory>
+		<accessory>Višenamjenski upravljač</accessory>
+		<accessory>Zatamnjeno staklo</accessory>
+		<accessory>Zračni jastuk vozača</accessory>
+		<accessory>Aluminijski naplatci</accessory>
+		<accessory>Staklo koje reflektira toplinu</accessory>
+		<accessory>Upravljač podesiv po visini</accessory>
+		<accessory>Zračni jastuci</accessory>
+	</searchaccessories_hr>
+	<searchaccessories_dk>
+		<accessory>Advarsel om krydsende trafik</accessory>
+		<accessory>Advarsel om trafik bagfra</accessory>
+		<accessory>Advarsel ved vognbaneskift</accessory>
+		<accessory>Airbag i chaufførside</accessory>
+		<accessory>Aircondition bag</accessory>
+		<accessory>Alarmsystemklasse I</accessory>
+		<accessory>Android Auto</accessory>
+		<accessory>Antiblokeringssystem til bremsning</accessory>
+		<accessory>Apple CarPlay</accessory>
+		<accessory>Automatisk nærlys</accessory>
+		<accessory>Bakkamera</accessory>
+		<accessory>Bakspejl med automatisk nedblænding</accessory>
+		<accessory>Bluetooth-sæt til biler</accessory>
+		<accessory>Computer ombord</accessory>
+		<accessory>Digitalt førerhus</accessory>
+		<accessory>Dæktryksovervågning</accessory>
+		<accessory>Elbetjent bagklap</accessory>
+		<accessory>Elindklappelige sidespejle</accessory>
+		<accessory>Eljusterbare sidespejle</accessory>
+		<accessory>Elopvarmede forsæder</accessory>
+		<accessory>Elopvarmede sidespejle</accessory>
+		<accessory>Elruder bag</accessory>
+		<accessory>Elruder for</accessory>
+		<accessory>Elruder for og bag</accessory>
+		<accessory>Fartpilot</accessory>
+		<accessory>Farvet glas</accessory>
+		<accessory>Fjernlysassistent</accessory>
+		<accessory>Fjernlåsning</accessory>
+		<accessory>Forberedt til multimedier</accessory>
+		<accessory>Genkendelse af trafikskilte</accessory>
+		<accessory>Hastighedsafhængig servostyring</accessory>
+		<accessory>Hill Hold Control</accessory>
+		<accessory>Hovedairbags bag</accessory>
+		<accessory>Hovedairbags for</accessory>
+		<accessory>ISOFIX</accessory>
+		<accessory>Justerbar fartpilot</accessory>
+		<accessory>Justerbart rat</accessory>
+		<accessory>Klimaanlæg</accessory>
+		<accessory>Kollisionsdæmpning med bremsning</accessory>
+		<accessory>Kurvelys</accessory>
+		<accessory>LED-baglygter</accessory>
+		<accessory>LED-forlygter</accessory>
+		<accessory>Læder</accessory>
+		<accessory>Læderinteriør</accessory>
+		<accessory>Læderrat</accessory>
+		<accessory>Metallak</accessory>
+		<accessory>Midterarmlæn bag</accessory>
+		<accessory>Midterarmlæn for</accessory>
+		<accessory>Multifunktionsrat</accessory>
+		<accessory>Navigationssystem</accessory>
+		<accessory>Nødbremseassistent</accessory>
+		<accessory>Nøglefri start</accessory>
+		<accessory>Omgivende lys</accessory>
+		<accessory>Opdelte bagsæder, der kan nedfældes</accessory>
+		<accessory>Parkeringsassistent</accessory>
+		<accessory>Parkeringssensor bag</accessory>
+		<accessory>Parkeringssensorer for</accessory>
+		<accessory>Radio med DAB</accessory>
+		<accessory>Registrering af chaufførtræthed</accessory>
+		<accessory>Regnsensor</accessory>
+		<accessory>Sideairbags for</accessory>
+		<accessory>Sidespejle i karosserifarve</accessory>
+		<accessory>Skiftekontakter</accessory>
+		<accessory>Sportsaffjedring</accessory>
+		<accessory>Sportsrat</accessory>
+		<accessory>Sportssæder</accessory>
+		<accessory>Stabilitetskontrol</accessory>
+		<accessory>Start/stop-system</accessory>
+		<accessory>Startspærre</accessory>
+		<accessory>Stemmestyring</accessory>
+		<accessory>System til advarsel om kollision</accessory>
+		<accessory>Tagbøjler</accessory>
+		<accessory>Trådløs opladning af mobiltelefon</accessory>
+		<accessory>Trækstyring</accessory>
+		<accessory>Udvendige spejle med automatisk nedblænding</accessory>
+		<accessory>Airbags</accessory>
+		<accessory>Aluminiumsfælge</accessory>
+		<accessory>Højdejusterbart rat</accessory>
+		<accessory>Varmereflekterende glas</accessory>
+	</searchaccessories_dk>
+	<searchaccessories_sk>
+		<accessory>Adaptívny tempomat</accessory>
+		<accessory>Airbag vodiča</accessory>
+		<accessory>Ambientné osvetlenie</accessory>
+		<accessory>Android Auto</accessory>
+		<accessory>Apple CarPlay</accessory>
+		<accessory>Asistent diaľkových svetiel</accessory>
+		<accessory>Asistent jazdy do kopca</accessory>
+		<accessory>Asistent pri núdzovom brzdení</accessory>
+		<accessory>Automatické stretávacie svetlá</accessory>
+		<accessory>Bezkľúčové štartovanie</accessory>
+		<accessory>Bočné zrkadlá vo farbe karosérie</accessory>
+		<accessory>Cúvacia kamera</accessory>
+		<accessory>Dažďový senzor</accessory>
+		<accessory>Detekcia ospalosti vodiča</accessory>
+		<accessory>Diaľkové centrálne zamykanie</accessory>
+		<accessory>Digitálny kokpit</accessory>
+		<accessory>Elektricky nastaviteľné zrkadlá na dverách</accessory>
+		<accessory>Elektricky ovládané dvere batožinového priestoru</accessory>
+		<accessory>Elektricky ovládané predné a zadné okná</accessory>
+		<accessory>Elektricky ovládané predné okná</accessory>
+		<accessory>Elektricky ovládané zadné okná</accessory>
+		<accessory>Elektrické sklopné zrkadlá na dverách</accessory>
+		<accessory>Imobilizér</accessory>
+		<accessory>ISOFIX</accessory>
+		<accessory>Klimatizácia pre zadné sedadlá</accessory>
+		<accessory>Kontrola stability</accessory>
+		<accessory>Kontrola trakcie</accessory>
+		<accessory>Koža</accessory>
+		<accessory>Kožený interiér</accessory>
+		<accessory>Kožený volant</accessory>
+		<accessory>Metalický lak</accessory>
+		<accessory>Mobilný telefón s bezdrôtovým nabíjaním</accessory>
+		<accessory>Multifunkčný volant</accessory>
+		<accessory>Nastaviteľný volant</accessory>
+		<accessory>Navigačný systém</accessory>
+		<accessory>Osvetlenie zákruty</accessory>
+		<accessory>Ovládanie hlasom</accessory>
+		<accessory>Ovládanie klimatizácie</accessory>
+		<accessory>Palubný počítač</accessory>
+		<accessory>Parkovací asistent</accessory>
+		<accessory>Podpora multimédií</accessory>
+		<accessory>Posilňovač riadenia závislý na rýchlosti</accessory>
+		<accessory>Predná stredová lakťová opierka</accessory>
+		<accessory>Predné bočné airbagy</accessory>
+		<accessory>Predné hlavové airbagy</accessory>
+		<accessory>Predné parkovacie senzory</accessory>
+		<accessory>Radiace páčky</accessory>
+		<accessory>Rádio s DAB</accessory>
+		<accessory>Sledovanie tlaku v pneumatikách</accessory>
+		<accessory>Spätné zrkadlo s automatickým stmievaním</accessory>
+		<accessory>Strešné lyžiny</accessory>
+		<accessory>Svetlomety LED</accessory>
+		<accessory>Systém ABS</accessory>
+		<accessory>Systém alarmu triedy I</accessory>
+		<accessory>Systém rozpoznávania dopravných značiek</accessory>
+		<accessory>Systém výstrahy pred kolíziou</accessory>
+		<accessory>Systém štart/stop</accessory>
+		<accessory>Súprava Bluetooth do auta</accessory>
+		<accessory>Tempomat</accessory>
+		<accessory>Tónované sklo</accessory>
+		<accessory>Upozornenie na vybočenie z jazdného pruhu</accessory>
+		<accessory>Varovanie zadnej premávky</accessory>
+		<accessory>Vonkajšie zrkadlá s automatickým stlmením</accessory>
+		<accessory>Vyhrievané bočné zrkadlá</accessory>
+		<accessory>Vyhrievané predné sedadlá</accessory>
+		<accessory>Výstraha pri prechode cez komunikáciu</accessory>
+		<accessory>Zadná stredová lakťová opierka</accessory>
+		<accessory>Zadné hlavové airbagy</accessory>
+		<accessory>Zadné sedadlá sklápateľné po častiach</accessory>
+		<accessory>Zadné svetlá LED</accessory>
+		<accessory>Zadný parkovací senzor</accessory>
+		<accessory>Zmiernenie následkov kolízie brzdením</accessory>
+		<accessory>Športové odpruženie</accessory>
+		<accessory>Športové sedadlá</accessory>
+		<accessory>Športový volant</accessory>
+		<accessory>Airbagy</accessory>
+		<accessory>Disky z ľahkých zliatin</accessory>
+		<accessory>Sklo odrážajúce teplo</accessory>
+		<accessory>Výškovo nastaviteľný volant</accessory>
+	</searchaccessories_sk>
+	<searchaccessories_tr>
+		<accessory>Acil durum frenleme yardımı</accessory>
+		<accessory>Alarm sistemi Sınıfı I</accessory>
+		<accessory>Anahtarsız çalıştırma</accessory>
+		<accessory>Android Auto</accessory>
+		<accessory>Apple CarPlay</accessory>
+		<accessory>Araç bilgisayarı</accessory>
+		<accessory>Arka baş hava yastıkları</accessory>
+		<accessory>Arka klima</accessory>
+		<accessory>Arka orta kol dayanağı</accessory>
+		<accessory>Arka park sensörü</accessory>
+		<accessory>Arka trafiği uyarma</accessory>
+		<accessory>Ayarlanabilir direksiyon simidi</accessory>
+		<accessory>Bluetooth araç kiti</accessory>
+		<accessory>DAB özellikli radyo</accessory>
+		<accessory>Deri</accessory>
+		<accessory>Deri iç alan</accessory>
+		<accessory>Deri kaplama direksiyon simidi</accessory>
+		<accessory>Dijital kokpit</accessory>
+		<accessory>Elektrikle ayarlanabilen kapı aynaları</accessory>
+		<accessory>Elektrikle çalışan arka camlar</accessory>
+		<accessory>Elektrikle çalışan ön camlar</accessory>
+		<accessory>Elektrikle çalışan ön ve arka camlar</accessory>
+		<accessory>Elektrikli bagaj kapağı</accessory>
+		<accessory>Elektrikli katlanır kapı aynaları</accessory>
+		<accessory>Frenleme ile çarpışma önleme</accessory>
+		<accessory>Geri vites kamerası</accessory>
+		<accessory>Gövde renginde kapı aynaları</accessory>
+		<accessory>Hıza bağlı hidrolik direksiyon</accessory>
+		<accessory>Hız sabitleyici</accessory>
+		<accessory>ISOFIX</accessory>
+		<accessory>Isıtmalı kapı aynaları</accessory>
+		<accessory>Isıtmalı ön koltuklar</accessory>
+		<accessory>Kablosuz şarj edilen cep telefonu</accessory>
+		<accessory>Karşıdan karşıya geçiş trafik uyarısı</accessory>
+		<accessory>Kilitlenme Önleyici Fren Sistemi</accessory>
+		<accessory>Klima kontrolü</accessory>
+		<accessory>Konuşma kontrolü</accessory>
+		<accessory>Kısmen katlanır arka koltuklar</accessory>
+		<accessory>Lastik basıncı kontrolü</accessory>
+		<accessory>LED arka farlar</accessory>
+		<accessory>LED ön farlar</accessory>
+		<accessory>Metalik</accessory>
+		<accessory>Multimedya etkin</accessory>
+		<accessory>Navigasyon sistemi</accessory>
+		<accessory>Ortam aydınlatması</accessory>
+		<accessory>Otomatik kararan arka ayna</accessory>
+		<accessory>Otomatik karartmalı dış dikiz aynaları</accessory>
+		<accessory>Otomatik kısa farlar</accessory>
+		<accessory>Park yardımı</accessory>
+		<accessory>Renkli cam</accessory>
+		<accessory>Spor direksiyon simidi</accessory>
+		<accessory>Spor koltuklar</accessory>
+		<accessory>Spor süspansiyon</accessory>
+		<accessory>Stabilite kontrolü</accessory>
+		<accessory>Sürücü hava yastığı</accessory>
+		<accessory>Sürücü yorgunluk tespit sistemi</accessory>
+		<accessory>Tavan rayları</accessory>
+		<accessory>Trafik işareti tanıma</accessory>
+		<accessory>Uyarlanabilir hız sabitleyici</accessory>
+		<accessory>Uzaktan merkezi kilitleme</accessory>
+		<accessory>Uzun far yardımcısı</accessory>
+		<accessory>Viraj aydınlatması</accessory>
+		<accessory>Vites değiştirme kulakçıkları</accessory>
+		<accessory>Yağmur sensörü</accessory>
+		<accessory>Yokuş kalkış kontrolü</accessory>
+		<accessory>Çalıştırma/durdurma sistemi</accessory>
+		<accessory>Çarpışma uyarı sistemi</accessory>
+		<accessory>Çekiş kontrolü</accessory>
+		<accessory>Çok işlevli direksiyon simidi</accessory>
+		<accessory>Ön baş hava yastıkları</accessory>
+		<accessory>Ön orta kol dayanağı</accessory>
+		<accessory>Ön park sensörleri</accessory>
+		<accessory>Ön yan hava yastıkları</accessory>
+		<accessory>İmmobilizer</accessory>
+		<accessory>Şerit takip uyarısı</accessory>
+		<accessory>Alaşımlı jantlar</accessory>
+		<accessory>Hava yastıkları</accessory>
+		<accessory>Isıyı yansıtan cam</accessory>
+		<accessory>Yüksekliği ayarlanabilir direksiyon simidi</accessory>
+	</searchaccessories_tr>
+	<searchaccessories_fi>
+		<accessory>Ajonestolaite</accessory>
+		<accessory>Ajonopeuden mukaan säätyvä ohjaustehostin</accessory>
+		<accessory>Ajonvakautusjärjestelmä</accessory>
+		<accessory>Ajotietokone</accessory>
+		<accessory>Android Auto</accessory>
+		<accessory>Apple CarPlay</accessory>
+		<accessory>Automaattinen pysäköinti</accessory>
+		<accessory>Automaattiset lähivalot</accessory>
+		<accessory>Avaimeton käynnistys</accessory>
+		<accessory>Bluetooth-autosarja</accessory>
+		<accessory>DAB-radio</accessory>
+		<accessory>Digitaalinen ohjaamo</accessory>
+		<accessory>Etupysäköintitutkat</accessory>
+		<accessory>Etuturvatyynyt</accessory>
+		<accessory>Etäkeskuslukitus</accessory>
+		<accessory>Hälytysjärjestelmä, luokka I</accessory>
+		<accessory>Hätäjarrutusavustin</accessory>
+		<accessory>Ilmastointi</accessory>
+		<accessory>ISOFIX</accessory>
+		<accessory>Kaarrevalot</accessory>
+		<accessory>Kaistavahti</accessory>
+		<accessory>Kattokiskot</accessory>
+		<accessory>Kaukovaloavustin</accessory>
+		<accessory>Korin väriset sivupeilit</accessory>
+		<accessory>Kuljettajan turvatyyny</accessory>
+		<accessory>Kuljettajan uneliaisuuden tunnistus</accessory>
+		<accessory>Käsinoja edessä keskellä</accessory>
+		<accessory>Käsinoja takana keskellä</accessory>
+		<accessory>Käynnistys-/pysäytysjärjestelmä</accessory>
+		<accessory>LED-ajovalot</accessory>
+		<accessory>LED-takavalot</accessory>
+		<accessory>Liikennemerkkien tunnistus</accessory>
+		<accessory>Luistonestojärjestelmä</accessory>
+		<accessory>Lukkiutumaton jarrujärjestelmä</accessory>
+		<accessory>Lämmitettävät etuistuimet</accessory>
+		<accessory>Lämmitettävät sivupeilit</accessory>
+		<accessory>Matkapuhelimen langaton lataus</accessory>
+		<accessory>Metallimaali</accessory>
+		<accessory>Monitoiminen ohjauspyörä</accessory>
+		<accessory>Mukautuva vakionopeustoiminto</accessory>
+		<accessory>Multimedia käytössä</accessory>
+		<accessory>Mäkilähtöavustin</accessory>
+		<accessory>Nahkainen ohjauspyörä</accessory>
+		<accessory>Nahkasisustus</accessory>
+		<accessory>Nahkaverhoilu</accessory>
+		<accessory>Navigointijärjestelmä</accessory>
+		<accessory>Osissa taitettavat takaistuimet</accessory>
+		<accessory>Peruutuskamera</accessory>
+		<accessory>Rengaspaineen valvonta</accessory>
+		<accessory>Risteävän liikenteen varoitus</accessory>
+		<accessory>Sadetunnistin</accessory>
+		<accessory>Sivuturvatyynyt edessä</accessory>
+		<accessory>Sähköisesti kääntyvät sivupeilit</accessory>
+		<accessory>Sähköisesti säädettävät sivupeilit</accessory>
+		<accessory>Sähkötoiminen tavaratilan ovi</accessory>
+		<accessory>Sähkötoimiset etu- ja takaikkunat</accessory>
+		<accessory>Sähkötoimiset etuikkunat</accessory>
+		<accessory>Sähkötoimiset takaikkunat</accessory>
+		<accessory>Sävytetty lasi</accessory>
+		<accessory>Säädettävä ohjauspyörä</accessory>
+		<accessory>Takaosan ilmastointi</accessory>
+		<accessory>Takapysäköintitutka</accessory>
+		<accessory>Takaturvatyynyt</accessory>
+		<accessory>Taustapeilin automaattinen himmennys</accessory>
+		<accessory>Törmäyksen lievennys jarruttamalla</accessory>
+		<accessory>Törmäysvaroitusjärjestelmä</accessory>
+		<accessory>Ulkopeilien automaattinen himmennys</accessory>
+		<accessory>Urheiluistuimet</accessory>
+		<accessory>Urheilullinen jousitus</accessory>
+		<accessory>Urheilullinen ohjauspyörä</accessory>
+		<accessory>Vaihtosiivekkeet</accessory>
+		<accessory>Vakionopeudensäädin</accessory>
+		<accessory>Varoitus takaliikenteestä</accessory>
+		<accessory>Ympäristön valaistus</accessory>
+		<accessory>Ääniohjaus</accessory>
+		<accessory>Kevytmetallivanteet</accessory>
+		<accessory>Lämpöä heijastava lasi</accessory>
+		<accessory>Ohjauspyörän korkeuden säätö</accessory>
+		<accessory>Turvatyynyt</accessory>
+	</searchaccessories_fi>
+	<searchaccessories_se>
+		<accessory>Adaptiv farthållare</accessory>
+		<accessory>Android Auto</accessory>
+		<accessory>Antiblockeringssystem</accessory>
+		<accessory>Apple CarPlay</accessory>
+		<accessory>Assisterad nödbroms</accessory>
+		<accessory>Automatiskt dimmande backspegel</accessory>
+		<accessory>Automatiskt dimmande yttre backspeglar</accessory>
+		<accessory>Automatiskt halvljus</accessory>
+		<accessory>Automatiskt parkeringsljus</accessory>
+		<accessory>Avåkningsvarnare</accessory>
+		<accessory>Backkamera</accessory>
+		<accessory>Backstarthjälp</accessory>
+		<accessory>Bakre armstöd i mitten</accessory>
+		<accessory>Bakre krockkuddar i huvudhöjd</accessory>
+		<accessory>Bakre luftkonditionering</accessory>
+		<accessory>Bakre parkeringssensor</accessory>
+		<accessory>Baksäten fällbara i delar</accessory>
+		<accessory>Bluetooth-sats för bilar</accessory>
+		<accessory>Centralt fjärrlås</accessory>
+		<accessory>Digital cockpit</accessory>
+		<accessory>Däcktryckreglering</accessory>
+		<accessory>Elektriskt justerbara yttre backspeglar</accessory>
+		<accessory>Elektriskt vikbara yttre backspeglar</accessory>
+		<accessory>Elmanövrerad bakdörr</accessory>
+		<accessory>Elmanövrerade bakre fönster</accessory>
+		<accessory>Elmanövrerade främre fönster</accessory>
+		<accessory>Elmanövrerade främre och bakre fönster</accessory>
+		<accessory>Farthållare</accessory>
+		<accessory>Främre armstöd i mitten</accessory>
+		<accessory>Främre krockkuddar i huvudhöjd</accessory>
+		<accessory>Främre parkeringssensorer</accessory>
+		<accessory>Främre sidomonterade krockkuddar</accessory>
+		<accessory>Förarens krockkudde</accessory>
+		<accessory>Förberedd för multimedia</accessory>
+		<accessory>Hastighetsberoende servostyrning</accessory>
+		<accessory>Helljusassistans</accessory>
+		<accessory>Inbyggd dator</accessory>
+		<accessory>ISOFIX</accessory>
+		<accessory>Justerbar ratt</accessory>
+		<accessory>Klimatanläggning</accessory>
+		<accessory>Kollisionsvarningssystem</accessory>
+		<accessory>Kollisonsskydd genom bromsning</accessory>
+		<accessory>Kurvljus</accessory>
+		<accessory>Larmsystem klass I</accessory>
+		<accessory>LED-bakljus</accessory>
+		<accessory>LED-strålkastare</accessory>
+		<accessory>Läderratt</accessory>
+		<accessory>Låsningsfritt bromssystem</accessory>
+		<accessory>Metalliclack</accessory>
+		<accessory>Mobiltelefon med trådlös laddning</accessory>
+		<accessory>Navigationssystem</accessory>
+		<accessory>Nyckellös start</accessory>
+		<accessory>Radio med DAB</accessory>
+		<accessory>Ratt med flera funktioner</accessory>
+		<accessory>Regnsensor</accessory>
+		<accessory>Röststyrning</accessory>
+		<accessory>Skinninteriör</accessory>
+		<accessory>Skinnklädsel</accessory>
+		<accessory>Sportfjädring</accessory>
+		<accessory>Sportratt</accessory>
+		<accessory>Sportsäten</accessory>
+		<accessory>Stabilitetskontroll</accessory>
+		<accessory>Start/stopp-system</accessory>
+		<accessory>Startspärr</accessory>
+		<accessory>Stämningsbelysning</accessory>
+		<accessory>Takräcken</accessory>
+		<accessory>Tonade rutor</accessory>
+		<accessory>Trafikskyltsidentifiering</accessory>
+		<accessory>Trötthetsvarnare</accessory>
+		<accessory>Uppvärmda framsäten</accessory>
+		<accessory>Uppvärmda yttre backspeglar</accessory>
+		<accessory>Varning för korsande trafik</accessory>
+		<accessory>Varning för trafik bakifrån</accessory>
+		<accessory>Växelväljare med paddlar</accessory>
+		<accessory>Yttre backspeglar i karossens färg</accessory>
+		<accessory>Krockkuddar</accessory>
+		<accessory>Lättmetallfälgar</accessory>
+		<accessory>Ratt med justerbar höjd</accessory>
+		<accessory>Värmereflekterande glas</accessory>
+	</searchaccessories_se>
+	<searchaccessories_no>
+		<accessory>Adaptiv cruisekontroll</accessory>
+		<accessory>Advarer trafikk bakfra</accessory>
+		<accessory>Advarsel om kryssende trafikk</accessory>
+		<accessory>Alarmsystem i klasse I</accessory>
+		<accessory>Android Auto</accessory>
+		<accessory>Antisklisystem</accessory>
+		<accessory>Apple CarPlay</accessory>
+		<accessory>Automatisk dimming av bakspeil</accessory>
+		<accessory>Automatisk dimming av utvendige speil</accessory>
+		<accessory>Automatisk nærlys</accessory>
+		<accessory>Automatisk parkering</accessory>
+		<accessory>Bakkeholderkontroll</accessory>
+		<accessory>Bakseter som er delvis sammenleggbare</accessory>
+		<accessory>Blokkeringsfrie bremser</accessory>
+		<accessory>Bluetooth-bilsett</accessory>
+		<accessory>Cruisekontroll</accessory>
+		<accessory>Dekktrykk-kontroll</accessory>
+		<accessory>Digital førerkabin</accessory>
+		<accessory>Elektrisk betjent bakluke</accessory>
+		<accessory>Elektrisk betjente bakruter</accessory>
+		<accessory>Elektrisk betjente frontruter</accessory>
+		<accessory>Elektrisk betjente ruter foran og bak</accessory>
+		<accessory>Elektrisk innfellbare sidespeil</accessory>
+		<accessory>Elektrisk justerbare sidespeil</accessory>
+		<accessory>Farget glass</accessory>
+		<accessory>Fjernlys-assistent</accessory>
+		<accessory>Fjernstyrt sentrallås</accessory>
+		<accessory>Girhendler på rattet</accessory>
+		<accessory>Hastighetsavhengig servostyring</accessory>
+		<accessory>ISOFIX</accessory>
+		<accessory>Justerbart ratt</accessory>
+		<accessory>Kjørecomputer</accessory>
+		<accessory>Kjørefeltvarsling</accessory>
+		<accessory>Klimaanlegg</accessory>
+		<accessory>Klimaanlegg bak</accessory>
+		<accessory>Kollisjonsbegrensning gjennom bremsing</accessory>
+		<accessory>Kollisjonspute på førersiden</accessory>
+		<accessory>Kollisjonsputer for hode bak</accessory>
+		<accessory>Kollisjonsputer for hode foran</accessory>
+		<accessory>Kollisjonsputer på siden foran</accessory>
+		<accessory>Kollisjonsvarslingssystem</accessory>
+		<accessory>Kurvelys</accessory>
+		<accessory>LED-baklys</accessory>
+		<accessory>LED-frontlys</accessory>
+		<accessory>Metallisk lakk</accessory>
+		<accessory>Midtre armlene bak</accessory>
+		<accessory>Midtre armlene foran</accessory>
+		<accessory>Multifunksjonelt ratt</accessory>
+		<accessory>Multimedia er aktivert</accessory>
+		<accessory>Navigasjonssystem</accessory>
+		<accessory>Nødbremsassistanse</accessory>
+		<accessory>Nøkkelfri start</accessory>
+		<accessory>Omgivelsesbelysning</accessory>
+		<accessory>Oppvarmede forseter</accessory>
+		<accessory>Oppvarmede sidespeil</accessory>
+		<accessory>Parkeringssensor bak</accessory>
+		<accessory>Parkeringssensorer foran</accessory>
+		<accessory>Radio med DAB</accessory>
+		<accessory>Registrerer om fører begynner å bli trett</accessory>
+		<accessory>Regnsensor</accessory>
+		<accessory>Ryggekamera</accessory>
+		<accessory>Setetrekk i skinn</accessory>
+		<accessory>Sidespeil i samme farge som karosseriet</accessory>
+		<accessory>Skinninteriør</accessory>
+		<accessory>Skinnkledd ratt</accessory>
+		<accessory>Sportsfjæring</accessory>
+		<accessory>Sportsratt</accessory>
+		<accessory>Sportsseter</accessory>
+		<accessory>Stabilitetskontroll</accessory>
+		<accessory>Start/stopp-system</accessory>
+		<accessory>Startsperre</accessory>
+		<accessory>Takskinner</accessory>
+		<accessory>Talekontroll</accessory>
+		<accessory>Trafikkskiltgjenkjenning</accessory>
+		<accessory>Trådløs lading for mobiltelefon</accessory>
+		<accessory>Kollisjonsputer</accessory>
+		<accessory>Lettmetallfelger</accessory>
+		<accessory>Ratt som kan justeres i høyden</accessory>
+		<accessory>Varmereflekterende glass</accessory>
+	</searchaccessories_no>
+	<condition.damage>
+		<status>none</status>
+		<remarks_nl></remarks_nl>
+		<remarks_en></remarks_en>
+		<remarks_de></remarks_de>
+		<remarks_fr></remarks_fr>
+		<remarks_es></remarks_es>
+		<remarks_pt></remarks_pt>
+		<remarks_it></remarks_it>
+		<remarks_el></remarks_el>
+		<remarks_ru></remarks_ru>
+		<remarks_ro></remarks_ro>
+		<remarks_hu></remarks_hu>
+		<remarks_pl></remarks_pl>
+		<remarks_cz></remarks_cz>
+		<remarks_bg></remarks_bg>
+		<remarks_hr></remarks_hr>
+		<remarks_dk></remarks_dk>
+		<remarks_sk></remarks_sk>
+		<remarks_tr></remarks_tr>
+		<remarks_fi></remarks_fi>
+		<remarks_se></remarks_se>
+		<remarks_no></remarks_no>
+		<damages_nl/>
+		<damages_en/>
+		<damages_de/>
+		<damages_fr/>
+		<damages_es/>
+		<damages_pt/>
+		<damages_it/>
+		<damages_el/>
+		<damages_ru/>
+		<damages_ro/>
+		<damages_hu/>
+		<damages_pl/>
+		<damages_cz/>
+		<damages_bg/>
+		<damages_hr/>
+		<damages_dk/>
+		<damages_sk/>
+		<damages_tr/>
+		<damages_fi/>
+		<damages_se/>
+		<damages_no/>
+		<defective_parts/>
+		<repaired/>
+		<mobile/>
+	</condition.damage>
+	<identification.dataset.vgs>
+		<option_key/>
+		<maketypecode/>
+		<vehicle_type/>
+		<make/>
+		<model/>
+		<type/>
+		<edition/>
+		<bodytype/>
+		<fuel/>
+	</identification.dataset.vgs>
+	<identification.dataset.autotelex>
+		<edition_nr/>
+		<vehicle_type/>
+		<make/>
+		<model/>
+		<variant/>
+		<edition/>
+		<bodytype/>
+		<fuel/>
+	</identification.dataset.autotelex>
+	<identification.dataset.jato.code/>
+	<images>
+		<image nr="1">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784563/47660936-1.jpg</url>
+			<filename>47660936-1.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="2">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784564/47660936-2.jpg</url>
+			<filename>47660936-2.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="3">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784565/47660936-3.jpg</url>
+			<filename>47660936-3.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="4">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784566/47660936-4.jpg</url>
+			<filename>47660936-4.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="5">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784567/47660936-5.jpg</url>
+			<filename>47660936-5.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="6">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784568/47660936-6.jpg</url>
+			<filename>47660936-6.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="7">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784569/47660936-7.jpg</url>
+			<filename>47660936-7.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="8">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784570/47660936-8.jpg</url>
+			<filename>47660936-8.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="9">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784571/47660936-9.jpg</url>
+			<filename>47660936-9.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="10">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784572/47660936-10.jpg</url>
+			<filename>47660936-10.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="11">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784573/47660936-11.jpg</url>
+			<filename>47660936-11.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="12">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784574/47660936-12.jpg</url>
+			<filename>47660936-12.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="13">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784575/47660936-13.jpg</url>
+			<filename>47660936-13.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="14">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784576/47660936-14.jpg</url>
+			<filename>47660936-14.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="15">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784577/47660936-15.jpg</url>
+			<filename>47660936-15.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="16">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784578/47660936-16.jpg</url>
+			<filename>47660936-16.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="17">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784579/47660936-17.jpg</url>
+			<filename>47660936-17.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="18">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784580/47660936-18.jpg</url>
+			<filename>47660936-18.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="19">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784581/47660936-19.jpg</url>
+			<filename>47660936-19.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="20">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784582/47660936-20.jpg</url>
+			<filename>47660936-20.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="21">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784583/47660936-21.jpg</url>
+			<filename>47660936-21.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="22">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784584/47660936-22.jpg</url>
+			<filename>47660936-22.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="23">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784585/47660936-23.jpg</url>
+			<filename>47660936-23.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="24">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784586/47660936-24.jpg</url>
+			<filename>47660936-24.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="25">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784587/47660936-25.jpg</url>
+			<filename>47660936-25.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="26">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784588/47660936-26.jpg</url>
+			<filename>47660936-26.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+		<image nr="27">
+			<url>https://media-eigenwebsiteincrementeel.export.dv.nl/19486784589/47660936-27.jpg</url>
+			<filename>47660936-27.jpg</filename>
+			<description/>
+			<overlay/>
+		</image>
+	</images>
+	<overlays/>
+	<panoramas/>
+	<videos>
+		<video nr="1">
+			<source>youtube</source>
+			<videocode>1cIH3d0zWQI</videocode>
+			<description_nl/>
+			<description_en/>
+			<description_de/>
+			<description_fr/>
+			<description_es/>
+			<description_pt/>
+			<description_it/>
+			<description_el/>
+			<description_ru/>
+			<description_ro/>
+			<description_hu/>
+			<description_pl/>
+			<description_cz/>
+			<description_bg/>
+			<description_hr/>
+			<description_dk/>
+			<description_sk/>
+			<description_tr/>
+			<description_fi/>
+			<description_se/>
+			<description_no/>
+		</video>
+	</videos>
+	<documents/>
+	<call-to-actions_nl/>
+	<call-to-actions_en/>
+	<call-to-actions_de/>
+	<call-to-actions_fr/>
+	<call-to-actions_es/>
+	<call-to-actions_pt/>
+	<call-to-actions_it/>
+	<call-to-actions_el/>
+	<call-to-actions_ru/>
+	<call-to-actions_ro/>
+	<call-to-actions_hu/>
+	<call-to-actions_pl/>
+	<call-to-actions_cz/>
+	<call-to-actions_bg/>
+	<call-to-actions_hr/>
+	<call-to-actions_dk/>
+	<call-to-actions_sk/>
+	<call-to-actions_tr/>
+	<call-to-actions_fi/>
+	<call-to-actions_se/>
+	<call-to-actions_no/>
+	<unsupportedProperties_nl/>
+	<unsupportedProperties_en/>
+	<unsupportedProperties_de/>
+	<unsupportedProperties_fr/>
+	<unsupportedProperties_es/>
+	<unsupportedProperties_pt/>
+	<unsupportedProperties_it/>
+	<unsupportedProperties_el/>
+	<unsupportedProperties_ru/>
+	<unsupportedProperties_ro/>
+	<unsupportedProperties_hu/>
+	<unsupportedProperties_pl/>
+	<unsupportedProperties_cz/>
+	<unsupportedProperties_bg/>
+	<unsupportedProperties_hr/>
+	<unsupportedProperties_dk/>
+	<unsupportedProperties_sk/>
+	<unsupportedProperties_tr/>
+	<unsupportedProperties_fi/>
+	<unsupportedProperties_se/>
+	<unsupportedProperties_no/>
+	<body.cabin.present/>
+	<powertrain.tyres.tyre_types/>
+	<powertrain.tyres.non_marking/>
+	<superstructure.euro_pallet_count/>
+	<category_specific.tractor.fifth_wheel.height.min/>
+	<category_specific.tractor.fifth_wheel.height.max/>
+	<interior.upholstery.code/>
+	<category_specific.auxiliary.type_forklift_battery_charger/>
+	<identification.production_number/>
+	<manufacturer>
+		<name/>
+		<street/>
+		<housenumber/>
+		<housenumber_extension/>
+		<postalcode/>
+		<province/>
+		<city/>
+		<country/>
+		<telephone/>
+		<website/>
+		<email/>
+	</manufacturer>
+	<eu-responsible>
+		<name/>
+		<street/>
+		<housenumber/>
+		<housenumber_extension/>
+		<postalcode/>
+		<province/>
+		<city/>
+		<country/>
+		<telephone/>
+		<website/>
+		<email/>
+	</eu-responsible>
+</vehicle>

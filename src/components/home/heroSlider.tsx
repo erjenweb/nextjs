@@ -1,0 +1,39 @@
+function HeroSlider({ ...props }: React.HTMLAttributes<HTMLDivElement>) {
+  return (
+
+    <section className="hero-with-banner relative flex overflow-hidden">
+      <video autoPlay muted loop playsInline className="absolute inset-0 w-full h-full object-cover">
+        <source src="/assets/image/bannr_video.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
+      <div className="relative z-10  max-w-7xl mx-auto w-full hero-content">
+        <div className="max-w-2xl">
+          <h1 className="text-6xl md:text-8xl font-bold mb-8 leading-tight">
+            <span className="block text-white">BEYOND</span>
+            <span className="block text-white">DRIVING</span>
+          </h1>
+        </div>
+        <div className="flex items-center justify-between mt-52">
+          <div className="flex items-center">
+            <button
+              className="px-6 py-2 bg-brand-orange text-white rounded-full cursor-pointer bg-orange-600 transition-colors mr-5">
+              Zie onze collectie
+            </button>
+            <button
+              className="px-6 py-2 bg-transparent border border-white text-white rounded-full hover:bg-white hover:text-black transition-colors flex items-center gap-2">
+              <span className="w-3 h-3 bg-brand-orange rounded-full"></span>
+              Maak een afspraak
+            </button>
+          </div>
+          <p className="text-gray-300 text-lg">
+            Meet the ultimate combination of luxury and performance.
+            Our collection represents the pinnacle of automotive excellence,
+            crafted for those who demand more than just transportation.
+          </p>
+        </div>
+      </div>
+    </section>
+  );
+}
+
+export { HeroSlider };
