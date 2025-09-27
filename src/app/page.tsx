@@ -9,7 +9,7 @@ import baseUrl from "@/lib/baseUrl";
 async function Home() {
 
 
-    const res = await fetch(`${baseUrl}/api/fetch/product/list`);
+    const res = await fetch(`${baseUrl}/api/fetch/product/list`, { cache: "no-store" });
 
     const cars = await res.json();
 

@@ -5,7 +5,9 @@ import baseUrl  from "@/lib/baseUrl";
 
 async function Aanbod() {
 
-  const res = await fetch(`${baseUrl}/api/fetch/aanbod`);
+  const res = await fetch(`${baseUrl}/api/fetch/aanbod`,{
+    cache: 'no-store',
+  });
 
   const cars = await res.json();
 
