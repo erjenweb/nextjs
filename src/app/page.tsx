@@ -4,12 +4,12 @@ import Contact from '@/components/home/contact'
 import { HeroSlider } from '@/components/home/heroSlider'
 import { Services } from '@/components/home/services'
 import Testimonial from '@/components/home/testimonial'
-
+import baseUrl from "@/lib/baseUrl";
 
 async function Home() {
 
 
-  const res = await fetch(`/api/fetch/product/list`);
+  const res = await fetch(`${baseUrl}/api/fetch/product/list`);
 
   const cars = await res.json();
 

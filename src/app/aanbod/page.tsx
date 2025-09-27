@@ -1,10 +1,11 @@
 import React from 'react'
 import CarList from "@/components/cars/CarList";
+import baseUrl  from "@/lib/baseUrl";
 
 
 async function Aanbod() {
 
-  const res = await fetch(`/api/fetch/aanbod`);
+  const res = await fetch(`${baseUrl}/api/fetch/aanbod`);
 
   const cars = await res.json();
 

@@ -2,11 +2,12 @@ import React from 'react'
 import Image from 'next/image'
 
 import limitWords from "@/lib/limitWords"
+import baseUrl from "@/lib/baseUrl";
 
 async function ProductDetail({ params }: { params: { slug: string } }) {
 
 
-  const res = await fetch(`/api/fetch/product/detail?hexon_nr=${params.slug}`,
+  const res = await fetch(`${baseUrl}/api/fetch/product/detail?hexon_nr=${params.slug}`,
     { cache: "no-store" }
   );
 
