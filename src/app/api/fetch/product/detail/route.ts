@@ -17,7 +17,7 @@ export async function GET(req: Request) {
 
     let car;
     if (hexon_nr) {
-      car = await voertuigen.findOne({ hexon_nr }, { projection: { raw: 0 } });
+      car = await voertuigen.findOne({ hexon_nr }, { projection: { } });
     } else if (id) {
       car = await voertuigen.findOne({ _id: new ObjectId(id) });
     }

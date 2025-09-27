@@ -7,7 +7,7 @@ export async function GET(request) {
   const client = await MongoClient.connect(uri);
   const db = client.db(); // default DB from URI
   const voertuigen = db.collection("voertuigen");
-  const allDocs = await voertuigen.find({}, { projection: { raw: 0, remarks_nl: 0, remarks_en: 0 } }).toArray();
+  const allDocs = await voertuigen.find({}, { projection: {  } }).toArray();
 
 
   return new NextResponse(
