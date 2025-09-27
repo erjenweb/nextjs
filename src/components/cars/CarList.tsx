@@ -73,7 +73,7 @@ export default function CarList({ cars }: CarListProps) {
             </div>
             <div className="car-detil-bottom">
               <h4 className="ft-22 white-text">{car?.title_nl}</h4>
-              <p className="white-text ft-18">{limitWords(car?.remarks_nl, 50)} </p>
+              <p className="white-text ft-18" dangerouslySetInnerHTML={{ __html: limitWords(car?.remarks_nl, 50)}}> </p>
             </div>
             <div className="flex justify-between items-center">
               <div className="price-white-box flex items-center white-bg radius-40">
