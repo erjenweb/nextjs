@@ -43,7 +43,7 @@ function Collection({ cars }: CarListProps) {
 
 
   return (
-    <section className="collection-section collection-page w-full">
+    <section className="collection-section w-full">
       <div className="blue-box">
         <div className="max-w-7xl mx-auto">
           <h2 className=""><span className="orange-text">Onze</span> bijzondere<br /> collectie </h2>
