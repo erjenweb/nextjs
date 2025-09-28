@@ -28,6 +28,7 @@ export function CarDetailSlider({ images, merk, model }: CarDetailSliderProps) {
             spaceBetween={20}
             autoplay={false}
             slidesPerView={'auto'}
+            autoHeight={true}
             // Remove console.logs if not needed:
             // onSlideChange={() => console.log('slide change')}
             // onSwiper={(swiper) => console.log(swiper)}
