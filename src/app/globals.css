@@ -20,7 +20,7 @@
 }
 /* @import "tailwindcss"; */
 body {
-      font-family: 'Nimbus Sans L';
+      font-family: 'Nimbus Sans L' !important;
       background-color: #132025 !important;
 }
 
