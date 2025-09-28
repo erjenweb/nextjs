@@ -16,7 +16,6 @@
   }
 }
 /* @import "tailwindcss"; */
-@import url("assets/Fonts/stylesheet.css");
 body {
       font-family: 'Nimbus Sans L';
       background-color: #132025 !important;
