@@ -117,7 +117,7 @@ async function ProductDetail({ params }: { params: { slug: string } }) {
               </div>
               <div className="detail-content">
                 <h2 className="orange-text ft-32">beschrijving</h2>
-                <div className='text-white' dangerouslySetInnerHTML={{ __html: limitWords(carDetail?.remarks_nl, 150) }} />
+                <p className='text-white' dangerouslySetInnerHTML={{ __html: limitWords(carDetail?.remarks_nl, 150) }} />
 
 
               </div>
