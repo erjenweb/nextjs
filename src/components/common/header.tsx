@@ -1,8 +1,19 @@
+'use client'
+
 import * as React from "react";
 import Image from 'next/image'
 import Link from 'next/link';
+import Megamenu from "@/components/common/megamenu";
+import {useState} from "react";
 
 function Header({ ...props }: React.HTMLAttributes<HTMLDivElement>) {
+
+  const [ToggleMenu,setToggleMenu] = useState(false);
+  const ToggleMegaMenu = () =>{
+
+   setToggleMenu(!ToggleMenu);
+
+  }
   return (
     <header className="absolute w-full z-50 px-6 py-4" {...props}>
       <nav className="flex items-center justify-between max-w-7xl mx-0">
@@ -12,7 +23,7 @@ function Header({ ...props }: React.HTMLAttributes<HTMLDivElement>) {
           </Link>
         </div>
         <div className="flex items-center space-x-4">
-          <a href="#" className="w-10 h-10  rounded-full cursor-pointer menu_icon">
+          <a href="#" className="w-10 h-10  rounded-full cursor-pointer menu_icon" onClick={ToggleMegaMenu}>
             <Image width={100} height={100} src="/assets/image/connect-icon.svg" alt="" />
           </a>
           <a href="#" className="w-12 h-12 rounded-full cursor-pointer customer_image">
@@ -24,6 +35,9 @@ function Header({ ...props }: React.HTMLAttributes<HTMLDivElement>) {
           </Link>
         </div>
       </nav>
+      <div  className={`mega-menu ${ToggleMenu?'open-nav':''}`} >
+      <Megamenu />
+      </div>
     </header>
   );
 }
