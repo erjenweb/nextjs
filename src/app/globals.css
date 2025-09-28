@@ -19,7 +19,7 @@
 
 body {
       font-family: 'Nimbus Sans L';
-      background-color: #132025;
+      background-color: #132025 !important;
 }
 
 .size-48 {
