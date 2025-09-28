@@ -1926,6 +1926,10 @@ header nav {
 }
 
 @media(max-width:1700px) {
+     .mega-menu .menu-right {
+            width: 888px;
+            padding: 40px;
+      }
       .max-w-7xl {
             max-width: 1366px;
       }
@@ -2117,6 +2121,13 @@ header nav {
 }
 
 @media(max-width:1399px) {
+      .menu-right-top h2 {
+            font-size: 30px;
+      }
+
+      .menu-left a {
+            font-size: 35px;
+      }
       .max-w-7xl {
             max-width: 1024px;
       }
@@ -2428,6 +2439,20 @@ header nav {
 }
 
 @media(max-width:1149px) {
+     .mega-menu .menu-right {
+            width: 640px;
+            padding: 40px;
+      }
+
+      .occations-list {
+            column-gap: 15px;
+            flex-wrap: wrap;
+            row-gap: 15px;
+      }
+
+      .occations-list .occations-box {
+            width: calc(50% - 8px);
+      }
       .max-w-7xl {
             max-width: 820px;
       }
@@ -2596,6 +2621,19 @@ header nav {
 }
 
 @media(max-width:1023px) {
+     .mega-menu .flex.items-center.justify-between {
+            flex-wrap: wrap;
+      }
+
+      .menu-left ul {
+            row-gap: 20px;
+      }
+
+      .mega-menu .menu-right {
+            width: 100%;
+            padding: 40px;
+            margin-top: 50px;
+      }
       .max-w-7xl {
             max-width: 600px;
       }
@@ -2974,6 +3012,40 @@ header nav {
 }
 
 @media(max-width:767px) {
+     .mega-menu {
+            height: auto;
+            padding: 120px 0 100px;
+            min-height: 100vh;
+            justify-content: flex-start;
+            overflow-y: auto;
+      }
+
+      .menu-left a {
+            font-size: 30px;
+      }
+
+      .menu-left ul li {
+            width: 100%;
+      }
+
+      .menu-right .menu-right-top {
+            flex-wrap: wrap;
+            row-gap: 20px;
+            padding-bottom: 40px;
+      }
+
+      .occations-list .occations-box {
+            width: 100%;
+      }
+
+      .menu-bottom {
+            width: 100%;
+            position: relative;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            padding-top: 50px;
+      }
       .max-w-7xl {
             max-width: 340px;
       }
