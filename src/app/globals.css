@@ -22,6 +22,73 @@ body {
       background-color: #132025;
 }
 
+.size-48 {
+      font-size: 48px;
+      line-height: 100%;
+}
+
+.primary-btn {
+      font-size: 16px;
+      padding: 16px 70px 16px 20px;
+      border-radius: 50px;
+      position: relative;
+      display: inline-flex;
+      align-items: center;
+      line-height: 1;
+      transition: 0.5s all;
+}
+
+.primary-btn:hover {
+      background-color: #fff;
+      color: #000;
+      box-shadow: 0px 5px 50px #00000042;
+}
+
+.primary-btn:before {
+      content: '';
+      width: 48px;
+      height: 48px;
+      position: absolute;
+      background: #fff;
+      border-radius: 50px;
+      right: 2px;
+      top: 0;
+      transform: scale(0.7);
+      transition: 0.5s all;
+}
+
+.primary-btn:hover::before {
+      transform-origin: center;
+      background: #f54a00;
+      transform: scale(1);
+      right: 0;
+}
+
+.primary-btn:hover::after {
+      filter: brightness(0) invert(1);
+}
+
+.arrow-btn:after {
+      content: '';
+      background-image: url(/assets/icons/arrow-right.svg);
+      width: 15px;
+      height: 12px;
+      position: absolute;
+      right: 18px;
+      top: 50%;
+      transform: translateY(-50%);
+      transition: 0.5s all;
+}
+
+.orange-bg {
+      background: #f54a00;
+      color: #fff;
+}
+
+.white-text {
+      color: #fff;
+}
+
 h1,
 h2,
 h3,
@@ -2034,6 +2101,16 @@ header nav {
       .about-section-two {
             margin-top: -340px;
       }
+
+      .about-list-left {
+            padding: 0px;
+            margin-top: 70px;
+      }
+
+      .about-vision-section {
+            margin-top: 50px;
+            padding-bottom: 86px;
+      }
 }
 
 @media(max-width:1399px) {
@@ -2308,6 +2385,43 @@ header nav {
             margin-top: 0;
             width: 100%;
       }
+
+      .about-content {
+            width: 700px;
+            padding-top: 60px;
+            padding-left: 0px;
+      }
+
+      .about-section-two {
+            margin-top: -130px;
+      }
+
+      .about-content-two h2 {
+            font-size: 35px;
+      }
+
+      .about-list-right ul {
+            width: 540px;
+      }
+
+      .about-list-right {
+            margin-left: 30px;
+            margin-top: 60px;
+      }
+
+      .vision-content {
+            width: 50%;
+            padding-left: 0;
+      }
+
+      .mission-content {
+            width: 50%;
+            margin-left: 40px;
+      }
+
+      .about-vision-section .flex.items-center {
+            align-items: flex-start;
+      }
 }
 
 @media(max-width:1149px) {
@@ -2436,6 +2550,46 @@ header nav {
             width: 240px;
       }
 
+      .about-content-two {
+            width: 40%;
+            margin-left: -50px;
+      }
+
+      .about-img-two {
+            width: 60%;
+      }
+
+      .about-img-two:before {
+            border-radius: 25px;
+      }
+
+      .about-section-two {
+            margin-top: -10px;
+      }
+
+      .about-content-two h2 {
+            font-size: 30px;
+            hyphens: auto;
+      }
+
+      .about-list .flex {
+            flex-wrap: wrap;
+      }
+
+      .about-list-left img {
+            margin-top: 50px;
+            width: 100%;
+      }
+
+      .about-list-right {
+            margin-left: 0;
+            margin-top: 50px;
+            width: 100%;
+      }
+
+      .about-list-right ul {
+            width: 100%;
+      }
 }
 
 @media(max-width:1023px) {
@@ -2743,6 +2897,76 @@ header nav {
             margin-top: 0;
             width: 100%;
             padding-top: 80px;
+      }
+
+      .about-section .flex {
+            flex-wrap: wrap;
+      }
+
+      .about-content {
+            width: 100%;
+            padding-top: 50px;
+            padding-left: 0px;
+            padding-bottom: 43px;
+      }
+
+      .about-content-two {
+            width: 100%;
+            margin-left: 0;
+            padding-bottom: 40px;
+      }
+
+      .about-section-two .flex {
+            flex-wrap: wrap;
+      }
+
+      .about-content-two {
+            width: 100%;
+            margin-left: 0;
+      }
+
+      .about-section-two {
+            margin-top: -100px;
+      }
+
+      .about-img-two:before {
+            border-radius: 33px;
+      }
+
+      .about-img-two {
+            width: 100%;
+            order: 2;
+      }
+
+      .about-vision-section .flex.items-center {
+            align-items: flex-start;
+            flex-wrap: wrap;
+      }
+
+      .vision-content {
+            width: 100%;
+            padding-left: 0;
+      }
+
+      .mission-content {
+            width: 100%;
+            margin-left: 0;
+            padding-top: 60px;
+      }
+
+      .vision-content h3,
+      .mission-content h3 {
+            margin-bottom: 18px;
+            font-size: 35px;
+      }
+
+      .vision-content h3 br,
+      .mission-content h3 br {
+            display: none;
+      }
+
+      .mission-content img {
+            margin-top: 50px;
       }
 }
 
@@ -3174,4 +3398,74 @@ header nav {
             font-size: 14px;
       }
 
+      header:before {
+            height: 120px;
+      }
+
+      .about-content {
+            width: 100%;
+            padding-top: 20px;
+            padding-left: 0px;
+            padding-bottom: 46px;
+      }
+
+      .about-content p {
+            font-size: 14px;
+            line-height: 24px;
+            margin-bottom: 20px;
+      }
+
+      .about-content-two h2 {
+            font-size: 22px;
+            hyphens: auto;
+      }
+
+      .about-content-two img {
+            margin-left: auto;
+            margin-bottom: 30px;
+      }
+
+      .about-img-two .text-icon {
+            max-width: 150px;
+            bottom: 30px;
+            left: 30px;
+      }
+
+      .about-img-two:before {
+            border-radius: 18px;
+      }
+
+      .about-list-left {
+            padding: 0px;
+            margin-top: 50px;
+            width: 100%;
+      }
+
+      .about-list-left p {
+            margin-bottom: 20px;
+      }
+
+      .about-list-left img {
+            margin-top: 30px;
+            width: 100%;
+      }
+
+      .about-list-right ul {
+            width: 100%;
+            padding: 40px;
+      }
+
+      .vision-content h3,
+      .mission-content h3 {
+            margin-bottom: 18px;
+            font-size: 30px;
+      }
+
+      .mission-content {
+            padding-top: 40px;
+      }
+
+      .mission-content img {
+            margin-top: 40px;
+      }
 }
