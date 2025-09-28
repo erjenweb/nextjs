@@ -1,8 +1,34 @@
 import React from 'react'
 import Image from 'next/image'
-
+import { Swiper, SwiperSlide } from "swiper/react";
+import 'swiper/css';
+import 'swiper/css/navigation';
+import { Navigation, Pagination, Scrollbar } from 'swiper/modules';
 import limitWords from "@/lib/limitWords"
 import baseUrl from "@/lib/baseUrl";
+import Link from "next/link";
+
+type Car = {
+  _id: string;
+  hexon_nr: string;
+  license_plate: string;
+  merk: string;
+  model: string;
+  title_nl: string;
+  topSpeed: string;
+  buildYear: string;
+  pricing: {
+    country: string;
+    amount: string;
+    currency: string;
+  };
+  images: string[];
+};
+
+// Define props type
+interface CarListProps {
+  cars: Car[];
+}
 
 async function ProductDetail({ params }: { params: { slug: string } }) {
 
@@ -94,6 +120,67 @@ async function ProductDetail({ params }: { params: { slug: string } }) {
 
 
               </div>
+            </div>
+            <div className="car-detail-right col-6">
+              <Swiper
+                  className="swiper detail-slider relative swiper-initialized swiper-horizontal swiper-backface-hidden "
+                  loop={true}
+                  spaceBetween={20}
+                  autoplay={false}
+                  slidesPerView={'auto'}
+                  onSlideChange={() => console.log('slide change')}
+                  onSwiper={(swiper) => console.log(swiper)}
+                  pagination={{ el: '.swiper-pagination', clickable: true }}
+                  navigation={{ nextEl: '.swiper-button-next', prevEl: '.swiper-button-prev' }}
+                  breakpoints={{
+                    640: { slidesPerView: 1 },
+                    1024: { slidesPerView: 'auto' },
+                  }}
+                  modules={[Navigation, Pagination]}
+              >
+                <SwiperSlide key={carDetail._id}>
+                  <div className="collection-box">
+                    <div className="collection-img">
+                      {carDetail?.images?.length > 0 && (
+                          <Image
+                              src={carDetail?.images[0]}
+                              alt={`${carDetail?.merk} ${carDetail.model}`}
+                              height={900}
+                              width={600}
+                              className="w-full h-full object-cover"
+                          />
+                      )}
+                    </div>
+                    <div className="collection-detail">
+                      <div className="detail-top flex items-center">
+                        <h3>{carDetail.merk} {carDetail.model}</h3>
+                        <Link
+                            href={`/product/${carDetail.hexon_nr}`}
+                            className="primary-btn arrow-btn orange-bg"
+                        >
+                          Bekijk deze auto
+                        </Link>
+                      </div>
+                      <div className="detail-bottom flex items-center">
+                        <div className="price-box">
+                          <span className="small">Prijs</span>
+                          {new Intl.NumberFormat("nl-NL").format(Number(carDetail.pricing.amount))},-
+                        </div>
+                        <ul className="flex items-center">
+                          <li><small>Leasebedrag</small>1.217 </li>
+                          <li><small>KM stand</small>55.000</li>
+                          <li><small>Bouwjaar</small>{carDetail.buildYear}</li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </SwiperSlide>
+
+                <div className="slider-arrow">
+                  <div className="swiper-button-prev"></div>
+                  <div className="swiper-button-next"></div>
+                </div>
+              </Swiper>
             </div>
           </div>
 
