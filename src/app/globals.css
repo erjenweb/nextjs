@@ -42,7 +42,7 @@ main.site-main {
 
 main.site-main:before {
       content: '';
-      background-image: url(./assets/image/porch-bg.webp);
+      background-image: url(/assets/image/porch-bg.webp);
       width: 100%;
       height: 1924px;
       position: absolute;
@@ -97,7 +97,7 @@ header:before {
 
 .hero-with-banner:before {
       content: '';
-      background: url(./assets/image/banner-bg.png);
+      background: url(/assets/image/banner-bg.png);
       width: 936px;
       height: 1080px;
       position: absolute;
@@ -172,7 +172,7 @@ header:before {
 
 .hero-content>div div button:first-child:before {
       content: '';
-      background: url(./assets/icons/car-icon.svg);
+      background: url(/assets/icons/car-icon.svg);
       width: 36px;
       height: 36px;
       background-size: 19px;
@@ -187,7 +187,7 @@ header:before {
 
 .hero-content>div div button:last-child:before {
       content: '';
-      background: url(./assets/icons/calender-icon.svg);
+      background: url(/assets/icons/calender-icon.svg);
       width: 36px;
       height: 36px;
       background-size: 17px;
@@ -300,7 +300,7 @@ header:before {
 .slider-arrow .swiper-button-prev:after,
 .slider-arrow .swiper-button-next:after {
       content: '';
-      background-image: url(./assets/icons/arrow-right.svg);
+      background-image: url(/assets/icons/arrow-right.svg);
       width: 15px;
       height: 12px;
       position: absolute;
@@ -736,7 +736,7 @@ p {
 
 .newsletter-box ul li:nth-child(1):before {
       content: '';
-      background-image: url(./assets/icons/sparkles.svg);
+      background-image: url(/assets/icons/sparkles.svg);
       width: 17px;
       height: 18px;
       background-size: contain;
@@ -745,7 +745,7 @@ p {
 
 .newsletter-box ul li:nth-child(2):before {
       content: '';
-      background-image: url(./assets/icons/crown.svg);
+      background-image: url(/assets/icons/crown.svg);
       width: 18px;
       height: 18px;
       margin-right: 12px;
@@ -755,7 +755,7 @@ p {
 
 .newsletter-box ul li:nth-child(3):before {
       content: '';
-      background-image: url(./assets/icons/rss.svg);
+      background-image: url(/assets/icons/rss.svg);
       width: 13px;
       height: 14px;
       margin-right: 12px;
@@ -866,7 +866,7 @@ span.footer-title {
 
 .footer-contact a.primary-btn.phone-icon:after {
       content: '';
-      background-image: url(./assets/icons/phone.svg);
+      background-image: url(/assets/icons/phone.svg);
       width: 15px;
       height: 15px;
       position: absolute;
@@ -877,7 +877,7 @@ span.footer-title {
 
 .footer-contact a.primary-btn.email-icon:after {
       content: '';
-      background-image: url(./assets/icons/envelope.svg);
+      background-image: url(/assets/icons/envelope.svg);
       width: 15px;
       height: 12px;
       position: absolute;
@@ -1199,7 +1199,7 @@ span.footer-title {
       font-size: 18px;
       color: #fff;
       outline: none;
-      background-image: url(./assets/icons/circule-arrow-down.svg);
+      background-image: url(/assets/icons/circule-arrow-down.svg);
       background-repeat: no-repeat;
       background-position: center right 10px;
       line-height: 1;
@@ -1281,7 +1281,7 @@ span.footer-title {
 
 .info-fixed-box .orange-btn a:before {
       content: '';
-      background: url(./assets/icons/stering.svg);
+      background: url(/assets/icons/stering.svg);
       width: 36px;
       height: 36px;
       background-size: 19px;
@@ -1295,7 +1295,7 @@ span.footer-title {
 
 .info-fixed-box .white-btn a:before {
       content: '';
-      background: url(./assets/icons/tag.svg);
+      background: url(/assets/icons/tag.svg);
       width: 36px;
       height: 36px;
       background-size: 19px;
@@ -1395,7 +1395,7 @@ span.footer-title {
 
 .list-details ul li:before {
       content: '';
-      background-image: url(./assets/icons/circle-arrow-right.svg);
+      background-image: url(/assets/icons/circle-arrow-right.svg);
       width: 24px;
       height: 24px;
 }
@@ -1482,7 +1482,7 @@ img.owner-logo {
 
 .arrow-down:after {
       content: '';
-      background-image: url(./assets/icons/down-arrow.svg);
+      background-image: url(/assets/icons/down-arrow.svg);
       width: 12px;
       height: 16px;
       position: absolute;
@@ -1493,7 +1493,7 @@ img.owner-logo {
 
 .arrow-star:after {
       content: '';
-      background-image: url(./assets/icons/star-cion.svg);
+      background-image: url(/assets/icons/star-cion.svg);
       width: 17px;
       height: 16px;
       position: absolute;
@@ -1504,7 +1504,7 @@ img.owner-logo {
 
 .arrow-email:after {
       content: '';
-      background-image: url(./assets/icons/envelope.svg);
+      background-image: url(/assets/icons/envelope.svg);
       width: 15px;
       height: 12px;
       position: absolute;
@@ -1515,7 +1515,7 @@ img.owner-logo {
 
 .arrow-wts:after {
       content: '';
-      background-image: url(./assets/icons/wtsp.svg);
+      background-image: url(/assets/icons/wtsp.svg);
       width: 13px;
       height: 14px;
       position: absolute;
@@ -1607,7 +1607,7 @@ img.owner-logo {
 
 .contact-content .buttons .primary-btn.phone-icon:after {
       content: '';
-      background-image: url(./assets/icons/phone.svg);
+      background-image: url(/assets/icons/phone.svg);
       width: 15px;
       height: 15px;
       position: absolute;
@@ -1618,7 +1618,7 @@ img.owner-logo {
 
 .contact-content .buttons .primary-btn.email-icon:after {
       content: '';
-      background-image: url(./assets/icons/envelope.svg);
+      background-image: url(/assets/icons/envelope.svg);
       width: 15px;
       height: 12px;
       position: absolute;
