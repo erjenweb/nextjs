@@ -1285,6 +1285,7 @@ span.footer-title {
 .car-detail .icon img {
       margin: 0 auto;
       transform: scale(1);
+      max-width:25px;
 }
 
 .appearance-none {
