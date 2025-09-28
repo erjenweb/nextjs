@@ -1927,6 +1927,9 @@ header nav {
       color: #fff;
       position: relative;
 }
+.detail-slider-img img {
+    border-radius: 40px;
+}
 
 @media(max-width:1700px) {
      .mega-menu .menu-right {
