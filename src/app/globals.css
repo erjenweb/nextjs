@@ -380,7 +380,9 @@ header:before {
       transform: translateY(-50%) scale(-1);
       left: 18px;
 }
-
+.slider-arrow svg.swiper-navigation-icon {
+    display: none;
+}
 .slider-arrow {
       display: flex;
       align-items: center;
