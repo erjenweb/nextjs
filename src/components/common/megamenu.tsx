@@ -1,6 +1,6 @@
 import Image from "next/image"
 
-function Megamenu(){
+function MegaMenu(){
     return(
         <>
                     <video autoPlay muted loop playsInline className="absolute inset-0 w-full h-full object-cover">
@@ -75,4 +75,4 @@ function Megamenu(){
     
 }
 
-export default Megamenu;
+export default MegaMenu;

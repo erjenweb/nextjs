@@ -3,16 +3,14 @@
 import * as React from "react";
 import Image from 'next/image'
 import Link from 'next/link';
-import Megamenu from "@/components/common/megamenu";
+import MegaMenu from "@/components/common/megamenu";
 import {useState} from "react";
 
 function Header({ ...props }: React.HTMLAttributes<HTMLDivElement>) {
 
   const [ToggleMenu,setToggleMenu] = useState(false);
   const ToggleMegaMenu = () =>{
-
    setToggleMenu(!ToggleMenu);
-
   }
   return (
     <header className="absolute w-full z-50 px-6 py-4" {...props}>
@@ -35,8 +33,9 @@ function Header({ ...props }: React.HTMLAttributes<HTMLDivElement>) {
           </Link>
         </div>
       </nav>
+
       <div  className={`mega-menu ${ToggleMenu?'open-nav':''}`} >
-      <Megamenu />
+      <MegaMenu />
       </div>
     </header>
   );
