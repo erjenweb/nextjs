@@ -25,7 +25,8 @@ function Brand() {
 
           pagination={{ clickable: true }}
           breakpoints={{
-            640: { slidesPerView: 3 },
+            320: { slidesPerView: 2 },
+            768: { slidesPerView: 3 },
             1024: { slidesPerView: 5 },
           }}
           modules={[Navigation, Pagination]}
