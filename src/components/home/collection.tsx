@@ -56,7 +56,7 @@ function Collection({ cars }: CarListProps) {
       <div className="slider-box">
         <Swiper
           className="swiper collection-slider absolute inset-0 w-full h-full"
-          loop={true}
+          loop={false}
           spaceBetween={20}
           autoplay={false}
           slidesPerView={'auto'}
