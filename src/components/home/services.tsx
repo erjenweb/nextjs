@@ -5,7 +5,7 @@ function Services() {
   return (
     <section className="services_sections">
       <div className="max-w-7xl mx-auto">
-        <div className="flex ">
+        <div className="flex flex-wrap">
           <div className="service_left">
             <ul className="service_list">
               <li>
