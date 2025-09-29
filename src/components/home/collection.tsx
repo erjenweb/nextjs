@@ -65,7 +65,7 @@ function Collection({ cars }: CarListProps) {
           pagination={{ el: '.swiper-pagination', clickable: true }}
           navigation={{ nextEl: '.swiper-button-next', prevEl: '.swiper-button-prev' }}
           breakpoints={{
-            640: { slidesPerView: 1 },
+            640: { slidesPerView: 'auto' },
             1024: { slidesPerView: 'auto' },
           }}
           modules={[Navigation, Pagination]}
