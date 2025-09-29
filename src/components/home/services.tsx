@@ -54,7 +54,7 @@ function Services() {
             <Image src="/assets/image/hakon-sataoen-qyfco1nfMtg-unsplash 1.webp" alt="" width={965} height={620} />
             <div className="service_right_content">
               <Image src="/assets/image/exclusive-img.webp" alt="" width={225} height={130} />
-              <h3 className="ft-48 uppercase white-text">service,<br /> betrouwbaarheid<br /> <span className="orange-text">
+              <h3 className="size-48 white-text">service,<br /> betrouwbaarheid<br /> <span className="orange-text">
                 een
                 goede
                 prijs</span>
