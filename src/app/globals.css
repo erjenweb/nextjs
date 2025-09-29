@@ -83,6 +83,9 @@ body {
       line-height: 1;
       transition: 0.5s all;
 }
+.primary-btn br{
+      display:none;
+}
 
 .primary-btn:hover {
       background-color: #fff;
