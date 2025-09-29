@@ -5,7 +5,7 @@ function Contact() {
       <div className="contact-inner">
         <div className="max-w-7xl mx-auto">
           <div className="contact-heading flex items-end justify-between">
-            <h3 className="ft-48 uppercase dark-text"><span className="orange-text">we helpen grAAg</span><br /> met de
+            <h3 className="size-48 dark-text"><span className="orange-text">we helpen grAAg</span><br /> met de
               zoektocht
             </h3>
             <p>Heeft u vragen of zoekt u een specifieke auto? Vul het formulier in en ons team neemt
