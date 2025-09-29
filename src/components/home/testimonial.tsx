@@ -6,7 +6,7 @@ function Testimonial() {
     <section className="testimonials_section">
       <div className="max-w-7xl mx-auto">
         <div className="testimonials_text text-center">
-          <h3 className="white-text uppercase text-[48px]  mb-35"><span className="orange-text">verhalen van</span><br /> tevreden
+          <h3 className="white-text size-48 mb-35"><span className="orange-text">verhalen van</span><br /> tevreden
             klanten
           </h3>
           <p>De ervaringen van onze klanten bevestigen waar Cartelier voor staat: kwaliteit, betrouwbaarheid
