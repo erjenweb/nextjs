@@ -234,6 +234,19 @@ function OverOnsPage() {
         </div>
       </section>
       <section className="about-faq">
+        export default function Page() {
+      return (
+        <div className="max-w-md mx-auto mt-10">
+          <Collapse title="Section 1">
+            <p>This is the content for section 1.</p>
+          </Collapse>
+    
+          <Collapse title="Section 2">
+            <p>This is the content for section 2.</p>
+          </Collapse>
+        </div>
+  );
+}
        </section>
     </>
   )
