@@ -96,7 +96,7 @@ function Collection({ cars }: CarListProps) {
               </div>
 
             </SwiperSlide>
-          ))};
+          ))}
 
 
           <div className="slider-arrow">
