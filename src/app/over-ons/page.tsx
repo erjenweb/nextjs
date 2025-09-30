@@ -234,12 +234,12 @@ function OverOnsPage() {
       </section>
       <section className="about-faq">
       <details className="collapse bg-base-100 border-base-300 border">
-  <summary className="collapse-title font-semibold">How do I create an account?</summary>
-  <div className="collapse-content text-sm">
-    Click the "Sign Up" button in the top right corner and follow the registration process.
-  </div>
-</details>
-</section>
+      <summary className="collapse-title font-semibold">How do I create an account?</summary>
+      <div className="collapse-content text-sm">
+        Click the "Sign Up" button in the top right corner and follow the registration process.
+      </div>
+    </details>
+    </section>
     </>
   )
 }
