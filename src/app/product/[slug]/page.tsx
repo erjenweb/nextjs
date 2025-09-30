@@ -47,7 +47,7 @@ async function ProductDetail({ params }: { params: { slug: string } }) {
       <section className="detail-banner w-full">
 
         {carDetail.images?.length > 0 && (
-          <Image height="1000" width="1300" src={carDetail.images[0]} alt="" className="w-full object-cover" />
+          <Image height="1000" width="1920" src={carDetail.images[0]} alt="Banner" className="w-full object-cover" />
         )}
 
 

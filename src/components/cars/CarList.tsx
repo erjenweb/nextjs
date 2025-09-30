@@ -1,6 +1,7 @@
 'use client'
 
 import limitWords from "@/lib/limitWords"
+import Link from 'next/link';
 
 type Car = {
   _id: string;
@@ -40,8 +41,8 @@ export default function CarList({ cars }: CarListProps) {
               />
             )}
             <div className="post-detail flex justify-between absolute items-center">
-              <h3 className="ft-30 white-text">Toyota<br /> Corolla</h3>
-              <a href={`/product/${car.hexon_nr}`} className="primary-btn arrow-btn orange-bg"> {car.merk} <br /> {car.model}</a>
+              <h3 className="ft-30 white-text">{car.merk} {car.model}</h3>
+              <Link href={`/product/${car.hexon_nr}`} className="primary-btn arrow-btn orange-bg"> {car.merk} <br /> {car.model}</Link>
             </div>
           </div>
           <div className="post-main-detail flex flex-row r-gap-36">
