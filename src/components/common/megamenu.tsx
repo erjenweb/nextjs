@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Image from "next/image"
 
 function MegaMenu(){
@@ -10,19 +11,32 @@ function MegaMenu(){
                     <div className="max-w-7xl mx-auto"> 
                         <div className="flex items-center justify-between"> 
                             <div className="menu-left"> 
-                                <ul> 
-                                    <li><span>Wie we zijn</span><br /><a href="#" className="block ft-48 white-text carla">Over 
-                                            ons</a> 
-                                    </li> 
-                                    <li><span>Ons aanbod</span><br /><a href="#" 
-                                            className="block ft-48 white-text carla">collectie</a> 
-                                    </li> 
-                                    <li><span>Hoe we het doen</span><br /><a href="#" 
-                                            className="block ft-48 white-text carla">Werkwijze</a> 
-                                    </li> 
-                                    <li><span>Bereik ons</span><br /><a href="#" className="block ft-48 white-text carla">contact</a> 
-                                    </li> 
-                                </ul> 
+                                <ul>
+                                  <li>
+                                    <span>Wie we zijn</span><br />
+                                    <Link href="/over-ons" className="block ft-48 white-text carla">
+                                      Over ons
+                                    </Link>
+                                  </li>
+                                  <li>
+                                    <span>Ons aanbod</span><br />
+                                    <Link href="/collectie" className="block ft-48 white-text carla">
+                                      Collectie
+                                    </Link>
+                                  </li>
+                                  <li>
+                                    <span>Hoe we het doen</span><br />
+                                    <Link href="/werkwijze" className="block ft-48 white-text carla">
+                                      Werkwijze
+                                    </Link>
+                                  </li>
+                                  <li>
+                                    <span>Bereik ons</span><br />
+                                    <Link href="/contact" className="block ft-48 white-text carla">
+                                      Contact
+                                    </Link>
+                                  </li>
+                                </ul>
                             </div> 
                             <div className="menu-right"> 
                                 <div className="menu-right-top flex items-end"> 
