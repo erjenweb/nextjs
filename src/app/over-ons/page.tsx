@@ -1,4 +1,5 @@
 import React from 'react'
+import Collapse from "@/components/common/Collapse";
 
 function OverOnsPage() {
   return (
