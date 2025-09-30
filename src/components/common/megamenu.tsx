@@ -20,7 +20,7 @@ function MegaMenu(){
                                   </li>
                                   <li>
                                     <span>Ons aanbod</span><br />
-                                    <Link href="/collectie" className="block ft-48 white-text carla">
+                                    <Link href="/aanbod" className="block ft-48 white-text carla">
                                       Collectie
                                     </Link>
                                   </li>
