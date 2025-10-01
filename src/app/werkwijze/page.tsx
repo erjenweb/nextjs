@@ -17,7 +17,7 @@ function WerkwijzePage() {
                         <a href="#" className="primary-btn orange-bg arrow-btn">Contact opnemen</a>
                     </div>
                     <div className="werk-right">
-                        <img src="/assets/image/contact-img.webp" alt="">
+                        <img src="/assets/image/contact-img.webp" alt=""/>
                     </div>
                 </div>
             </div>
