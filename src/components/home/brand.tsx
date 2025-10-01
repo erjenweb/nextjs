@@ -20,7 +20,7 @@ function Brand() {
           loop={true}
           className="swiper brand-slider"
           slidesPerView={3}
-          spaceBetween={20}
+          spaceBetween={40}
           autoplay={true}
 
           pagination={{ clickable: true }}
@@ -65,6 +65,114 @@ function Brand() {
               <Image src="/assets/icons/renolt.svg" alt="Renault" width={100} height={100} />
             </div>
           </SwiperSlide>
+
+          <SwiperSlide className='swiper-slide'>
+            <div className="brand-logo flex items-center justify-center">
+              <Image
+                  src="/assets/icons/min-coper.svg"
+                  alt="Mini Cooper"
+                  width={100}
+                  height={100}
+              />
+            </div>
+          </SwiperSlide>
+
+          <SwiperSlide className='swiper-slide'>
+            <div className="brand-logo flex items-center justify-center">
+              <Image src="/assets/icons/cupra.svg" alt="Cupra" width={100} height={100} />
+            </div>
+          </SwiperSlide>
+
+          <SwiperSlide className='swiper-slide'>
+            <div className="brand-logo flex items-center justify-center">
+              <Image src="/assets/icons/star.svg" alt="Star" width={100} height={100} />
+            </div>
+          </SwiperSlide>
+
+          <SwiperSlide className='swiper-slide'>
+            <div className="brand-logo flex items-center justify-center">
+              <Image src="/assets/icons/mg.svg" alt="MG" width={100} height={100} />
+            </div>
+          </SwiperSlide>
+
+          <SwiperSlide className='swiper-slide'>
+            <div className="brand-logo flex items-center justify-center">
+              <Image src="/assets/icons/renolt.svg" alt="Renault" width={100} height={100} />
+            </div>
+          </SwiperSlide>
+
+
+          <SwiperSlide className='swiper-slide'>
+            <div className="brand-logo flex items-center justify-center">
+              <Image
+                  src="/assets/icons/min-coper.svg"
+                  alt="Mini Cooper"
+                  width={100}
+                  height={100}
+              />
+            </div>
+          </SwiperSlide>
+
+          <SwiperSlide className='swiper-slide'>
+            <div className="brand-logo flex items-center justify-center">
+              <Image src="/assets/icons/cupra.svg" alt="Cupra" width={100} height={100} />
+            </div>
+          </SwiperSlide>
+
+          <SwiperSlide className='swiper-slide'>
+            <div className="brand-logo flex items-center justify-center">
+              <Image src="/assets/icons/star.svg" alt="Star" width={100} height={100} />
+            </div>
+          </SwiperSlide>
+
+          <SwiperSlide className='swiper-slide'>
+            <div className="brand-logo flex items-center justify-center">
+              <Image src="/assets/icons/mg.svg" alt="MG" width={100} height={100} />
+            </div>
+          </SwiperSlide>
+
+          <SwiperSlide className='swiper-slide'>
+            <div className="brand-logo flex items-center justify-center">
+              <Image src="/assets/icons/renolt.svg" alt="Renault" width={100} height={100} />
+            </div>
+          </SwiperSlide>
+
+          <SwiperSlide className='swiper-slide'>
+            <div className="brand-logo flex items-center justify-center">
+              <Image
+                  src="/assets/icons/min-coper.svg"
+                  alt="Mini Cooper"
+                  width={100}
+                  height={100}
+              />
+            </div>
+          </SwiperSlide>
+
+          <SwiperSlide className='swiper-slide'>
+            <div className="brand-logo flex items-center justify-center">
+              <Image src="/assets/icons/cupra.svg" alt="Cupra" width={100} height={100} />
+            </div>
+          </SwiperSlide>
+
+          <SwiperSlide className='swiper-slide'>
+            <div className="brand-logo flex items-center justify-center">
+              <Image src="/assets/icons/star.svg" alt="Star" width={100} height={100} />
+            </div>
+          </SwiperSlide>
+
+          <SwiperSlide className='swiper-slide'>
+            <div className="brand-logo flex items-center justify-center">
+              <Image src="/assets/icons/mg.svg" alt="MG" width={100} height={100} />
+            </div>
+          </SwiperSlide>
+
+          <SwiperSlide className='swiper-slide'>
+            <div className="brand-logo flex items-center justify-center">
+              <Image src="/assets/icons/renolt.svg" alt="Renault" width={100} height={100} />
+            </div>
+          </SwiperSlide>
+
+
         </Swiper>
 
       </div>

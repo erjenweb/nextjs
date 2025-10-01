@@ -44,7 +44,7 @@ function Footer() {
                   uw vragen te beantwoorden.</p>
                 <ul className="flex white-text ft-14">
                   <li>Copyright © 2025 CARTELIER</li>
-                  <li>Design by ArtiqMotion</li>
+                  <li>Design by rijnders webdesign</li>
                 </ul>
               </div>
               <div className="col-4">

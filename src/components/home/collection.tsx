@@ -72,8 +72,10 @@ function Collection({ cars }: CarListProps) {
               <div className="collection-box">
                 <div className="collection-img">
                   {car.images?.length > 0 && (
-                    <Image src={car.images[0]}
+                      <Link href={`/product/${car.hexon_nr}`}>
+                      <Image src={car.images[0]}
                       alt={`${car.merk} ${car.model}`} height={900} width={600} className="w-full h-full object-cover" />
+                      </Link>
                   )}
                 </div>
                 <div className="collection-detail">

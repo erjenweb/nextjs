@@ -27,22 +27,14 @@ async function Aanbod() {
         <div className="filter-box">
           <div className="max-w-7xl mx-auto">
             <div className="filter-selection">
+
               <div className="filter flex items-center">
-                <span className="ft-32 white-text carla">Filteren</span>
+                <span className="ft-32 white-text carla">Sorteren</span>
                 <select name="" id="" className="appearance-none">
-                  <option value="">selecteer merk</option>
-                  <option value="">selecteer merk 1</option>
-                  <option value="">selecteer merk 2</option>
-                  <option value="">selecteer merk 3</option>
-                </select>
-              </div>
-              <div className="filter flex items-center">
-                <span className="ft-32 white-text carla">Filteren</span>
-                <select name="" id="" className="appearance-none">
-                  <option value="">selecteer merk</option>
-                  <option value="">selecteer merk 1</option>
-                  <option value="">selecteer merk 2</option>
-                  <option value="">selecteer merk 3</option>
+                  <option value="">prijs</option>
+                  <option value="">100-200</option>
+                  <option value="">300-400</option>
+                  <option value="">400-500</option>
                 </select>
               </div>
             </div>
@@ -52,7 +44,66 @@ async function Aanbod() {
       <section className="collections-post">
         <div className="max-w-7xl mx-auto">
           <div className="flex justify-start columns-3 gap-26 post-row">
-
+            <div className="collection-post radius-40 collection-soon">
+              <div className="post-img relative radius-40">
+                <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/attachments/gen-images/public/luxury-black-audi-rs6-sports-car-XiJp87dkymTSTXeO3XT30jy2IXLLOU.jpg"
+                     alt="Audi RS6" className="w-full h-full object-cover radius-40" />
+                  <div className="coming-soon-text">
+                    <h3 className="orange-text ft-32">coming<br /> soon</h3>
+                  </div>
+                  <div className="post-detail flex justify-between absolute items-center">
+                    <h3 className="ft-30 white-text">Toyota<br /> Corolla</h3>
+                    <a href="#" className="primary-btn arrow-btn orange-bg">Bekijk deze auto</a>
+                  </div>
+              </div>
+              <div className="post-main-detail flex flex-row r-gap-36 relative">
+                <div className="flex justify-between items-center">
+                  <div className="car-detail">
+                    <div className="icon">
+                      <img src="/assets/icons/gauge-max.svg" alt="" />
+                    </div>
+                    <p className="ft-18 white-text">122.345</p>
+                  </div>
+                  <div className="car-detail">
+                    <div className="icon">
+                      <img src="/assets/icons/Gas-pump.svg" alt="" />
+                    </div>
+                    <p className="ft-18 white-text">hybride</p>
+                  </div>
+                  <div className="car-detail">
+                    <div className="icon">
+                      <img src="/assets/icons/calendar.svg" alt="" />
+                    </div>
+                    <p className="ft-18 white-text">2024</p>
+                  </div>
+                  <div className="car-detail">
+                    <div className="icon">
+                      <img src="/assets/icons/transmission.svg" alt="" />
+                    </div>
+                    <p className="ft-18 white-text">Automaat</p>
+                  </div>
+                </div>
+                <div className="car-detil-bottom">
+                  <h4 className="ft-22 white-text">BMW 3-serie Touring 330e Hybride M-Sport | Laser Led|NW
+                    mod!</h4>
+                  <p className="white-text ft-18">Ontdek een zorgvuldig samengestelde collectie van auto’s die
+                    uitblinken in stijl, prestaties en luxe. Elke wagen is
+                    geselecteerd om u een onvergetelijke rijervaring te bieden.</p>
+                </div>
+                <div className="flex justify-between items-center">
+                  <div className="price-white-box flex items-center white-bg radius-40">
+                    <small>Prijs</small>
+                    <h5>38.950,-</h5>
+                  </div>
+                  <div className="lease-price">
+                    <p className="ft-12 white-text">Leasebedrag</p>
+                    <p className="ft-18 flex items-center carla "><span className="ft-8 mr-5">va.</span> 513
+                      <span className="ft-8 ml-15">p/m</span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
             <CarList cars={cars} />
 
 
@@ -67,7 +118,7 @@ async function Aanbod() {
                     uitblinken in stijl,
                     prestaties en luxe. Elke wagen is
                     geselecteerd om u een onvergetelijke rijervaring te bieden.</p>
-                  <a href="#" className="primary-btn arrow-btn orange-bg">dien een aanvraag in</a>
+                  <a href="#contact-inner" className="primary-btn arrow-btn orange-bg">dien een aanvraag in</a>
                 </div>
               </div>
             </div>
@@ -75,7 +126,7 @@ async function Aanbod() {
         </div>
       </section>
       <section className="contact-section pd-70">
-        <div className="contact-inner">
+        <div id='contact-inner' className="contact-inner">
           <div className="max-w-7xl mx-auto">
             <div className="contact-heading flex items-end justify-between">
               <h3 className="text-[48px] uppercase dark-text"><span className="orange-text">we helpen grAAg</span><br /> met de
