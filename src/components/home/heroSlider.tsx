@@ -21,7 +21,6 @@ function HeroSlider({ ...props }: React.HTMLAttributes<HTMLDivElement>) {
             </button>
             <button
               className="px-6 py-2 bg-transparent border border-white text-white rounded-full hover:bg-white hover:text-black transition-colors flex items-center gap-2">
-              <span className="w-3 h-3 bg-brand-orange rounded-full"></span>
               Maak een afspraak
             </button>
           </div>
