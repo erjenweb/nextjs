@@ -2155,6 +2155,12 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1700px) {
+      /* New CSS */
+      .werk-list-col {
+            padding: 50px;
+      }
+
+      /* New CSS */
      .mega-menu .menu-right {
             width: 888px;
             padding: 40px;
@@ -2350,6 +2356,75 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1399px) {
+      /* New CSS */
+      .werk-content {
+            width: 60%;
+      }
+
+      .werk-content p {
+            font-size: 18px;
+      }
+
+      .werk-content .primary-btn {
+            margin-top: 30px;
+      }
+
+      .werk-colums-section {
+            padding-top: 150px;
+            padding-bottom: 150px;
+      }
+
+      .werk-colums-section .werk-boxes .werk-box {
+            width: 50%;
+      }
+
+      .werk-list-col {
+            padding: 30px;
+      }
+
+      .werk-list-col:not(:first-child) {
+            padding: 30px 30px;
+      }
+
+      .werk-list-col h3 {
+            font-size: 24px;
+      }
+
+      .werk-list-col:not(:first-child) h3,
+      .werk-list-col:not(:first-child) h3+p {
+            margin-bottom: 25px;
+      }
+
+      .werk-list-col h3 {
+            margin-bottom: 35px;
+      }
+
+      .werk-list-col h3+p {
+            font-size: 18px;
+            margin-bottom: 35px;
+      }
+
+      ul.dots-list {
+            font-size: 16px;
+      }
+
+      .werk-list-col h3+p {
+            font-size: 16px;
+      }
+
+      .arrow-list li {
+            font-size: 16px;
+      }
+
+      ul.arrow-list+p {
+            font-size: 16px;
+      }
+
+      .werk-list-col a.primary-btn+p.ft-22 {
+            font-size: 18px;
+      }
+
+      /* New CSS */
       .menu-right-top h2 {
             font-size: 30px;
       }
@@ -2668,6 +2743,38 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1149px) {
+      /* New CSS */
+      .werk-right {
+            width: 40%;
+      }
+
+      .werk-colums-section {
+            padding-top: 120px;
+            padding-bottom: 120px;
+      }
+
+      .werk-boxes .werk-box .werk-content-box h3 {
+            margin-bottom: 20px;
+      }
+
+      .werk-colums-section .werk-boxes {
+            row-gap: 70px;
+      }
+
+      .ft-48 {
+            font-size: 35px;
+      }
+
+      .werk-list-section .flex.items-center.justify-between {
+            flex-wrap: wrap;
+            row-gap: 30px;
+      }
+
+      .werk-list-section .werk-list-col {
+            width: calc(50% - 15px);
+      }
+
+      /* New CSS */
      .mega-menu .menu-right {
             width: 640px;
             padding: 40px;
@@ -2850,6 +2957,45 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1023px) {
+      /* New Css */
+      .werk-section .flex {
+            flex-wrap: wrap;
+      }
+
+      .werk-content {
+            width: 100%;
+            padding: 0 0 70px;
+      }
+
+      .werk-right {
+            width: 100%;
+      }
+
+      .werk-content .primary-btn {
+            margin-top: 25px;
+      }
+
+      .werk-colums-section .werk-boxes .werk-box {
+            width: 100%;
+      }
+
+      .werk-boxes .werk-box .werk-content-box {
+            padding: 0;
+      }
+
+      .ft-48 {
+            font-size: 30px;
+      }
+
+      .werk-content h1 {
+            margin-bottom: 25px;
+      }
+
+      .werk-list-section .werk-list-col {
+            width: 100%;
+      }
+
+      /* New CSS */
       .hero-content>div div button:last-child:hover:before {
        right: 16px;
        }
@@ -3247,6 +3393,69 @@ ul.arrow-list+p {
 }
 
 @media(max-width:767px) {
+       /* New CSS */
+      .ft-48 {
+            font-size: 28px;
+      }
+
+      .werk-content p {
+            font-size: 14px;
+      }
+
+      .werk-content .primary-btn {
+            margin-top: 20px;
+      }
+
+      .werk-colums-section {
+            padding-top: 100px;
+            padding-bottom: 100px;
+      }
+
+      .werk-list-col h3 {
+            font-size: 20px;
+      }
+
+      .werk-list-col h3 {
+            margin-bottom: 25px;
+      }
+
+      .werk-list-col h3+p {
+            font-size: 14px;
+            margin-bottom: 25px;
+      }
+
+      ul.dots-list {
+            font-size: 14px;
+      }
+
+      .arrow-list li {
+            font-size: 14px;
+            margin: 10px 0;
+      }
+
+      .arrow-list li:before {
+            width: 20px;
+            height: 20px;
+      }
+
+      .werk-list-col a.primary-btn+p.ft-22 {
+            font-size: 14px;
+      }
+
+      ul.arrow-list+p {
+            font-size: 14px;
+            margin-bottom: 25px;
+      }
+
+      ul.arrow-list {
+            margin-bottom: 25px;
+      }
+
+      .werk-list-col a.primary-btn {
+            margin-bottom: 25px;
+      }
+
+      /* New CSS */
      .mega-menu {
             height: auto;
             padding: 120px 0 100px;
