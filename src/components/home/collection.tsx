@@ -74,14 +74,16 @@ function Collection({ cars }: CarListProps) {
             <SwiperSlide key={car._id}>
               <div className="collection-box">
                 <div className="collection-img">
+                  <Link href={`/product/${car.hexon_nr}`}>
                   {car.images?.length > 0 && (
                     <Image src={car.images[0]}
                       alt={`${car.merk} ${car.model}`} height={900} width={600} className="w-full h-full object-cover" />
                   )}
+                    </Link>
                 </div>
                 <div className="collection-detail">
                   <div className="detail-top flex items-center">
-                    <h3>{car.merk} { car.model }</h3>
+                    <h3>{car.merk}</br> { car.model }</h3>
                     <Link href={`/product/${car.hexon_nr}`} className="primary-btn arrow-btn orange-bg">Bekijk deze auto</Link>
                   </div>
                   <div className="detail-bottom flex items-center">
