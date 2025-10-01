@@ -26,9 +26,7 @@ function HeroSlider({ ...props }: React.HTMLAttributes<HTMLDivElement>) {
             </button>
           </div>
           <p className="text-gray-300 text-lg">
-            Meet the ultimate combination of luxury and performance.
-            Our collection represents the pinnacle of automotive excellence,
-            crafted for those who demand more than just transportation.
+            Maak elk moment onvergetelijk met Cartelier. Van exotische sportwagens tot executive sedans – geniet van de ultieme rit, ondersteund door premium service en oog voor elk detail.”
           </p>
         </div>
       </div>
