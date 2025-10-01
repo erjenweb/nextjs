@@ -2685,6 +2685,12 @@ header nav {
 }
 
 @media(max-width:1023px) {
+      .hero-content>div div button:last-child:hover:before {
+       right: 16px;
+       }
+      .hero-content>div div button:first-child:hover:before {
+          right: 16px;
+      }
      .mega-menu .flex.items-center.justify-between {
             flex-wrap: wrap;
       }
