@@ -3137,8 +3137,8 @@ header nav {
       }
 
       .hero-with-banner {
-            max-height: 810px;
-            height: 810px;
+            max-height: 100vh;
+            height: 100vh;
       }
 
       .hero-with-banner .hero-content .mt-52 {
