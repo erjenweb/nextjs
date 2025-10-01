@@ -83,7 +83,7 @@ function Collection({ cars }: CarListProps) {
                 </div>
                 <div className="collection-detail">
                   <div className="detail-top flex items-center">
-                    <h3>{car.merk}</br> { car.model }</h3>
+                    <h3>{car.merk}<br /> { car.model }</h3>
                     <Link href={`/product/${car.hexon_nr}`} className="primary-btn arrow-btn orange-bg">Bekijk deze auto</Link>
                   </div>
                   <div className="detail-bottom flex items-center">
