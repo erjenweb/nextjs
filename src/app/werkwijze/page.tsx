@@ -1,7 +1,7 @@
 import React from 'react'
 import FAQ from "@/components/page/faq";
 
-function OverOnsPage() {
+function WerkwijzePage() {
   return (
     <>
       <section className="about-section">
@@ -240,4 +240,4 @@ function OverOnsPage() {
   )
 }
 
-export default OverOnsPage
+export default WerkwijzePage
