@@ -264,7 +264,7 @@ header:before {
 .hero-content>div div button:hover:after {
       transform: scale(1);
       right: -1px;
-      top: -1px;
+      top: 0px;
 }
 
 .hero-content>div div button:hover {
