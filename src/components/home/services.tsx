@@ -55,7 +55,7 @@ function Services() {
             <div className="service_right_content">
               <Image src="/assets/image/exclusive-img.webp" alt="" width={225} height={130} />
               <h3 className="size-48 white-text">service,<br /> betrouwbaarheid<br /> <span className="orange-text">
-                een
+                en een
                 goede
                 prijs</span>
               </h3>
