@@ -205,8 +205,8 @@ header:before {
 
 .hero-with-banner {
       position: relative;
-      max-height: 1080px;
-      height: 1080px;
+      max-height: 100vh;
+      height: 100vh;
       overflow: hidden;
       align-items: flex-end;
 }
