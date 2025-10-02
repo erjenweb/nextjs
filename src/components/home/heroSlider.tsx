@@ -35,7 +35,7 @@ function HeroSlider({ ...props }: React.HTMLAttributes<HTMLDivElement>) {
 
             {/* Second Link */}
             <Link
-              href="/aanbod"
+              href="/contact"
               className="px-6 py-2 bg-transparent border border-white text-white rounded-full hover:bg-white hover:text-black transition-colors flex items-center gap-2"
             >
               Maak een afspraak
