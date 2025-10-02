@@ -1,3 +1,6 @@
+'use client';
+import Link from "next/link";
+
 function HeroSlider({ ...props }: React.HTMLAttributes<HTMLDivElement>) {
   return (
 
@@ -15,14 +18,14 @@ function HeroSlider({ ...props }: React.HTMLAttributes<HTMLDivElement>) {
         </div>
         <div className="flex items-center justify-between mt-52">
           <div className="flex items-center">
-            <button
+            <Link href="/aanbod"
               className="px-6 py-2 bg-brand-orange text-white rounded-full cursor-pointer bg-orange-600 transition-colors mr-5">
               Zie onze collectie
             </button>
             <button
               className="px-6 py-2 bg-transparent border border-white text-white rounded-full hover:bg-white hover:text-black transition-colors flex items-center gap-2">
               Maak een afspraak
-            </button>
+            </Link>
           </div>
           <p className="text-gray-300 text-lg">
             Maak elk moment onvergetelijk met Cartelier. Van exotische sportwagens tot executive sedans – geniet van de ultieme rit, ondersteund door premium service en oog voor elk detail.”
