@@ -1845,6 +1845,7 @@ img.owner-logo {
 
 .about-list-left img {
       margin-top: 80px;
+      border-radius:40px;
 }
 
 .about-list-right {
