@@ -2766,6 +2766,9 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1149px) {
+      .collection-post .post-img img{
+                height: 350px;
+      }
       .services_sections .service_img {
     width: calc(100% - 420px);
 }
@@ -2983,6 +2986,9 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1023px) {
+      .collection-post .post-img img {
+       height: 300px;
+      }
       .services_sections .service_img {
           width: 100%;
       }
@@ -3422,6 +3428,9 @@ ul.arrow-list+p {
 }
 
 @media(max-width:767px) {
+.collection-post .post-img img {
+    height: 280px;
+}
       .service_list li .text {
                 width: calc(100% - 45px);
             }
