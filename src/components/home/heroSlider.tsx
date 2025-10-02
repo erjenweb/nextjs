@@ -21,8 +21,8 @@ function HeroSlider({ ...props }: React.HTMLAttributes<HTMLDivElement>) {
             <Link href="/aanbod"
               className="px-6 py-2 bg-brand-orange text-white rounded-full cursor-pointer bg-orange-600 transition-colors mr-5">
               Zie onze collectie
-            </button>
-            <button
+            </Link>
+            <Link
               className="px-6 py-2 bg-transparent border border-white text-white rounded-full hover:bg-white hover:text-black transition-colors flex items-center gap-2">
               Maak een afspraak
             </Link>
