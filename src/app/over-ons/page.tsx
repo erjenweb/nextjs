@@ -53,7 +53,7 @@ function OverOnsPage() {
                 afspraak in de avonduren is ook
                 mogelijk.</p>
               <p>Bel even voordat u langs wilt komen, dan staat de koffie voor u klaar!</p>
-              <img src="/assets/image/image005.webp.webp"
+              <img src="/assets/image/image005.webp"
                 alt="" />
             </div>
             <div className="about-list-right">
