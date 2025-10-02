@@ -367,10 +367,11 @@ header:before {
       max-height: 434px;
       border-radius: 40px;
       transition: 0.5s all;
+      transform: scale(1.2);
 }
 
 .collection-box:hover img {
-      transform: scale(1.2);
+      transform: scale(1.4);
 }
 
 .collection-slider .swiper-wrapper .swiper-slide:first-child img {
