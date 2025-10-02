@@ -8,19 +8,19 @@ function FAQ() {
 
   const faqs = [
     {
-      question: "What is Tailwind CSS?",
+      question: "Kopen jullie ook auto’s in?",
       answer:
-        "Tailwind CSS is a utility-first CSS framework that lets you build modern websites without leaving your HTML.",
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
     },
     {
-      question: "Is Next.js good for SEO?",
+      question: "Welke betaalmogelijkheden bieden jullie aan?",
       answer:
-        "Yes, Next.js supports server-side rendering and static site generation, making it SEO-friendly out of the box.",
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
     },
     {
-      question: "Can I use Tailwind with Next.js?",
+      question: "Welke merken hebben jullie? ",
       answer:
-        "Absolutely. Tailwind works seamlessly with Next.js for styling components and building responsive layouts.",
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
     },
   ];
 
