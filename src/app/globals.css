@@ -1228,6 +1228,8 @@ span.footer-title {
 
 .carla {
       font-family: 'Carla Sans';
+      font-variant-ligatures: none;
+      font-feature-settings: "liga" 0;
 }
 
 .ml-15 {
