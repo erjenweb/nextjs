@@ -2979,6 +2979,9 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1023px) {
+      .services_sections .service_img {
+          width: 100%;
+      }
       /* New Css */
       .werk-section .flex {
             flex-wrap: wrap;
