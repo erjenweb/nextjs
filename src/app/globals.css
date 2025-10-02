@@ -2167,6 +2167,9 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1700px) {
+      .services_sections .service_img {
+          width: calc(100% - 660px);
+      }
       /* New CSS */
       .werk-list-col {
             padding: 50px;
@@ -2492,7 +2495,11 @@ ul.arrow-list+p {
 
       .services_sections .service_left {
             padding: 80px 40px 80px 40px;
+            width:400px;
       }
+      .services_sections .service_img {
+    width: calc(100% - 400px);
+}
 
       .service_right_content {
             padding-left: 40px;
@@ -2755,6 +2762,9 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1149px) {
+      .services_sections .service_img {
+    width: calc(100% - 420px);
+}
       /* New CSS */
       .werk-right {
             width: 40%;
@@ -3408,6 +3418,10 @@ ul.arrow-list+p {
       .service_list li .text {
                 width: calc(100% - 45px);
             }
+      .service_list li .icon img {
+    max-width: 25px;
+    max-height: 18px;
+}
       .collection-img img{
                 max-height: 474px;
                 border-radius: 40px;
