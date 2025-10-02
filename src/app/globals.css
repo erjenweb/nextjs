@@ -494,6 +494,7 @@ header:before {
       font-size: 32px;
       color: #fff;
       line-height: 120%;
+          max-width: 200px;
 }
 
 .collection-detail .detail-bottom {
@@ -3404,6 +3405,15 @@ ul.arrow-list+p {
 }
 
 @media(max-width:767px) {
+      .collection-img img{
+                max-height: 474px;
+                border-radius: 40px;
+                transition: all .5s;
+                transform: scale(1.2);
+                height: 380px;
+                object-fit: cover;
+                object-position: left;
+      }
        /* New CSS */
       .ft-48 {
             font-size: 28px;
@@ -3571,6 +3581,7 @@ ul.arrow-list+p {
       .collection-detail .detail-top {
             padding: 20px 20px;
             flex-wrap: wrap;
+                    row-gap: 10px;
       }
 
       .collection-slider .swiper-wrapper .swiper-slide:first-child .collection-detail .detail-top h3 {
@@ -3614,6 +3625,7 @@ ul.arrow-list+p {
             column-gap: 8px;
             margin-left: 0;
             flex-wrap: wrap;
+            row-gap:5px;
       }
 
       .slider-arrow {
