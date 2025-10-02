@@ -27,7 +27,7 @@ function Header({ ...props }: React.HTMLAttributes<HTMLDivElement>) {
             <Image width={100} height={100} src="/assets/image/connect-icon.svg" alt="" />
           </a>
           <a href="#" className="w-12 h-12 rounded-full cursor-pointer customer_image">
-            <Image height={100} width={100} src="/assets/image/profile-icon.png" alt="" />
+            <Link href="/aanbod"><Image height={100} width={100} src="/assets/image/profile-icon.png" alt="" /></Link>
           </a>
           <Link href="/contact"
             className="px-6 py-2 bg-brand-orange text-white rounded-full cursor-pointer bg-orange-600 transition-colors site_links">
