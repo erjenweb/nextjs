@@ -74,7 +74,7 @@ function Footer() {
                 </ul>
               </div>
               <div className="col-2">
-                <span className="footer-title ft-18 white-text">Garanties</span>
+                <span className="footer-title ft-18 white-text"><Link href="/garanties">Garanties</Link></span>
                 <div className="guranties-img">
                   <img src="/assets/icons/RDW.svg" alt="" />
                   <img src="/assets/icons/autotrust.svg" alt="" />
