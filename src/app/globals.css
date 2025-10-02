@@ -809,6 +809,16 @@ p {
 .contact-form .submit-btn {
       margin-top: 24px;
 }
+.submit-btn .primary-btn:hover:before {
+    background: #132025;
+}
+.submit-btn .primary-btn:hover {
+    background: #f54a00;
+    color: #fff;
+}
+.newsletter button.primary-btn:hover:before {
+    background: #132025;
+}
 
 .contact-right-inner {
       padding: 40px;
