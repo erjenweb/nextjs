@@ -145,6 +145,8 @@ h4,
 h5,
 h6 {
       font-family: 'Carla Sans';
+      font-variant-ligatures: none;
+      font-feature-settings: "liga" 0;
 }
 
 main.site-main {
