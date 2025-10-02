@@ -3405,6 +3405,9 @@ ul.arrow-list+p {
 }
 
 @media(max-width:767px) {
+      .service_list li .text {
+                width: calc(100% - 45px);
+            }
       .collection-img img{
                 max-height: 474px;
                 border-radius: 40px;
