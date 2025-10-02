@@ -1175,6 +1175,10 @@ span.footer-title {
 .collection-post img {
       transition: 0.5s all;
 }
+.collection-post .post-img img {
+    height: 440px;
+    object-fit: cover;
+}
 
 .post-img {
       overflow: hidden;
