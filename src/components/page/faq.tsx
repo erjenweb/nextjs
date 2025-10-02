@@ -31,7 +31,7 @@ function FAQ() {
   return (
     <section className="max-w-2xl mx-auto p-6">
       <h2 className="text-2xl font-bold mb-6 text-center">
-        Frequently Asked Questions
+        veelgestelde vragen
       </h2>
       <div className="space-y-4">
         {faqs.map((faq, i) => (
