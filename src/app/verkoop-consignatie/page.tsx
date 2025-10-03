@@ -54,7 +54,7 @@ function verkoopConsignatiePage() {
               <img src="/assets/image/man-and-woman-drinking-coffee-at-restaurant-busin-2025-03-26-12-15-22-utc 1.webp"
                 alt="" />
             </div>
-            <div className="about-list-right">
+            <div className="about-list-right verkoop-list">
               <h3 className="white-text">uw auto in de spotlight</h3>
               <p>Carteliér adverteert uw auto slim en efficiënt. Dankzij onze professionele aanpak verkoopt u sneller. Voor slechts €475 opstartkosten gaan wij direct voor u aan de slag. Deze kosten omvatten:</p>
               <ul className="dots-list">
