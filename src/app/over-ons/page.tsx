@@ -149,15 +149,15 @@ function OverOnsPage() {
                   <div className="flex justify-between">
                     <div className="input-field">
                       <label htmlFor="">Volledige naam</label>
-                      <input type="text" placeholder="Hoe mogen we je noemen" />
+                      <input type="text" placeholder="Volledige naam" />
                     </div>
                     <div className="input-field">
                       <label htmlFor="">E-mailadres</label>
-                      <input type="text" placeholder="vul je e-mailadres in" />
+                      <input type="text" placeholder="E-mailadres" />
                     </div>
                     <div className="input-field">
                       <label htmlFor="">Telefoonnummer</label>
-                      <input type="text" placeholder="Je telefoonnummer" />
+                      <input type="text" placeholder="Telefoonnummer" />
                     </div>
                   </div>
                 </div>
