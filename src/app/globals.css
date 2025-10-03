@@ -2243,6 +2243,9 @@ ul.arrow-list+p {
 .verkoop-list-sec .about-list-left {
     margin-top: 50px;
 }
+.verkoop-list .vision-content p {
+    margin-bottom: 25px;
+}
 @media(max-width:1700px) {
       .services_sections .service_img {
           width: calc(100% - 660px);
