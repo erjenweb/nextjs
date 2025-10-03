@@ -18,7 +18,7 @@ function verkoopConsignatiePage() {
           </div>
         </div>
       </section>
-      <section className="about-section-two">
+      <section className="about-section-two verkoop-two">
         <div className="max-w-7xl mx-auto">
           <div className="flex items-center">
             <div className="about-img-two relative">
