@@ -65,14 +65,9 @@ function verkoopConsignatiePage() {
               </ul>
               </div>
                <div className="vision-content">
-              <h3 className="ft-48 white-text"><span className="orange-text">Onze</span><br /> Visie</h3>
-              <p>Cartelier wil uitgroeien tot een gevestigde naam in Twente voor kwalitatieve autos uit het
-                midden- en hoogsegment. Wij
-                streven ernaar dé partner te zijn voor klanten die zorgeloos hun autowensen willen
-                uitbesteden, én voor liefhebbers die
-                zelf op zoek zijn naar een auto met karakter en kwaliteit. Door transparantie, scherpe
-                prijzen en betrokken service
-                willen we uitblinken in betrouwbaarheid en klanttevredenheid.</p>
+              <h3 className="ft-48 white-text"><span className="orange-text">Transparante</span><br /> succesfee</h3>
+              <p>Bij het tot stand brengen van een succesvolle consignatie verkoop rekenen wij een succesfee van 8% over de totaal gerealiseerde verkoopprijs met een minimum van €1.000,-</p>
+              <p>Nadat de koopovereenkomst is gesloten betaalt de koper het volledige verkoopbedrag aan u. Pas als u het bedrag heeft ontvangen bent u de overeengekomen provisie verschuldigd.</p>
             </div>
             </div>
           </div>
