@@ -2817,6 +2817,10 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1149px) {
+      .faq-section {
+          padding: 70px 60px 120px;
+          max-width: 850px;
+      }
       .collection-post .post-img img{
                 height: 350px;
       }
@@ -3037,6 +3041,24 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1023px) {
+      .faq-section {
+          padding: 40px 30px 80px;
+          max-width: 100%;
+      }
+      .faq-section h2 {
+          margin-bottom: 50px;
+      }
+      .faq-section .rounded-2xl button {
+          font-size: 18px;
+      }
+      .faq-section .rounded-2xl p {
+          font-size: 16px;
+          line-height: 26px;
+      }
+      .faq-section .rounded-2xl button svg {
+          width: 24px;
+          height: 24px;
+      }
       .collection-post .post-img img {
        height: 300px;
       }
@@ -3479,16 +3501,30 @@ ul.arrow-list+p {
 }
 
 @media(max-width:767px) {
-.collection-post .post-img img {
-    height: 280px;
-}
+      .faq-section {
+          padding: 10px 30px 60px;
+          max-width: 100%;
+      }
+      .collection-post .post-img img {
+          height: 280px;
+      }
       .service_list li .text {
-                width: calc(100% - 45px);
-            }
+            width: calc(100% - 45px);
+       }
       .service_list li .icon img {
-    max-width: 25px;
-    max-height: 18px;
-}
+          max-width: 25px;
+          max-height: 18px;
+      }
+      .faq-section .rounded-2xl button {
+          font-size: 16px;
+          padding: 14px 24px 10px;
+          line-height: 24px;
+      }
+      .faq-section .rounded-2xl p {
+          font-size: 14px;
+          line-height: 24px;
+          padding: 0 24px 14px;
+      }
       .collection-img img{
                 max-height: 474px;
                 border-radius: 40px;
