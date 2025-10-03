@@ -86,17 +86,15 @@ function Contact() {
                 <span className="title">openingstijden</span>
                 <ul>
                   <li>
-                    <span>Maandag – vrijdag</span>
-                    <span>08:00 – 22:00</span>
+                    <span>Maandag – zaterdag</span>
+                    <span>08:00 – 17:00</span>
                   </li>
                   <li>
-                    <span>zaterdag</span>
+                    <span>Zondag Gesloten</span>
                     <span>09:00 – 23:00</span>
                   </li>
                   <li>
-                    <span>Feestdagen</span>
-                    <span>10:00 – 20:00</span>
-                  </li>
+                    Wij werken enkel op afspraak, belt u even voordat u langs wilt komen? De koffie staat dan voor u klaar. </li>
                 </ul>
               </div>
             </div>
