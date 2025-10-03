@@ -8,6 +8,7 @@ import limitWords from "@/lib/limitWords"
 import baseUrl from "@/lib/baseUrl";
 import Link from "next/link";
 import {CarDetailSlider } from "@/components/cars/CarDetailSlider"
+import FinancierDrawer from "@/components/cars/FinancierDrawer";
 
 type Car = {
   _id: string;
@@ -53,26 +54,7 @@ async function ProductDetail({ params }: { params: { slug: string } }) {
 
       </section>
 
-      <div className="info-fixed-box">
-        <div className="flex items-center radius-40 justify-between">
-          <div className="model flex items-center">
-            <Image height="100" width="100" src="/assets/icons/bmw-logo.svg" alt="" />
-            <h1 className="text-white uppercase carla">{carDetail?.merk} {carDetail?.model}</h1>
-          </div>
-          <div className="buttons flex items-center">
-            <div className="orange-btn">
-              <a href="#"
-                className="px-6 py-2 bg-brand-orange text-white rounded-full cursor-pointer bg-orange-600 transition-colors mr-5">Plan
-                een proefrit</a>
-            </div>
-            <div className="white-btn">
-              <a href="#"
-                className="px-6 py-2 bg-transparent border border-white text-white rounded-full transition-colors flex items-center gap-2">Financieringsopties</a>
-            </div>
-          </div>
-        </div>
-      </div>
-
+     <FinancierDrawer car={carDetail} />
       <section className="about-car-detail">
         <div className="max-w-7xl mx-auto">
           <div className="detail-box flex items-top">

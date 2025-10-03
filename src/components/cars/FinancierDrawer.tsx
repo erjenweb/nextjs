@@ -27,7 +27,6 @@ export default function FinancierDrawer({car}:FinancierDrawerProps) {
 
     return (
 <>
-
     <div className="info-fixed-box">
         <div className="flex items-center radius-40 justify-between">
             <div className="model flex items-center">
