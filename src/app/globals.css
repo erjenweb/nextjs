@@ -2253,6 +2253,9 @@ ul.arrow-list+p {
       .services_sections .service_img {
           width: calc(100% - 660px);
       }
+      .verkoop-two {
+          margin-top: -230px;
+      }
       /* New CSS */
       .werk-list-col {
             padding: 50px;
@@ -2329,6 +2332,9 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1599px) {
+      .verkoop-two {
+          margin-top: -260px;
+      }
       .max-w-7xl {
             max-width: 1280px;
       }
@@ -2454,6 +2460,9 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1399px) {
+      .verkoop-two {
+          margin-top: -100px;
+      }
       /* New CSS */
       .werk-content {
             width: 60%;
@@ -2845,6 +2854,9 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1149px) {
+      .verkoop-two {
+          margin-top: 40px;
+      }
       .faq-section {
           padding: 70px 60px 120px;
           max-width: 850px;
@@ -3069,6 +3081,9 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1023px) {
+      .verkoop-two {
+          margin-top: -50px;
+      }
       .faq-section {
           padding: 40px 30px 80px;
           max-width: 100%;
