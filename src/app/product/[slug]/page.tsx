@@ -226,7 +226,7 @@ async function ProductDetail({ params }: { params: { slug: string } }) {
                             <li>Het brandstofsysteem</li>
                             <li>Emissiesysteem</li>
                         </ul>
-                        <a href="#" className="primary-btn orange-bg arrow-download">download voorwaarden</a>
+                        <a href="/assets/image/autotrust-instap-garantie-2024.pdf" className="primary-btn orange-bg arrow-download" download>download voorwaarden</a>
                         <p className="ft-22">Prijs op aanvraag</p>
                     </div>
                     <div className="werk-list-col">
