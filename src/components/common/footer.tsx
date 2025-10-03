@@ -39,9 +39,7 @@ function Footer() {
           <div className="footer-last">
             <div className="flex">
               <div className="col-4 footer-timing">
-                <p>U kunt ons tijdens kantooruren van maandag tot vrijdag (08:00 - 16:00) bellen. Ons team
-                  staat graag voor u klaar om al
-                  uw vragen te beantwoorden.</p>
+                <p>U kunt ons tijdens van maandag t/m zaterdag (08:00 - 18:00). Ons team staat graag voor u klaar om al uw vragen te beantwoorden. Mocht iedereen in gesprek zijn dan bellen wij u terug.</p>
                 <ul className="flex white-text ft-14">
                   <li>Copyright © 2025 CARTELIER</li>
                   <li>Design by rijnders webdesign</li>
