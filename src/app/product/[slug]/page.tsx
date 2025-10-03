@@ -187,9 +187,9 @@ async function ProductDetail({ params }: { params: { slug: string } }) {
                 </ul>
               </div>
             </div>
-            <div className="load-more">
+            {/* <div className="load-more">
               <a href="#" className="primary-btn orange-bg text-white arrow-down">meer laden</a>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>
