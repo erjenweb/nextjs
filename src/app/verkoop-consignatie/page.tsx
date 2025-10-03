@@ -55,6 +55,7 @@ function verkoopConsignatiePage() {
                 alt="" />
             </div>
             <div className="about-list-right verkoop-list">
+              <div className="verkloop-inner-list">
               <h3 className="white-text">uw auto in de spotlight</h3>
               <p>Carteliér adverteert uw auto slim en efficiënt. Dankzij onze professionele aanpak verkoopt u sneller. Voor slechts €475 opstartkosten gaan wij direct voor u aan de slag. Deze kosten omvatten:</p>
               <ul className="dots-list">
@@ -62,6 +63,7 @@ function verkoopConsignatiePage() {
                 <li>Reinigen en oppoetsen van uw voertuig</li>
                 <li>Plaatsen van uw voertuig op minimaal tien autowebsites voor drie maanden, voor maximaal bereik van potentiele klanten (Verlenging in overleg mogelijk)</li>
               </ul>
+              </div>
             </div>
           </div>
         </div>
