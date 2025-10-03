@@ -18,7 +18,7 @@ function GarantiesPage() {
                             zorgvuldige selectie kan er
                             altijd een defect ontstaan.
                             Meld deze eenvoudig online via mijn.autotrust.nl</p>
-                        <a href="#" className="primary-btn orange-bg arrow-btn">Contact opnemen</a>
+                        <a href="/contact" className="primary-btn orange-bg arrow-btn">Contact opnemen</a>
                     </div>
                     <div className="werk-right">
                         <img src="/assets/image/guaranties-img.png" alt="" />
