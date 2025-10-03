@@ -1942,7 +1942,7 @@ header nav {
       position: relative;
 }
 
-.occations-list .occations-box h3.white-text {
+.occations-list .occations-box .white-text {
       position: absolute;
       left: 20px;
       bottom: 20px;
