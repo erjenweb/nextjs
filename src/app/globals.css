@@ -2220,6 +2220,9 @@ ul.arrow-list+p {
 .faq-section .rounded-2xl.rotate-180 button {
     color: #ea580c;
 }
+.werk-faq .faq-section {
+    padding-top: 0;
+}
 
 @media(max-width:1700px) {
       .services_sections .service_img {
