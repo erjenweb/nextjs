@@ -42,7 +42,9 @@ function FAQ() {
             {/* FAQ Button */}
             <button
               onClick={() => toggle(i)}
-              className="w-full flex justify-between items-center px-4 py-3 text-left text-lg font-medium"
+              className={`w-full flex justify-between items-center px-4 py-3 text-left text-lg font-medium ${
+                openIndex === i ? "rotate-180" : ""
+              }`}
             >
               {faq.question}
               {/* Simple Chevron SVG (rotates on toggle) */}
