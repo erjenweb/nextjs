@@ -2176,6 +2176,28 @@ ul.arrow-list+p {
       bottom: -730px;
       z-index: -1;
 }
+.faq-section {
+    max-width: 1060px;
+    padding: 150px 60px 200px;
+}
+.faq-section h2 {
+    margin-bottom: 80px;
+}
+.faq-section .rounded-2xl {
+    border-radius: 35px;
+    border: 1px solid #708585;
+}
+.faq-section .rounded-2xl button {
+    padding: 18px 30px;
+    color: #708585;
+    font-size: 22px;
+}
+.faq-section .rounded-2xl p {
+    font-size: 18px;
+    color: #fff;
+    line-height: 28px;
+    padding: 0 30px 20px;
+}
 
 @media(max-width:1700px) {
       .services_sections .service_img {
