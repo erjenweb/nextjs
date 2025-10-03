@@ -210,7 +210,7 @@ header:before {
       max-height: 100vh;
       height: 100vh;
       overflow: hidden;
-      align-items: center;
+      align-items: flex-end;
 }
 
 .hero-with-banner:before {
@@ -229,17 +229,7 @@ header:before {
 }
 
 .hero-with-banner .hero-content .mt-52 {
-    margin-top: 0;
-    position: fixed;
-    bottom: 50px;
-    background: hsl(0deg 0% 0% / 20%);
-    max-width: calc(1627px + 80px);
-    width: 100%;
-    padding: 40px 40px;
-    border-radius: 90px;
-    backdrop-filter: blur(10px);
-    left: 50%;
-    transform: translateX(-50%);
+      margin-top: 272px;
 }
 .leading-tight {
       font-size: 120px;
