@@ -2223,7 +2223,17 @@ ul.arrow-list+p {
 .werk-faq .faq-section {
     padding-top: 0;
 }
-
+.verkloop-inner-list h3 {
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+.verkloop-inner-list p {
+    font-size: 22px;
+    margin-bottom: 40px;
+}
+.verkloop-inner-list ul.dots-list {
+    font-size: 19px;
+}
 @media(max-width:1700px) {
       .services_sections .service_img {
           width: calc(100% - 660px);
