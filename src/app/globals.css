@@ -2234,6 +2234,9 @@ ul.arrow-list+p {
 .verkloop-inner-list ul.dots-list {
     font-size: 19px;
 }
+.verkoop-two {
+    margin-top: -350px;
+}
 @media(max-width:1700px) {
       .services_sections .service_img {
           width: calc(100% - 660px);
