@@ -68,7 +68,7 @@ function verkoopConsignatiePage() {
           </div>
         </div>
       </section>
-      <section className="about-vision-section">
+      <section className="about-vision-section verkoop-sec">
         <div className="max-w-7xl mx-auto">
           <div className="flex items-center">
             <div className="vision-content">
@@ -80,17 +80,6 @@ function verkoopConsignatiePage() {
                 zelf op zoek zijn naar een auto met karakter en kwaliteit. Door transparantie, scherpe
                 prijzen en betrokken service
                 willen we uitblinken in betrouwbaarheid en klanttevredenheid.</p>
-            </div>
-            <div className="mission-content">
-              <h3 className="ft-48 white-text"><span className="orange-text">Onze</span><br /> Missie</h3>
-              <p>Cartelier is gespecialiseerd in het leveren van representatieve auto’s uit het midden- en
-                hoogsegment die nét dat beetje
-                extra bieden. Wij kopen gericht auto’s in die voldoen aan onze hoge kwaliteitsstandaard, én
-                gaan op zoek naar autos op
-                basis van de specifieke wensen van onze klanten. Of het nu gaat om bemiddeling of directe
-                verkoop, wij bieden een
-                zorgeloze aankoopervaring tegen een scherp tarief en met persoonlijke aandacht.</p>
-              <img src="/assets/image/DSC08026 2.webp" alt="" />
             </div>
           </div>
         </div>
