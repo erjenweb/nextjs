@@ -1848,12 +1848,12 @@ img.owner-logo {
       border-radius:40px;
 }
 
-.about-list-right {
+.about-list-right, .verkoop-list {
       margin-left: 90px;
       margin-top: -120px;
 }
 
-.about-list-right ul {
+.about-list-right ul, .verkloop-inner-list {
       width: 663px;
       background: #708585;
       border-radius: 40px;
@@ -2291,7 +2291,7 @@ ul.arrow-list+p {
             margin-top: -290px;
       }
 
-      .about-list-right {
+      .about-list-right, .verkoop-list {
             margin-left: 90px;
             margin-top: 60px;
       }
@@ -2795,11 +2795,11 @@ ul.arrow-list+p {
             font-size: 35px;
       }
 
-      .about-list-right ul {
+      .about-list-right ul, .verkloop-inner-list {
             width: 540px;
       }
 
-      .about-list-right {
+      .about-list-right, .verkoop-list {
             margin-left: 30px;
             margin-top: 60px;
       }
@@ -3032,13 +3032,13 @@ ul.arrow-list+p {
             width: 100%;
       }
 
-      .about-list-right {
+      .about-list-right, .verkoop-list {
             margin-left: 0;
             margin-top: 50px;
             width: 100%;
       }
 
-      .about-list-right ul {
+      .about-list-right ul, .verkloop-inner-list {
             width: 100%;
       }
 }
@@ -4118,7 +4118,7 @@ ul.arrow-list+p {
             width: 100%;
       }
 
-      .about-list-right ul {
+      .about-list-right ul, .verkloop-inner-list {
             width: 100%;
             padding: 40px;
       }
