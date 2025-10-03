@@ -3633,6 +3633,7 @@ ul.arrow-list+p {
       .collection-detail .detail-bottom {
             padding: 20px;
             flex-wrap: wrap;
+            justify-content: center;
       }
 
       .collection-slider .swiper-wrapper .swiper-slide:first-child .collection-detail .detail-bottom .price-box {
