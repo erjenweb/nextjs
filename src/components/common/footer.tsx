@@ -51,14 +51,12 @@ function Footer() {
                   <ul className="navigation-footer">
                     <li><Link href="/">Home</Link></li>
                     <li><Link href="/over-ons">Over ons</Link></li>
-                    <li><a href="#">Collecties</a></li>
-                    <li><a href="#">Aflevering</a></li>
+                    <li><a href="/aanbod">Collecties</a></li>
+                    <li><a href="/garanties">Garanties</a></li>
                   </ul>
                   <ul className="navigation-footer">
                     <li><Link href="/contact">Contact</Link></li>
-                    <li><a href="#">Onze werkwijze</a></li>
-                    <li><a href="#">Algemene voorwaarden</a></li>
-                    <li><a href="#">Privacy Beleid</a></li>
+                    <li><a href="/werkwijze">Onze werkwijze</a></li>
                   </ul>
                 </div>
               </div>
