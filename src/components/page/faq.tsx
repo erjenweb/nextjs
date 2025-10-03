@@ -37,14 +37,14 @@ function FAQ() {
         {faqs.map((faq, i) => (
           <div
             key={i}
-            className="border border-gray-200 rounded-2xl shadow-sm"
+            className={`border border-gray-200 rounded-2xl shadow-sm ${
+                openIndex === i ? "rotate-180" : ""
+              }`}
           >
             {/* FAQ Button */}
             <button
               onClick={() => toggle(i)}
-              className={`w-full flex justify-between items-center px-4 py-3 text-left text-lg font-medium ${
-                openIndex === i ? "rotate-180" : ""
-              }`}
+              className="w-full flex justify-between items-center px-4 py-3 text-left text-lg font-medium"
             >
               {faq.question}
               {/* Simple Chevron SVG (rotates on toggle) */}
