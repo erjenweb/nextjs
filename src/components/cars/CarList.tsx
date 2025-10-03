@@ -11,6 +11,10 @@ type Car = {
   model: string;
   title_nl: string;
   topSpeed: string;
+  odometerReading: {
+    value:string,
+    unit:string
+  };
   buildYear: string;
   short_desc: string;
   remarks_nl:string;
@@ -51,7 +55,7 @@ export default function CarList({ cars }: CarListProps) {
                 <div className="icon">
                   <img src="./assets/icons/gauge-max.svg" alt="" />
                 </div>
-                <p className="ft-18 white-text">{car.topSpeed}</p>
+                <p className="ft-18 white-text">{car?.odometerReading?.value} {car?.odometerReading?.unit ==='K'?'KM':car?.odometerReading?.unit} </p>
               </div>
               <div className="car-detail">
                 <div className="icon">

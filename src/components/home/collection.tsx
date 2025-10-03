@@ -21,6 +21,10 @@ type Car = {
   model: string;
   title_nl: string;
   topSpeed: string;
+  odometerReading:{
+    value:string,
+    unit:string
+  };
   buildYear: string;
   pricing: {
     country: string;
@@ -69,31 +73,34 @@ function Collection({ cars }: CarListProps) {
         >
           {cars.map((car) => (
             <SwiperSlide key={car._id}>
+              <Link className="car-img-anchor" href={`/product/${car.hexon_nr}`}>
+
               <div className="collection-box">
                 <div className="collection-img">
                   {car.images?.length > 0 && (
-                      <Link href={`/product/${car.hexon_nr}`}>
-                      <Image src={car.images[0]}
-                      alt={`${car.merk} ${car.model}`} height={900} width={600} className="w-full h-full object-cover" />
-                      </Link>
+
+                          <Image src={car.images[0]}
+                          alt={`${car.merk} ${car.model}`} height={900} width={600} className="w-full h-full object-cover" />
+
+
                   )}
                 </div>
                 <div className="collection-detail">
                   <div className="detail-top flex items-center">
                     <h3>{car.merk} {car.model}</h3>
-                    <Link href={`/product/${car.hexon_nr}`} className="primary-btn arrow-btn orange-bg">Bekijk deze auto</Link>
+                    <span  className="primary-btn arrow-btn orange-bg">Bekijk deze auto</span>
                   </div>
                   <div className="detail-bottom flex items-center">
                     <div className="price-box"><span className="small">Prijs</span> {new Intl.NumberFormat("nl-NL").format(Number(car.pricing.amount))},-</div>
                     <ul className="flex items-center">
                       <li><small>Leasebedrag</small>1.217 </li>
-                      <li><small>KM stand</small>55.000</li>
+                      <li><small>KM stand</small>{car?.odometerReading?.value}</li>
                       <li><small>Bouwjaar</small>{car.buildYear}</li>
                     </ul>
                   </div>
                 </div>
               </div>
-
+              </Link>
             </SwiperSlide>
           ))}
 

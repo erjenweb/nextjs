@@ -8,7 +8,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import 'swiper/css';
 import 'swiper/css/navigation';
 
-import { Navigation, Pagination, Scrollbar } from 'swiper/modules';
+import { Navigation, Pagination, Scrollbar,Autoplay } from 'swiper/modules';
 
 
 function Brand() {
@@ -29,7 +29,7 @@ function Brand() {
             768: { slidesPerView: 3 },
             1024: { slidesPerView: 5 },
           }}
-          modules={[Navigation, Pagination]}
+          modules={[Navigation, Pagination,Autoplay]}
         >
           <SwiperSlide className='swiper-slide'>
             <div className="brand-logo flex items-center justify-center">

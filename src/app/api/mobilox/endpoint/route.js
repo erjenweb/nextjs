@@ -55,6 +55,15 @@ export async function POST(req) {
     const short_desc = deliverypackages?.deliverypackage?.description;
     // Specs
     const topSpeed = xml["powertrain.topspeed"];
+    const odometerObject = xml["condition.odometer.reading"];
+    let odometerReading = '';
+
+    if (odometerObject?._ && odometerObject?.$?.unit) {
+      const value = odometerObject._;
+      const unit = odometerObject.$.unit;
+      odometerReading = {'value':value,'unit':unit};
+    }
+
     const buildYear = xml["region_specific.nl.build_year"];
 
     // Pricing (consumer)
@@ -83,6 +92,7 @@ export async function POST(req) {
       remarks_nl,
 
       type_name,
+      odometerReading,
       topSpeed,
       buildYear,
       pricing: {

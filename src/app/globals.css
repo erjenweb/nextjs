@@ -4049,3 +4049,8 @@ ul.arrow-list+p {
             margin-top: 40px;
       }
 }
+
+.car-img-anchor {
+      position:relative;
+       z-index: 1;
+}
