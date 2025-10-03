@@ -92,7 +92,7 @@ function Header({...props}: React.HTMLAttributes<HTMLDivElement>) {
                         </div>
                         <div className="menu-right">
                             <div className="menu-right-top flex items-end">
-                                <p className=" ft-48 white-text"><span className="orange-text">uitgelichte</span> <br/>occassions
+                                <p className=" ft-48 white-text carla"><span className="orange-text">uitgelichte</span> <br/>occassions
                                 </p>
                                 <Link onClick={ToggleMegaMenu} href="/aanbod"
                                       className="primary-btn orange-bg arrow-btn">bekijk al het aanbod</Link>
@@ -112,7 +112,7 @@ function Header({...props}: React.HTMLAttributes<HTMLDivElement>) {
                                                 />
                                             )}
 
-                                            <p className="white-text">{car.merk || 'Car'}<br/>{car.model || 'Model'}</p>
+                                            <p className="white-text carla">{car.merk || 'Car'}<br/>{car.model || 'Model'}</p>
                                         </Link>
                                     </div>
                                 ))}
