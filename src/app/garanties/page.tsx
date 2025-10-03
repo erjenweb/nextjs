@@ -1,5 +1,6 @@
 import React from 'react'
 import FAQ from "@/components/page/faq";
+import Link from "next/link";
 
 function GarantiesPage() {
   return (
@@ -18,7 +19,7 @@ function GarantiesPage() {
                             zorgvuldige selectie kan er
                             altijd een defect ontstaan.
                             Meld deze eenvoudig online via mijn.autotrust.nl</p>
-                        <a href="/contact" className="primary-btn orange-bg arrow-btn">Contact opnemen</a>
+                        <Link href="/contact" className="primary-btn orange-bg arrow-btn">Contact opnemen</Link>
                     </div>
                     <div className="werk-right">
                         <img src="/assets/image/guaranties-img.png" alt="" />
