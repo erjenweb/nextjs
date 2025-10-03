@@ -8,10 +8,8 @@ function verkoopConsignatiePage() {
         <div className="max-w-7xl mx-auto">
           <div className="flex">
             <div className="about-content">
-              <h1 className="ft-48 white-text"><span className="orange-text">over</span> cartelier</h1>
-              <p className="ft-22 white-text">Carteliér is ontstaan uit een jarenlange passie voor auto’s. Wij
-                zijn een RDW erkend, jong dynamisch bedrijf, wat zich
-                richt op in- en verkoop van auto’s die rijk zijn uitgerust aan opties. </p>
+              <h1 className="ft-48 white-text"><span className="orange-text">Verkoop in</span> consignatie</h1>
+              <p className="ft-22 white-text">Zit u aan te denken om uw auto te gaan verkopen, maar ziet u op tegen de rompslomp? Laat ons dan uw auto verkopen! U kunt desgewenst in uw auto blijven rijden totdat een geïnteresseerde koper zich meld. </p>
               <a href="#" className="primary-btn orange-bg arrow-btn">Contact opnemen</a>
             </div>
             <div className="about-img">
@@ -57,47 +55,12 @@ function verkoopConsignatiePage() {
                 alt="" />
             </div>
             <div className="about-list-right">
-              <ul className="service_list">
-                <li>
-                  <div className="icon">
-                    <img src="/assets/icons/list.svg" alt="" />
-                  </div>
-                  <div className="text">
-                    <span className="title">Eenvoudig proces</span>
-                    <p>Bij Cartelier verloopt het proces van reserveren of aanschaffen van uw droomauto
-                      moeiteloos.</p>
-                  </div>
-                </li>
-                <li>
-                  <div className="icon">
-                    <img src="/assets/icons/clock.svg" alt="" />
-                  </div>
-                  <div className="text">
-                    <span className="title">altijd op tijd</span>
-                    <p>Bij Cartelier verloopt het proces van reserveren of aanschaffen van uw droomauto
-                      moeiteloos.</p>
-                  </div>
-                </li>
-                <li>
-                  <div className="icon">
-                    <img src="/assets/icons/lock.svg" alt="" />
-                  </div>
-                  <div className="text">
-                    <span className="title">Totale bescherming</span>
-                    <p>Bij Cartelier verloopt het proces van reserveren of aanschaffen van uw droomauto
-                      moeiteloos.</p>
-                  </div>
-                </li>
-                <li>
-                  <div className="icon">
-                    <img src="/assets/icons/crown.svg" alt="" />
-                  </div>
-                  <div className="text">
-                    <span className="title">premium service</span>
-                    <p>Bij Cartelier verloopt het proces van reserveren of aanschaffen van uw droomauto
-                      moeiteloos.</p>
-                  </div>
-                </li>
+              <h3 className="white-text">uw auto in de spotlight</h3>
+              <p>Carteliér adverteert uw auto slim en efficiënt. Dankzij onze professionele aanpak verkoopt u sneller. Voor slechts €475 opstartkosten gaan wij direct voor u aan de slag. Deze kosten omvatten:</p>
+              <ul className="dots-list">
+                <li>Opstellen van advertenties + berekenen van prijs met aanvullende garantie Professionele fotoreportage van uw voertuig</li> 
+                <li>Reinigen en oppoetsen van uw voertuig</li>
+                <li>Plaatsen van uw voertuig op minimaal tien autowebsites voor drie maanden, voor maximaal bereik van potentiele klanten (Verlenging in overleg mogelijk)</li>
               </ul>
             </div>
           </div>
