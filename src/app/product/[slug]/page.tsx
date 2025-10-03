@@ -194,81 +194,61 @@ async function ProductDetail({ params }: { params: { slug: string } }) {
         </div>
       </section>
 
-      <section className="premium-selection">
+      <section className="premium-selection werk-list-section">
         <div className="max-w-7xl mx-auto">
-          <div className="premium-heading">
-            <h2 className="ft-48 white-text"><span className="orange-text">premium</span><br /> afleverpakketten</h2>
-          </div>
-          <div className="flex justify-between">
-            <div className="col-4">
-              <div className="benifits list-details">
-                <h5 className="ft-32 white-text"><span className="orange-text">3 maand</span><br /> zekerheid</h5>
-                <ul>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                </ul>
-
-              </div>
+                <div className="flex items-center justify-between">
+                    <div className="werk-list-col">
+                        <h3 className="ft-32 white-text">Autotrust garanties</h3>
+                        <p className="ft-22">De garanties zijn gebaseerd op de leeftijd, kilometerstand en de uitvoering van
+                            de auto. Met
+                            een Autotrust garantie
+                            krijgt u 6,12 of zelfs 24 maanden garantie. 
+                            Hierbij een overzicht van de verschillende garantiedekkingen: </p>
+                        <ul className="dots-list">
+                            <li>Autotrust Instap: dit is de beste keuze voor auto’s tot 16 jaar en 200.000 km.</li>
+                            <li>Autotrust Uitgebreid: dit is de beste keuze voor auto’s tot 8 jaar en 150.000 km.</li>
+                            <li>Luxury & Performance: een garantie speciaal ontwikkeld voor exclusieve auto’s.</li>
+                            <li>Accugarantie: een add-on (af te sluiten in combinatie met een Instap of Uitgebreid
+                                garantie) speciaal ontwikkeld voor
+                                elektrische en hybride voertuigen tot 8 jaar en 150.000 km waarbij de aandrijfaccu`s ook
+                                onder de dekking vallen*</li>
+                        </ul>
+                    </div>
+                    <div className="werk-list-col">
+                        <h3 className="ft-32 white-text">Instapgarantie</h3>
+                        <p className="ft-22">De Instapgarantie van Autotrust biedt zekerheid op de meest kostbare onderdelen
+                            van de auto
+                        </p>
+                        <ul className="arrow-list">
+                            <li>Transmissie</li>
+                            <li>Aandrijving</li>
+                            <li>Het koelsysteem</li>
+                            <li>Het brandstofsysteem</li>
+                            <li>Emissiesysteem</li>
+                        </ul>
+                        <a href="#" className="primary-btn orange-bg arrow-download">download voorwaarden</a>
+                        <p className="ft-22">Prijs op aanvraag</p>
+                    </div>
+                    <div className="werk-list-col">
+                        <h3 className="ft-32 white-text">Uitgebreide Garantie</h3>
+                        <p className="ft-22">Deze garantie biedt de meest uitgebreide dekking: nagenoeg alle mechanische en
+                            elektronische
+                            onderdelen van de auto valt
+                            onder de garantie</p>
+                        <ul className="arrow-list">
+                            <li>Alle onderdelen van de instapgarantie</li>
+                            <li>Remsysteem</li>
+                            <li>Wielophanging</li>
+                            <li>Airbag</li>
+                            <li>Elektronica *</li>
+                            <li>Airconditioning</li>
+                        </ul>
+                        <p className="ft-18 text-white">*Multimedia is geen onderdeel van de garantie </p>
+                        <a href="#" className="primary-btn orange-bg arrow-download">download voorwaarden</a>
+                        <p className="ft-22 text-white">Prijs op aanvraag </p>
+                    </div>
+                </div>
             </div>
-            <div className="col-4">
-              <div className="benifits list-details">
-                <div className="benifit-btn"><a href="#"
-                  className="primary-btn orange-bg text-white arrow-star">meest gekozen</a></div>
-                <h5 className="ft-32 white-text"><span className="orange-text">6 maand</span><br /> extra zeker</h5>
-                <ul>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">Aangepaste leasevoorwaarden voor uw behoeften</li>
-                  <li className="ft-18 white-text">Aangepaste leasevoorwaarden voor uw behoeften</li>
-                  <li className="ft-18 white-text">Aangepaste leasevoorwaarden voor uw behoeften</li>
-                  <li className="ft-18 white-text">Aangepaste leasevoorwaarden voor uw behoeften</li>
-                  <li className="ft-18 white-text">Aangepaste leasevoorwaarden voor uw behoeften</li>
-                  <li className="ft-18 white-text">Aangepaste leasevoorwaarden voor uw behoeften</li>
-                  <li className="ft-18 white-text">Aangepaste leasevoorwaarden voor uw behoeften</li>
-                  <li className="ft-18 white-text">Aangepaste leasevoorwaarden voor uw behoeften</li>
-                </ul>
-
-              </div>
-            </div>
-            <div className="col-4">
-              <div className="benifits list-details">
-                <h5 className="ft-32 white-text"><span className="orange-text">12 maand</span><br /> bovag garantie
-                </h5>
-                <ul>
-                  <li className="ft-18 white-text">Streng geselecteerde premium occasions</li>
-                  <li className="ft-18 white-text">12 maanden garantie en onderhoud inbegrepen</li>
-                  <li className="ft-18 white-text">transparante keuring + onderhoudshistorie</li>
-                  <li className="ft-18 white-text">Persoonlijke begeleiding bij leasing of aankoop</li>
-                  <li className="ft-18 white-text">Proefrit mogelijk aan huis</li>
-                  <li className="ft-18 white-text">Flexibele financieringsopties beschikbaar</li>
-                  <li className="ft-18 white-text">Gratis levering binnen 50 km</li>
-                  <li className="ft-18 white-text">24/7 klantenservice voor al uw vragen</li>
-                  <li className="ft-18 white-text">Uitgebreide selectie van merken en modellen</li>
-                  <li className="ft-18 white-text">Korting voor trouwe klanten</li>
-                </ul>
-
-              </div>
-            </div>
-          </div>
-        </div>
       </section>
       <section className="detail-contact">
         <div className="max-w-7xl mx-auto">
