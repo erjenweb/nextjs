@@ -2237,6 +2237,12 @@ ul.arrow-list+p {
 .verkoop-two {
     margin-top: -350px;
 }
+.verkoop-list-sec .vision-content {
+    padding: 80px 0 0;
+}
+.verkoop-list-sec .about-list-left {
+    margin-top: 50px;
+}
 @media(max-width:1700px) {
       .services_sections .service_img {
           width: calc(100% - 660px);
