@@ -68,8 +68,8 @@ function Footer() {
                 <span className="footer-title ft-18 white-text">Socials</span>
                 <ul className="social-icon flex">
                   <li><a href="#" className="facebook"><img src="/assets/icons/facebook.svg" alt="" /></a></li>
-                  <li><a href="#" className="linkedin"><img src="/assets/icons/linkedin.svg" alt="" /></a></li>
-                  <li><a href="#" className="insta"><img src="/assets/icons/instagram.svg" alt="" /></a></li>
+                  <li><a href="https://www.linkedin.com/company/carteli%C3%A9r/posts/?feedView=all" target="_blank" rel="noopener noreferrer" className="linkedin"><img src="/assets/icons/linkedin.svg" alt="" /></a></li>
+                  <li><a href="https://www.instagram.com/cartelier.nl/" target="_blank" rel="noopener noreferrer" className="insta"><img src="/assets/icons/instagram.svg" alt="" /></a></li>
                   <li><a href="#" className="youtube"><img src="/assets/icons/youtube.svg" alt="" /></a></li>
                 </ul>
               </div>
