@@ -34,7 +34,7 @@ function verkoopConsignatiePage() {
           </div>
         </div>
       </section>
-      <section className="about-list">
+      <section className="about-list verkoop-list-sec">
         <div className="max-w-7xl mx-auto">
           <div className="flex">
             <div className="about-list-left">
