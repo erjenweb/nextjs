@@ -2212,6 +2212,14 @@ ul.arrow-list+p {
 .faq-section .rounded-2xl button svg.rotate-180 path{
       fill: #fff;
 }
+.faq-section .rounded-2xl, .faq-section .rounded-2xl button{transition:0.5s all;}
+.faq-section .rounded-2xl.rotate-180 {
+    transform: inherit !important;
+    border-color: #fff;
+}
+.faq-section .rounded-2xl.rotate-180 button {
+    color: #ea580c;
+}
 
 @media(max-width:1700px) {
       .services_sections .service_img {
