@@ -283,8 +283,8 @@ async function ProductDetail({ params }: { params: { slug: string } }) {
               </div>
               <div className="owner-contact">
                 <h6 className="ft-32 white-text">ik heb interesse</h6>
-                <a href="tel:+31 (0) 548 234880" className="primary-btn white-bg arrow-wts">+31 (0) 548 234880</a><br />
-                <a href="mailto:" className="primary-btn grey-bg arrow-email">info@cartelier.nl</a>
+                <a href="tel:+31 (0) 548 234880" className="primary-btn orange-bg phone-icon">+31 (0) 548 234880</a>
+                <a href="mailto:info@cartelier.nl" className="primary-btn orange-bg email-icon">info@cartelier.nl</a>
               </div>
             </div>
             <div className="col-4">
