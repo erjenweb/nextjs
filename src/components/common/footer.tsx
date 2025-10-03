@@ -29,8 +29,8 @@ function Footer() {
               </div>
               <div className="footer-contact items-center">
                 <ul className="flex items-center">
-                  <li><a href="#" className="primary-btn orange-bg phone-icon">+31 (0) 548 234880</a></li>
-                  <li><a href="#" className="primary-btn orange-bg email-icon">info@cartelier.nl</a></li>
+                  <li><a href="tel:+31 (0) 548 234880" className="primary-btn orange-bg phone-icon">+31 (0) 548 234880</a></li>
+                  <li><a href="mailto:info@cartelier.nl" className="primary-btn orange-bg email-icon">info@cartelier.nl</a></li>
                   <li className="address ft-18 white-text">Galvanistraat 15E, 7461 JC Rijssen</li>
                 </ul>
               </div>
