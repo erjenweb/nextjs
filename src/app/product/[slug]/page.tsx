@@ -49,11 +49,7 @@ async function ProductDetail({ params }: { params: { slug: string } }) {
         {carDetail.images?.length > 0 && (
           <Image height="1000" width="1920" src={carDetail.images[0]} alt="Banner" className="w-full object-cover" />
         )}
-
-
-      </section>
-
-      <div className="info-fixed-box">
+ <div className="info-fixed-box">
         <div className="flex items-center radius-40 justify-between">
           <div className="model flex items-center">
             <Image height="100" width="100" src="/assets/icons/bmw-logo.svg" alt="" />
@@ -73,6 +69,7 @@ async function ProductDetail({ params }: { params: { slug: string } }) {
         </div>
       </div>
 
+      </section>
       <section className="about-car-detail">
         <div className="max-w-7xl mx-auto">
           <div className="detail-box flex items-top">
