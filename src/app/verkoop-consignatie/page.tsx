@@ -73,7 +73,7 @@ function verkoopConsignatiePage() {
           </div>
         </div>
       </section>
-       <section className="werk-colums-section">
+       <section className="werk-colums-section verkoop-colums">
             <div className="max-w-7xl mx-auto">
                 <div className="flex justify-between werk-boxes">
                     <div className="werk-box flex">
