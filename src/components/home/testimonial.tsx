@@ -22,7 +22,6 @@ function Testimonial() {
                   <div className="auther-img"></div>
                   <div className="auther-detail">
                     <span className="title">Henk</span>
-                    <p>Kocht: BMW 535e-hybrid</p>
                   </div>
                 </div>
                 <div className="test-top-right">
@@ -49,7 +48,6 @@ function Testimonial() {
                   <div className="auther-img"></div>
                   <div className="auther-detail">
                     <span className="title">Erjen Rijnders</span>
-                    <p>Kocht: BMW 535e-hybrid</p>
                   </div>
                 </div>
                 <div className="test-top-right">
@@ -71,7 +69,6 @@ function Testimonial() {
                   <div className="auther-img"></div>
                   <div className="auther-detail">
                     <span className="title">Daniel van Egmond</span>
-                    <p>Kocht: BMW 535e-hybrid</p>
                   </div>
                 </div>
                 <div className="test-top-right">

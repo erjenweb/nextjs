@@ -14,8 +14,7 @@ function Services() {
                 </div>
                 <div className="text">
                   <span className="title">Eenvoudig<br /> proces</span>
-                  <p>Bij Cartelier verloopt het proces van reserveren of aanschaffen van uw droomauto
-                    moeiteloos.</p>
+                  <p>Bij ons verloopt het proces van reserveren of aanschaffen van uw droomauto moeiteloos, wij ontzorgen u in het gehele proces</p>
                 </div>
               </li>
               <li>
@@ -24,8 +23,7 @@ function Services() {
                 </div>
                 <div className="text">
                   <span className="title">altijd<br /> op tijd</span>
-                  <p>Bij Cartelier verloopt het proces van reserveren of aanschaffen van uw droomauto
-                    moeiteloos.</p>
+                  <p>Afspraak is afspraak bij ons, zo weet u dat u nooit voor niets komt rijden</p>
                 </div>
               </li>
               <li>
@@ -34,8 +32,7 @@ function Services() {
                 </div>
                 <div className="text">
                   <span className="title">Totale<br /> bescherming</span>
-                  <p>Bij Cartelier verloopt het proces van reserveren of aanschaffen van uw droomauto
-                    moeiteloos.</p>
+                  <p>Door onze aanpak selecteren wij ons aanbod zorgvuldig, bovendien bieden we bij aflevering diverse garantiepakketten via Autotrust</p>
                 </div>
               </li>
               <li>
@@ -44,8 +41,7 @@ function Services() {
                 </div>
                 <div className="text">
                   <span className="title">premium<br /> service</span>
-                  <p>Bij Cartelier verloopt het proces van reserveren of aanschaffen van uw droomauto
-                    moeiteloos.</p>
+                  <p>Naast onze standaard service wat u van ons gewend bent kunnen wij u ook ontzorgen in onze polijst en bandenservice</p>
                 </div>
               </li>
             </ul>

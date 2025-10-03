@@ -43,7 +43,7 @@ function HeroSlider({ ...props }: React.HTMLAttributes<HTMLDivElement>) {
           </div>
 
           <p className="text-gray-300 text-lg">
-            Maak elk moment onvergetelijk met Cartelier. Van exotische sportwagens tot executive sedans – geniet van de ultieme rit, ondersteund door premium service en oog voor elk detail.
+            Maak elk moment onvergetelijk met Carteliér. Van middenklassers tot exclusieve sportwagens – geniet van de ultieme rit, ondersteund door premium service en oog voor elk detail.
           </p>
         </div>
       </div>

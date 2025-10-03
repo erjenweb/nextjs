@@ -1,3 +1,4 @@
+import React from 'react'
 import Image from 'next/image'
 import { Swiper, SwiperSlide } from "swiper/react";
 import 'swiper/css';
@@ -7,10 +8,23 @@ import limitWords from "@/lib/limitWords"
 import baseUrl from "@/lib/baseUrl";
 import Link from "next/link";
 import {CarDetailSlider } from "@/components/cars/CarDetailSlider"
-import FinancierDrawer from "@/components/cars/FinancierDrawer";
 
-import Car from "@/service/carEntity";
-
+type Car = {
+  _id: string;
+  hexon_nr: string;
+  license_plate: string;
+  merk: string;
+  model: string;
+  title_nl: string;
+  topSpeed: string;
+  buildYear: string;
+  pricing: {
+    country: string;
+    amount: string;
+    currency: string;
+  };
+  images: string[];
+};
 
 // Define props type
 interface CarListProps {
@@ -26,6 +40,7 @@ async function ProductDetail({ params }: { params: { slug: string } }) {
 
   const carDetail = await res.json();
 
+  console.log("Car details", carDetail)
 
   return (
     <>
@@ -35,10 +50,28 @@ async function ProductDetail({ params }: { params: { slug: string } }) {
           <Image height="1000" width="1920" src={carDetail.images[0]} alt="Banner" className="w-full object-cover" />
         )}
 
-      <FinancierDrawer car={carDetail} />
+
       </section>
 
-
+      <div className="info-fixed-box">
+        <div className="flex items-center radius-40 justify-between">
+          <div className="model flex items-center">
+            <Image height="100" width="100" src="/assets/icons/bmw-logo.svg" alt="" />
+            <h1 className="text-white uppercase carla">{carDetail?.merk} {carDetail?.model}</h1>
+          </div>
+          <div className="buttons flex items-center">
+            <div className="orange-btn">
+              <a href="#"
+                className="px-6 py-2 bg-brand-orange text-white rounded-full cursor-pointer bg-orange-600 transition-colors mr-5">Plan
+                een proefrit</a>
+            </div>
+            <div className="white-btn">
+              <a href="#"
+                className="px-6 py-2 bg-transparent border border-white text-white rounded-full transition-colors flex items-center gap-2">Financieringsopties</a>
+            </div>
+          </div>
+        </div>
+      </div>
 
       <section className="about-car-detail">
         <div className="max-w-7xl mx-auto">
@@ -268,7 +301,6 @@ async function ProductDetail({ params }: { params: { slug: string } }) {
             </div>
           </div>
         </div>
-
       </section>
 
     </>

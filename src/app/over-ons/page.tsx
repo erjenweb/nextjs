@@ -149,15 +149,15 @@ function OverOnsPage() {
                   <div className="flex justify-between">
                     <div className="input-field">
                       <label htmlFor="">Volledige naam</label>
-                      <input type="text" placeholder="Hoe mogen we je noemen" />
+                      <input type="text" placeholder="Volledige naam" />
                     </div>
                     <div className="input-field">
                       <label htmlFor="">E-mailadres</label>
-                      <input type="text" placeholder="vul je e-mailadres in" />
+                      <input type="text" placeholder="E-mailadres" />
                     </div>
                     <div className="input-field">
                       <label htmlFor="">Telefoonnummer</label>
-                      <input type="text" placeholder="Je telefoonnummer" />
+                      <input type="text" placeholder="Telefoonnummer" />
                     </div>
                   </div>
                 </div>
@@ -215,16 +215,15 @@ function OverOnsPage() {
                   <span className="title">openingstijden</span>
                   <ul>
                     <li>
-                      <span>Maandag – vrijdag</span>
-                      <span>08:00 – 22:00</span>
+                      <span>Maandag – zaterdag</span>
+                      <span>08:00 – 17:00</span>
                     </li>
                     <li>
-                      <span>zaterdag</span>
+                      <span>Zondag Gesloten</span>
                       <span>09:00 – 23:00</span>
                     </li>
                     <li>
-                      <span>Feestdagen</span>
-                      <span>10:00 – 20:00</span>
+                      Wij werken enkel op afspraak, belt u even voordat u langs wilt komen? De koffie staat dan voor u klaar.
                     </li>
                   </ul>
                 </div>

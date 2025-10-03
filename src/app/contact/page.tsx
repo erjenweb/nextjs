@@ -13,8 +13,8 @@ function ContactPage() {
                 vinden we de auto die perfect
                 aansluit bij uw wensen.</p>
               <div className="buttons flex">
-                <a href="#" className="primary-btn orange-bg phone-icon">+31 (0) 548 234880</a>
-                <a href="#" className="primary-btn orange-bg email-icon">info@cartelier.nl</a>
+                <a href="tel:+31 (0) 548 234880" className="primary-btn orange-bg phone-icon">+31 (0) 548 234880</a>
+                <a href="mailto:info@cartelier.nl" className="primary-btn orange-bg email-icon">info@cartelier.nl</a>
               </div>
               <p className="ft-22 white-text">Galvanistraat 15E, 7461 JC Rijssen</p>
             </div>

@@ -231,7 +231,6 @@ header:before {
 .hero-with-banner .hero-content .mt-52 {
       margin-top: 272px;
 }
-
 .leading-tight {
       font-size: 120px;
       line-height: 90%;
@@ -645,7 +644,6 @@ p {
       font-size: 20px;
       line-height: 30px;
       color: #fff;
-      margin-bottom: 10px;
       display: block;
 }
 
@@ -1944,7 +1942,7 @@ header nav {
       position: relative;
 }
 
-.occations-list .occations-box h3.white-text {
+.occations-list .occations-box .white-text {
       position: absolute;
       left: 20px;
       bottom: 20px;
@@ -2246,9 +2244,15 @@ ul.arrow-list+p {
 .verkoop-list .vision-content p {
     margin-bottom: 25px;
 }
+.werk-colums-section.verkoop-colums {
+    padding-top: 120px;
+}
 @media(max-width:1700px) {
       .services_sections .service_img {
           width: calc(100% - 660px);
+      }
+      .verkoop-two {
+          margin-top: -230px;
       }
       /* New CSS */
       .werk-list-col {
@@ -2326,6 +2330,9 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1599px) {
+      .about-section-two.verkoop-two {
+          margin-top: -260px;
+      }
       .max-w-7xl {
             max-width: 1280px;
       }
@@ -2451,6 +2458,9 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1399px) {
+      .about-section-two.verkoop-two {
+          margin-top: -100px;
+      }
       /* New CSS */
       .werk-content {
             width: 60%;
@@ -2624,10 +2634,6 @@ ul.arrow-list+p {
       .test-top-right {
             padding-left: 106px;
             padding-top: 10px;
-      }
-
-      .auther-detail span.title {
-            margin-bottom: 5px;
       }
 
       .contact-inner .flex.justify-between {
@@ -2842,6 +2848,9 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1149px) {
+      .about-section-two.verkoop-two {
+          margin-top: 40px;
+      }
       .faq-section {
           padding: 70px 60px 120px;
           max-width: 850px;
@@ -3066,6 +3075,20 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1023px) {
+      .verkloop-inner-list h3 {
+          font-size: 24px;
+          margin-bottom: 25px;
+      }
+      .verkloop-inner-list p {
+          font-size: 18px;
+          margin-bottom: 30px;
+      }
+      .verkloop-inner-list ul.dots-list {
+          font-size: 16px;
+      }
+      .about-section-two.verkoop-two {
+          margin-top: -50px;
+      }
       .faq-section {
           padding: 40px 30px 80px;
           max-width: 100%;
@@ -3526,6 +3549,27 @@ ul.arrow-list+p {
 }
 
 @media(max-width:767px) {
+      .verkloop-inner-list h3 {
+          font-size: 22px;
+          margin-bottom: 20px;
+          line-height: 120%;
+      }
+      .verkloop-inner-list p {
+          font-size: 14px;
+          margin-bottom: 25px;
+      }
+      .verkloop-inner-list ul.dots-list {
+          font-size: 14px;
+      }
+      .verkoop-list-sec .vision-content {
+          padding: 50px 0 0;
+      }
+      .werk-colums-section.verkoop-colums {
+          padding-top: 70px;
+      }
+      .werk-boxes .werk-box .werk-content-box li {
+    font-size: 14px;
+      }
       .faq-section {
           padding: 10px 30px 60px;
           max-width: 100%;

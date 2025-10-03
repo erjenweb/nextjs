@@ -92,8 +92,8 @@ function Header({...props}: React.HTMLAttributes<HTMLDivElement>) {
                         </div>
                         <div className="menu-right">
                             <div className="menu-right-top flex items-end">
-                                <h2 className=" ft-48 white-text"><span className="orange-text">uitgelichte</span> <br/>occassions
-                                </h2>
+                                <p className=" ft-48 white-text carla"><span className="orange-text">uitgelichte</span> <br/>occassions
+                                </p>
                                 <Link onClick={ToggleMegaMenu} href="/aanbod"
                                       className="primary-btn orange-bg arrow-btn">bekijk al het aanbod</Link>
                             </div>
@@ -112,7 +112,7 @@ function Header({...props}: React.HTMLAttributes<HTMLDivElement>) {
                                                 />
                                             )}
 
-                                            <h3 className="white-text">{car.merk || 'Car'}<br/>{car.model || 'Model'}</h3>
+                                            <p className="white-text carla">{car.merk || 'Car'}<br/>{car.model || 'Model'}</p>
                                         </Link>
                                     </div>
                                 ))}
@@ -124,15 +124,15 @@ function Header({...props}: React.HTMLAttributes<HTMLDivElement>) {
                     <div className="max-w-7xl mx-auto">
                         <div className="flex items-center">
                             <ul className="contact-info flex">
-                                <li><a href="#">+31 (0) 548 234880</a></li>
-                                <li><a href="#">info@cartelier.nl</a></li>
+                                <li><a href="tel:+31 (0) 548 234880">+31 (0) 548 234880</a></li>
+                                <li><a href="mailto:info@cartelier.nl">info@cartelier.nl</a></li>
                             </ul>
                             <ul className="social-icon flex">
                                 <li><a href="#" className="facebook"><img src="/assets/icons/facebook.svg" alt=""/> </a>
                                 </li>
-                                <li><a href="#" className="linkedin"><img src="/assets/icons/linkedin.svg" alt=""/> </a>
+                                <li><a href="https://www.linkedin.com/company/carteli%C3%A9r/posts/?feedView=all" target="_blank" rel="noopener noreferrer" className="linkedin"><img src="/assets/icons/linkedin.svg" alt=""/> </a>
                                 </li>
-                                <li><a href="#" className="insta"><img src="/assets/icons/instagram.svg" alt=""/> </a>
+                                <li><a href="https://www.instagram.com/cartelier.nl/" target="_blank" rel="noopener noreferrer" className="insta"><img src="/assets/icons/instagram.svg" alt=""/> </a>
                                 </li>
                                 <li><a href="#" className="youtube">
                                     <img src="/assets/icons/youtube.svg" alt=""/> </a></li>

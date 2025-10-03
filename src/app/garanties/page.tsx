@@ -1,5 +1,6 @@
 import React from 'react'
 import FAQ from "@/components/page/faq";
+import Link from "next/link";
 
 function GarantiesPage() {
   return (
@@ -18,7 +19,7 @@ function GarantiesPage() {
                             zorgvuldige selectie kan er
                             altijd een defect ontstaan.
                             Meld deze eenvoudig online via mijn.autotrust.nl</p>
-                        <a href="#" className="primary-btn orange-bg arrow-btn">Contact opnemen</a>
+                        <Link href="/contact" className="primary-btn orange-bg arrow-btn">Contact opnemen</Link>
                     </div>
                     <div className="werk-right">
                         <img src="/assets/image/guaranties-img.png" alt="" />
@@ -58,7 +59,7 @@ function GarantiesPage() {
                             <li>Het brandstofsysteem</li>
                             <li>Emissiesysteem</li>
                         </ul>
-                        <a href="#" className="primary-btn orange-bg arrow-download">download voorwaarden</a>
+                        <a href="/assets/image/autotrust-instap-garantie-2024.pdf" className="primary-btn orange-bg arrow-download" download>download voorwaarden</a>
                         <p className="ft-22">Prijs op aanvraag</p>
                     </div>
                     <div className="werk-list-col">
@@ -76,7 +77,7 @@ function GarantiesPage() {
                             <li>Airconditioning</li>
                         </ul>
                         <p className="ft-18 text-white">*Multimedia is geen onderdeel van de garantie </p>
-                        <a href="#" className="primary-btn orange-bg arrow-download">download voorwaarden</a>
+                        <a href="/assets/image/autotrust-uitgebreid-garantie-2024.pdf" className="primary-btn orange-bg arrow-download" download>download voorwaarden</a>
                         <p className="ft-22 text-white">Prijs op aanvraag </p>
                     </div>
                 </div>

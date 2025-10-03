@@ -29,8 +29,8 @@ function Footer() {
               </div>
               <div className="footer-contact items-center">
                 <ul className="flex items-center">
-                  <li><a href="#" className="primary-btn orange-bg phone-icon">+31 (0) 548 234880</a></li>
-                  <li><a href="#" className="primary-btn orange-bg email-icon">info@cartelier.nl</a></li>
+                  <li><a href="tel:+31 (0) 548 234880" className="primary-btn orange-bg phone-icon">+31 (0) 548 234880</a></li>
+                  <li><a href="mailto:info@cartelier.nl" className="primary-btn orange-bg email-icon">info@cartelier.nl</a></li>
                   <li className="address ft-18 white-text">Galvanistraat 15E, 7461 JC Rijssen</li>
                 </ul>
               </div>
@@ -39,9 +39,7 @@ function Footer() {
           <div className="footer-last">
             <div className="flex">
               <div className="col-4 footer-timing">
-                <p>U kunt ons tijdens kantooruren van maandag tot vrijdag (08:00 - 16:00) bellen. Ons team
-                  staat graag voor u klaar om al
-                  uw vragen te beantwoorden.</p>
+                <p>U kunt ons tijdens van maandag t/m zaterdag (08:00 - 18:00). Ons team staat graag voor u klaar om al uw vragen te beantwoorden. Mocht iedereen in gesprek zijn dan bellen wij u terug.</p>
                 <ul className="flex white-text ft-14">
                   <li>Copyright © 2025 CARTELIER</li>
                   <li>Design by rijnders webdesign</li>
@@ -53,14 +51,12 @@ function Footer() {
                   <ul className="navigation-footer">
                     <li><Link href="/">Home</Link></li>
                     <li><Link href="/over-ons">Over ons</Link></li>
-                    <li><a href="#">Collecties</a></li>
-                    <li><a href="#">Aflevering</a></li>
+                    <li><a href="/aanbod">Collecties</a></li>
+                    <li><a href="/garanties">Garanties</a></li>
                   </ul>
                   <ul className="navigation-footer">
                     <li><Link href="/contact">Contact</Link></li>
-                    <li><a href="#">Onze werkwijze</a></li>
-                    <li><a href="#">Algemene voorwaarden</a></li>
-                    <li><a href="#">Privacy Beleid</a></li>
+                    <li><a href="/werkwijze">Onze werkwijze</a></li>
                   </ul>
                 </div>
               </div>
@@ -68,8 +64,8 @@ function Footer() {
                 <span className="footer-title ft-18 white-text">Socials</span>
                 <ul className="social-icon flex">
                   <li><a href="#" className="facebook"><img src="/assets/icons/facebook.svg" alt="" /></a></li>
-                  <li><a href="#" className="linkedin"><img src="/assets/icons/linkedin.svg" alt="" /></a></li>
-                  <li><a href="#" className="insta"><img src="/assets/icons/instagram.svg" alt="" /></a></li>
+                  <li><a href="https://www.linkedin.com/company/carteli%C3%A9r/posts/?feedView=all" target="_blank" rel="noopener noreferrer" className="linkedin"><img src="/assets/icons/linkedin.svg" alt="" /></a></li>
+                  <li><a href="https://www.instagram.com/cartelier.nl/" target="_blank" rel="noopener noreferrer" className="insta"><img src="/assets/icons/instagram.svg" alt="" /></a></li>
                   <li><a href="#" className="youtube"><img src="/assets/icons/youtube.svg" alt="" /></a></li>
                 </ul>
               </div>
