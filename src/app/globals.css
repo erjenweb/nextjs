@@ -210,7 +210,7 @@ header:before {
       max-height: 100vh;
       height: 100vh;
       overflow: hidden;
-      align-items: flex-end;
+      align-items: center;
 }
 
 .hero-with-banner:before {
@@ -225,13 +225,22 @@ header:before {
 }
 
 .hero-with-banner .hero-content {
-      padding-bottom: 84px;
+      padding-bottom: 0px;
 }
 
 .hero-with-banner .hero-content .mt-52 {
-      margin-top: 272px;
+    margin-top: 0;
+    position: fixed;
+    bottom: 50px;
+    background: hsl(0deg 0% 0% / 20%);
+    max-width: calc(1627px + 80px);
+    width: 100%;
+    padding: 40px 40px;
+    border-radius: 90px;
+    backdrop-filter: blur(10px);
+    left: 50%;
+    transform: translateX(-50%);
 }
-
 .leading-tight {
       font-size: 120px;
       line-height: 90%;
