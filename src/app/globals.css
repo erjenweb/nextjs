@@ -2198,6 +2198,20 @@ ul.arrow-list+p {
     line-height: 28px;
     padding: 0 30px 20px;
 }
+.faq-section .rounded-2xl button svg {
+    width: 30px;
+    height: 30px;
+      transition:0.5s all;
+}
+.faq-section .rounded-2xl button svg rect, .faq-section .rounded-2xl button svg path{
+      transition:0.5s all;
+}
+.faq-section .rounded-2xl button svg.rotate-180 rect {
+    fill: #ea580c !important;
+}
+.faq-section .rounded-2xl button svg.rotate-180 path{
+      fill: #fff;
+}
 
 @media(max-width:1700px) {
       .services_sections .service_img {
