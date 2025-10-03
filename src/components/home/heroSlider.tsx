@@ -23,6 +23,7 @@ function HeroSlider({ ...props }: React.HTMLAttributes<HTMLDivElement>) {
           </h1>
         </div>
 
+        <div className="home_sticky">
         <div className="flex items-center justify-between mt-52">
           <div className="flex items-center">
             {/* First Link */}
@@ -47,6 +48,7 @@ function HeroSlider({ ...props }: React.HTMLAttributes<HTMLDivElement>) {
           </p>
         </div>
       </div>
+        </div>
     </section>
   );
 }
