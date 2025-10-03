@@ -29,8 +29,8 @@ function FAQ() {
   };
 
   return (
-    <section className="max-w-2xl mx-auto p-6">
-      <h2 className="mb-6 text-center ft-48 white-color">
+    <section className="max-w-2xl mx-auto p-6 faq-section">
+      <h2 className="mb-6 text-center ft-48 white-text">
         <span className="orange-text">veelgestelde</span> vragen
       </h2>
       <div className="space-y-4">
