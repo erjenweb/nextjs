@@ -2332,7 +2332,7 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1599px) {
-      .verkoop-two {
+      .about-section-two.verkoop-two {
           margin-top: -260px;
       }
       .max-w-7xl {
@@ -2460,7 +2460,7 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1399px) {
-      .verkoop-two {
+      .about-section-two.verkoop-two {
           margin-top: -100px;
       }
       /* New CSS */
@@ -2854,7 +2854,7 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1149px) {
-      .verkoop-two {
+      .about-section-two.verkoop-two {
           margin-top: 40px;
       }
       .faq-section {
@@ -3081,7 +3081,7 @@ ul.arrow-list+p {
 }
 
 @media(max-width:1023px) {
-      .verkoop-two {
+      .about-section-two.verkoop-two {
           margin-top: -50px;
       }
       .faq-section {
