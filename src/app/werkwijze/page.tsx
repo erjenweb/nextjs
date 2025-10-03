@@ -1,5 +1,6 @@
 import React from 'react'
 import FAQ from "@/components/page/faq";
+import Link from "next/link";
 
 function WerkwijzePage() {
   return (
@@ -9,12 +10,8 @@ function WerkwijzePage() {
                 <div className="flex justify-between">
                     <div className="werk-content">
                         <h1 className="ft-48 white-text"><span className="orange-text">onze</span> werkwijze</h1>
-                        <p className="ft-22 white-text">Bij Cartelier BV bieden wij twee mogelijkheden om u van dienst te
-                            zijn: bemiddeling bij het vinden van uw droomauto óf
-                            directe aankoop uit ons zorgvuldig geselecteerde aanbod. In beide gevallen staat kwaliteit,
-                            transparantie en
-                            persoonlijke aandacht centraal.</p>
-                        <a href="#" className="primary-btn orange-bg arrow-btn">Contact opnemen</a>
+                        <p className="ft-22 white-text">Bij Carteliér bieden wij diverse mogelijkheden om u van dienst te zijn: bemiddeling bij het vinden van uw droomauto en directe aankoop uit ons zorgvuldig geselecteerde aanbod. Daarnaast kunnen wij in opdracht van u uw auto verkopen, vanzelfsprekend zal de auto eerst onderworpen worden aan een uitgebreide occasionkeuring, dit biedt zekerheid voor u en de toekomstige klant. In alle gevallen staat kwaliteit, transparantie en persoonlijke aandacht centraal.</p>
+                        <Link href="/contact" className="primary-btn orange-bg arrow-btn">Contact opnemen</Link>
                     </div>
                     <div className="werk-right">
                         <img src="/assets/image/contact-img.webp" alt="" />
@@ -50,7 +47,7 @@ function WerkwijzePage() {
                                 <li>Eigen aanbod: wij kopen zelfstandig auto’s in die voldoen aan onze hoge
                                     kwaliteitsstandaard en representatief zijn voor
                                     ons aanbod. Belangrijk voor ons is dat de auto’s eerlijk, betrouwbaar en
-                                    dealeronderhouden zijn</li>
+                                    dealeronderhouden zijn.</li>
                             </ul>
                         </div>
                     </div>
