@@ -2246,6 +2246,9 @@ ul.arrow-list+p {
 .verkoop-list .vision-content p {
     margin-bottom: 25px;
 }
+.werk-colums-section.verkoop-colums {
+    padding-top: 120px;
+}
 @media(max-width:1700px) {
       .services_sections .service_img {
           width: calc(100% - 660px);
