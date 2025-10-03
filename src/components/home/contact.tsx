@@ -1,5 +1,27 @@
+'use client'
 import React from 'react'
+import { useForm, SubmitHandler } from 'react-hook-form';
+import { useRouter } from 'next/navigation';
+
+interface IFormInput {
+  firstName: string,
+  email: string,
+  telefoonnummer: string,
+  automerk: string,
+  model: string,
+  kleur: string,
+  opmerkingen: string,
+
+}
 function Contact() {
+  const router = useRouter();
+  const { register, formState: { errors }, handleSubmit } = useForm<IFormInput>();
+
+  const onSubmit: SubmitHandler<IFormInput> = (data) => {
+    router.refresh();
+  };
+
+
   return (
     <section className="contact-section pd-70">
       <div className="contact-inner">
@@ -15,20 +37,36 @@ function Contact() {
           </div>
           <div className="flex justify-between">
             <div className="contact-form">
+              <form onSubmit={handleSubmit(onSubmit)}>
               <div className="form-first">
                 <span className="title">persoonlijke gegevens</span>
                 <div className="flex justify-between">
                   <div className="input-field">
-                    <label htmlFor="">Volledige naam</label>
-                    <input type="text" placeholder="Hoe mogen we je noemen" />
+                    <label htmlFor="firstName">Volledige naam</label>
+                    <input id='firstName' type="text" placeholder="Hoe mogen we je noemen"
+                           { ...register("firstName", { required: true })}
+                           aria-invalid={errors.firstName ? "true" : "false"} />
+                    {errors.firstName?.type === "required" && (
+                        <span className="mx-3 text-sm text-red-500">Dit is een verplicht.</span>
+                    )}
                   </div>
                   <div className="input-field">
-                    <label htmlFor="">E-mailadres</label>
-                    <input type="text" placeholder="vul je e-mailadres in" />
+                    <label htmlFor="email">E-mailadres</label>
+                    <input id='email' type="text" placeholder="vul je e-mailadres in"
+                           { ...register("email", { required: true })}
+                           aria-invalid={errors.email ? "true" : "false"} />
+                    {errors.email?.type === "required" && (
+                        <span className="mx-3 text-sm text-red-500">Dit is een verplicht.</span>
+                    )}
                   </div>
                   <div className="input-field">
-                    <label htmlFor="">Telefoonnummer</label>
-                    <input type="text" placeholder="Je telefoonnummer" />
+                    <label htmlFor="telefoonnummer">Telefoonnummer</label>
+                    <input id={"telefoonnummer"} type="text" placeholder="Je telefoonnummer"
+                           { ...register("telefoonnummer", { required: true })}
+                           aria-invalid={errors.telefoonnummer ? "true" : "false"} />
+                    {errors.telefoonnummer?.type === "required" && (
+                        <span className="mx-3 text-sm text-red-500">Dit is een verplicht.</span>
+                    )}
                   </div>
                 </div>
               </div>
@@ -36,16 +74,31 @@ function Contact() {
                 <span className="title">gegevens zoekopdracht</span>
                 <div className="flex justify-between">
                   <div className="input-field">
-                    <label htmlFor="">Automerk</label>
-                    <input type="text" placeholder="Vul automerk in" />
+                    <label htmlFor="automerk">Automerk</label>
+                    <input id={"automerk"} type="text" placeholder="Vul automerk in"
+                           { ...register("automerk", { required: true })}
+                           aria-invalid={errors.automerk ? "true" : "false"} />
+                    {errors.automerk?.type === "required" && (
+                        <span className="mx-3 text-sm text-red-500">Dit is een verplicht.</span>
+                    )}
                   </div>
                   <div className="input-field">
-                    <label htmlFor="">Model</label>
-                    <input type="text" placeholder="Model" />
+                    <label htmlFor="model">Model</label>
+                    <input id={"model"} type="text" placeholder="Model"
+                           { ...register("model", { required: true })}
+                           aria-invalid={errors.model ? "true" : "false"} />
+                    {errors.model?.type === "required" && (
+                        <span className="mx-3 text-sm text-red-500">Dit is een verplicht.</span>
+                    )}
                   </div>
                   <div className="input-field">
-                    <label htmlFor="">Kleur</label>
-                    <input type="text" placeholder="Vul gewenste kleur in" />
+                    <label htmlFor="kleur">Kleur</label>
+                    <input type="text" placeholder="Vul gewenste kleur in"
+                           { ...register("kleur", { required: true })}
+                           aria-invalid={errors.kleur ? "true" : "false"} />
+                    {errors.kleur?.type === "required" && (
+                        <span className="mx-3 text-sm text-red-500">Dit is een verplicht.</span>
+                    )}
                   </div>
                   <div className="input-field">
                     <label htmlFor="">Max. km stand</label>
@@ -55,15 +108,22 @@ function Contact() {
               </div>
               <div className="form-third">
                 <div className="input-field">
-                  <label htmlFor="">Aanvullende opmerkingen</label>
-                  <textarea name="" id=""
-                    placeholder="Eventuele extra wensen, belangrijke opties en/of opmerkingen kunnen hier ingevuld worden."></textarea>
+                  <label htmlFor="opmerkingen">Aanvullende opmerkingen</label>
+                  <textarea id="opmerkingen"
+                    placeholder="Eventuele extra wensen, belangrijke opties en/of opmerkingen kunnen hier ingevuld worden."      { ...register("opmerkingen", { required: true })}
+                            aria-invalid={errors.opmerkingen ? "true" : "false"} >
+                </textarea>
+                  {errors.opmerkingen?.type === "required" && (
+                      <span className="mx-3 text-sm text-red-500">Dit is een verplicht.</span>
+                  )}
                 </div>
               </div>
               <div className="submit-btn">
-                <button className="primary-btn arrow-btn grey-bg">Verzenden</button>
+                <button type="submit" className="primary-btn arrow-btn grey-bg">Verzenden</button>
               </div>
+              </form>
             </div>
+
             <div className="contact-right-box">
               <div className="contact-right-inner orange-bg">
                 <span className="title">contact opnemen</span>

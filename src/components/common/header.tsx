@@ -100,7 +100,7 @@ function Header({...props}: React.HTMLAttributes<HTMLDivElement>) {
                             <div className="occations-list flex justify-between">
                                 {menuCars && menuCars.map((car:Car) => (
                                     <div key={car._id} className="occations-box">
-                                        <Link href={`/product/${car.hexon_nr}`}>
+                                        <Link href={`/product/${car.hexon_nr}`}  onClick={ToggleMegaMenu}>
                                             {car.images?.length > 0 && (
                                                 <Image
                                                     height={600}
