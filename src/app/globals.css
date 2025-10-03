@@ -644,7 +644,6 @@ p {
       font-size: 20px;
       line-height: 30px;
       color: #fff;
-      margin-bottom: 10px;
       display: block;
 }
 
@@ -2635,10 +2634,6 @@ ul.arrow-list+p {
       .test-top-right {
             padding-left: 106px;
             padding-top: 10px;
-      }
-
-      .auther-detail span.title {
-            margin-bottom: 5px;
       }
 
       .contact-inner .flex.justify-between {
