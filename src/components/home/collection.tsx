@@ -70,6 +70,12 @@ function Collection({ cars }: CarListProps) {
             1024: { slidesPerView: 'auto' },
           }}
           modules={[Navigation, Pagination]}
+          simulateTouch={true}
+          grabCursor={true}
+          allowTouchMove={true}
+          touchRatio={1}
+          touchAngle={45}
+          threshold={5}
         >
           {cars.map((car) => (
             <SwiperSlide key={car._id}>
