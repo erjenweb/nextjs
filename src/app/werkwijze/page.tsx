@@ -104,7 +104,7 @@ function WerkwijzePage() {
                 </div>
             </div>
         </section>
-      <section className="about-faq">
+      <section className="about-faq werk-faq">
         <FAQ />
       </section>
     </>
