@@ -64,14 +64,7 @@ function verkoopConsignatiePage() {
                 <li>Plaatsen van uw voertuig op minimaal tien autowebsites voor drie maanden, voor maximaal bereik van potentiele klanten (Verlenging in overleg mogelijk)</li>
               </ul>
               </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <section className="about-vision-section verkoop-sec">
-        <div className="max-w-7xl mx-auto">
-          <div className="flex items-center">
-            <div className="vision-content">
+               <div className="vision-content">
               <h3 className="ft-48 white-text"><span className="orange-text">Onze</span><br /> Visie</h3>
               <p>Cartelier wil uitgroeien tot een gevestigde naam in Twente voor kwalitatieve autos uit het
                 midden- en hoogsegment. Wij
@@ -81,9 +74,10 @@ function verkoopConsignatiePage() {
                 prijzen en betrokken service
                 willen we uitblinken in betrouwbaarheid en klanttevredenheid.</p>
             </div>
+            </div>
           </div>
         </div>
-      </section >
+      </section>
       <section className="contact-section pd-70">
         <div className="contact-inner">
           <div className="max-w-7xl mx-auto">
