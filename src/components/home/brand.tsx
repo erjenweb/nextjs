@@ -21,7 +21,7 @@ function Brand() {
           className="swiper brand-slider"
           slidesPerView={3}
           spaceBetween={40}
-          autoplay={true}
+          autoplay={false}
 
           pagination={{ clickable: true }}
           breakpoints={{
