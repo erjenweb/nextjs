@@ -603,6 +603,13 @@ p {
 .brand-logo {
       min-height: 89px;
 }
+.brand-logo img {
+    filter: grayscale(100%) brightness(1) invert(1);
+    transition: 0.5s all;
+}
+.brand-logo img:hover{
+      filter:initial;
+}
 
 .text-center {
       text-align: center;
@@ -2246,6 +2253,14 @@ ul.arrow-list+p {
 }
 .werk-colums-section.verkoop-colums {
     padding-top: 120px;
+}
+.detail-banner img {
+    height: 100vh;
+    object-fit: cover;
+    transform: scale(1.2);
+}
+section.detail-banner {
+    overflow: hidden;
 }
 @media(max-width:1700px) {
       .services_sections .service_img {
