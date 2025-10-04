@@ -2254,6 +2254,11 @@ ul.arrow-list+p {
 .werk-colums-section.verkoop-colums {
     padding-top: 120px;
 }
+.detail-banner img {
+    height: 100vh;
+    object-fit: cover;
+    transform: scale(1.2);
+}
 @media(max-width:1700px) {
       .services_sections .service_img {
           width: calc(100% - 660px);
