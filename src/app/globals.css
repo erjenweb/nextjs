@@ -603,6 +603,13 @@ p {
 .brand-logo {
       min-height: 89px;
 }
+.brand-logo img {
+    filter: grayscale(100%) brightness(1) invert(1);
+    transition: 0.5s all;
+}
+.brand-logo img:hover{
+      filter:initial;
+}
 
 .text-center {
       text-align: center;
