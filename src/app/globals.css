@@ -2259,6 +2259,9 @@ ul.arrow-list+p {
     object-fit: cover;
     transform: scale(1.2);
 }
+section.detail-banner {
+    overflow: hidden;
+}
 @media(max-width:1700px) {
       .services_sections .service_img {
           width: calc(100% - 660px);
