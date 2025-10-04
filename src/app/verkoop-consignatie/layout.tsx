@@ -9,10 +9,10 @@ export default function Layout({
 }) {
 
   useEffect(() => {
-    document.body.classList.add('contact-page');
+    document.body.classList.add('verkoop-consignatie');
 
     // unmount action
-    return () => document.body.classList.remove('contact-page');
+    return () => document.body.classList.remove('verkoop-consignatie');
   }, [])
 
 
