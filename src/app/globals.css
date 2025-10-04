@@ -2254,7 +2254,7 @@ ul.arrow-list+p {
 .werk-colums-section.verkoop-colums {
     padding-top: 120px;
 }
-.detail-banner img {
+.detail-banner img.w-full {
     height: 100vh;
     object-fit: cover;
     transform: scale(1.2);
